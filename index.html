@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>DIVE | Psikoloji & İyi Yaşam</title>
+    <meta name="description" content="DIVE Psikoloji: Ruh sağlığı, kişisel gelişim, sağlıklı yaşam ve ebeveynlik üzerine güncel ve güvenilir içerik platformu.">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,700;1,600&display=swap" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    
+    <style>
+        /* --- DIVE V1.3 TEMA (FOOTER EKLENDİ) --- */
+        :root { 
+            --bg: #fafdfc;
+            --text: #2c3e50;
+            --primary: #2a9d8f;
+            --secondary: #e9c46a;
+            --gray: #f0f4f3;
+            --footer-bg: #23303d; /* Koyu Lacivert Footer */
+            --footer-text: #bdc3c7; 
+        }
+
+        html, body { margin: 0; padding: 0; background-color: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; -webkit-tap-highlight-color: transparent; display: flex; flex-direction: column; min-height: 100vh; }
+        body.stop-scrolling { height: 100vh; overflow: hidden; position: fixed; width: 100%; }
+        h1, h2, h3, .brand-name, .pin-title, .footer-brand { font-family: 'Playfair Display', serif; }
+        * { box-sizing: border-box; outline: none; }
+        a { text-decoration: none; color: inherit; }
+
+        /* HEADER & CAT-BAR (Aynı Kalıyor) */
+        .header { position: fixed; top: 0; width: 100%; height: 70px; background: rgba(255,255,255,0.98); z-index: 100; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; box-shadow: 0 2px 15px rgba(42, 157, 143, 0.1); backdrop-filter: blur(10px); }
+        .brand-container { display: flex; align-items: center; gap: 8px; cursor: pointer; }
+        .logo-icon { font-size: 1.8rem; color: var(--primary); }
+        .brand-name { font-weight: 800; font-size: 1.4rem; letter-spacing: -0.5px; color: var(--text); }
+        .search-container { flex: 1; max-width: 500px; margin: 0 20px; display: none; }
+        .search-bar { width: 100%; background: var(--gray); border: 1px solid transparent; padding: 10px 20px; border-radius: 50px; font-size: 0.9rem; color: #555; transition: 0.3s; }
+        .search-bar:focus { background: white; border-color: var(--primary); box-shadow: 0 0 0 3px rgba(42, 157, 143, 0.15); }
+        .mobile-menu-icon { font-size:1.6rem; color:var(--primary); cursor:pointer; display:block; }
+        @media(min-width: 768px) { .header { height: 80px; padding: 0 30px; } .brand-name { font-size: 1.8rem; .logo-icon { font-size: 2.2rem; } } .search-container { display: block; } .mobile-menu-icon { display: none; } }
+        .cat-bar { position: fixed; top: 70px; width: 100%; background: rgba(255,255,255,0.98); z-index: 90; padding: 12px 20px; overflow-x: auto; display: flex; gap: 10px; -webkit-overflow-scrolling: touch; scrollbar-width: none; -ms-overflow-style: none; mask-image: linear-gradient(to right, black 85%, transparent 100%); }
+        .cat-bar::-webkit-scrollbar { display: none; }
+        .cat-btn { padding: 8px 16px; border-radius: 30px; background: white; border: 1px solid #ddd; font-size: 0.85rem; font-weight: 600; color: #666; cursor: pointer; white-space: nowrap; transition: 0.2s; flex-shrink: 0; }
+        .cat-btn:hover, .cat-btn.active { background: var(--primary); color: white; border-color: var(--primary); }
+        @media(min-width: 768px) { .cat-bar { top: 80px; justify-content: center; padding: 15px 0; mask-image: none; } }
+        
+        /* MAIN CONTENT (Footer için itme) */
+        .main-content { flex: 1; }
+        .container { max-width: 1600px; margin: 140px auto 60px; padding: 0 15px; }
+        .gallery { column-count: 2; column-gap: 15px; }
+        @media (min-width: 600px) { .gallery { column-count: 3; column-gap: 20px; } }
+        @media (min-width: 1000px) { .gallery { column-count: 4; } }
+
+        /* KART & LOADER & MODAL (Aynı Kalıyor) */
+        .pin { break-inside: avoid; margin-bottom: 15px; border-radius: 16px; overflow: hidden; position: relative; cursor: pointer; background: white; transition: 0.3s; box-shadow: 0 5px 20px rgba(0,0,0,0.06); transform: translateZ(0); -webkit-tap-highlight-color: rgba(42, 157, 143, 0.2); }
+        .pin:active { transform: scale(0.98); }
+        .pin img { width: 100%; height: auto; display: block; pointer-events: none; }
+        .pin-content { padding: 12px; pointer-events: none; }
+        .pin-title { font-weight: 700; font-size: 0.95rem; line-height: 1.35; color: #222; margin-bottom: 6px; }
+        .pin-cat { font-size: 0.7rem; color: var(--primary); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; }
+        #loader { position: fixed; inset: 0; background: var(--bg); z-index: 999; display: flex; flex-direction: column; justify-content: center; align-items: center; transition: 0.5s; }
+        .loader-icon { font-size: 3.5rem; color: var(--primary); margin-bottom: 15px; animation: pulse 2s infinite; }
+        @keyframes pulse { 0% {transform: scale(1); opacity: 1;} 50% {transform: scale(1.1); opacity: 0.7;} 100% {transform: scale(1); opacity: 1;} }
+        .modal { display: none; position: fixed; inset: 0; background: rgba(44, 62, 80, 0.85); z-index: 1000; padding: 0; align-items: flex-end; justify-content: center; backdrop-filter: blur(5px); }
+        .modal-card { background: white; width: 100%; height: 90vh; border-radius: 24px 24px 0 0; display: flex; flex-direction: column; position: relative; box-shadow: 0 -10px 40px rgba(0,0,0,0.2); animation: slideUp 0.3s ease-out; overflow-y: auto; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; }
+        @keyframes slideUp { from {transform: translateY(100%);} to {transform: translateY(0);} }
+        .modal-img-area img { width: 100%; max-height: 300px; object-fit: cover; }
+        .modal-content-area { padding: 25px 20px 60px 20px; }
+        @media (min-width: 800px) { .modal { padding: 20px; align-items: center; } .modal-card { max-width: 1000px; height: 85vh; flex-direction: row; border-radius: 24px; animation: none; overflow: hidden; } .modal-img-area { width: 55%; background: #f0f0f0; display: flex; align-items: center; justify-content: center; height: 100%; } .modal-img-area img { width: 100%; height: 100%; max-height: none; } .modal-content-area { width: 45%; padding: 50px; overflow-y: auto; height: 100%; } }
+        .close-modal { position: absolute; top: 15px; right: 15px; font-size: 1.5rem; background: rgba(255,255,255,0.95); border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 10; color: var(--text); box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        @media(min-width: 800px) { .close-modal { top:20px; left:20px; right:auto; background: white; } }
+
+        /* --- YENİ FOOTER TASARIMI --- */
+        .footer { background: var(--footer-bg); color: var(--footer-text); padding: 50px 20px 30px; margin-top: auto; }
+        .footer-content { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 1fr; gap: 40px; }
+        .footer-brand { font-size: 1.8rem; color: white; margin-bottom: 15px; display: flex; align-items: center; gap: 10px; }
+        .footer-tagline { font-size: 0.95rem; line-height: 1.6; opacity: 0.8; max-width: 400px; }
+        .footer-links h3 { color: white; font-size: 1.1rem; margin-bottom: 20px; }
+        .footer-links ul { list-style: none; padding: 0; margin: 0; }
+        .footer-links li { margin-bottom: 12px; }
+        .footer-links a { transition: 0.3s; font-size: 0.95rem; }
+        .footer-links a:hover { color: var(--primary); }
+        .footer-bottom { margin-top: 50px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.1); text-align: center; font-size: 0.85rem; opacity: 0.6; }
+        @media (min-width: 768px) { .footer-content { grid-template-columns: 2fr 1fr 1fr; } .footer-bottom { text-align: left; display: flex; justify-content: space-between; } }
+    </style>
+</head>
+<body>
+
+    <div id="loader">
+        <i class='bx bxs-spa loader-icon'></i>
+        <div style="font-weight:600; color:#666; letter-spacing: 1px; font-size: 0.9rem;">YÜKLENİYOR...</div>
+    </div>
+
+    <header class="header">
+        <div class="brand-container" onclick="location.reload()">
+            <i class='bx bxs-spa logo-icon'></i>
+            <div class="brand-name">DIVE</div>
+        </div>
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-bar" placeholder="Konu ara..." onkeyup="aramaYap()">
+        </div>
+        <i class='bx bx-menu-alt-right mobile-menu-icon'></i>
+    </header>
+
+    <div class="cat-bar" id="catBar">
+        <button class="cat-btn active" onclick="filtrele('Hepsi', this)">Tümü</button>
+        <button class="cat-btn" onclick="filtrele('Psikoloji', this)">Psikoloji</button>
+        <button class="cat-btn" onclick="filtrele('Ruh Sağlığı', this)">Ruh Sağlığı</button>
+        <button class="cat-btn" onclick="filtrele('Çocuk ve Ergen', this)">Çocuk & Ergen</button>
+        <button class="cat-btn" onclick="filtrele('Kişisel Gelişim', this)">Kişisel Gelişim</button>
+        <button class="cat-btn" onclick="filtrele('Beslenme', this)">Beslenme</button>
+        <button class="cat-btn" onclick="filtrele('İlişkiler', this)">İlişkiler</button>
+        <button class="cat-btn" onclick="filtrele('Meditasyon', this)">Meditasyon</button>
+    </div>
+
+    <main class="main-content">
+        <div class="container">
+            <div id="gallery" class="gallery"></div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div>
+                <div class="footer-brand"><i class='bx bxs-spa'></i> DIVE PSİKOLOJİ</div>
+                <p class="footer-tagline">Ruh sağlığı, kişisel gelişim ve iyi yaşam üzerine güvenilir, ilham veren içerik platformu. Zihninize iyi bakın.</p>
+            </div>
+            <div class="footer-links">
+                <h3>Keşfet</h3>
+                <ul>
+                    <li><a href="#" onclick="filtrele('Ruh Sağlığı', document.querySelectorAll('.cat-btn')[2])">Ruh Sağlığı</a></li>
+                    <li><a href="#" onclick="filtrele('Kişisel Gelişim', document.querySelectorAll('.cat-btn')[4])">Kişisel Gelişim</a></li>
+                    <li><a href="#" onclick="filtrele('Beslenme', document.querySelectorAll('.cat-btn')[5])">Sağlıklı Beslenme</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h3>Kurumsal</h3>
+                <ul>
+                    <li><a href="#">Hakkımızda</a></li>
+                    <li><a href="#">İletişim</a></li>
+                    <li><a href="#">Gizlilik Politikası</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div>© 2024 DIVE GLOBAL MEDYA A.Ş. Tüm hakları saklıdır.</div>
+        </div>
+    </footer>
+
+    <div id="modal" class="modal" onclick="if(event.target.id=='modal') closeModal()">
+        <div class="modal-card">
+            <div class="close-modal" onclick="closeModal()"><i class='bx bx-x'></i></div>
+            <div class="modal-img-area"><img id="m-img" src=""></div>
+            <div class="modal-content-area">
+                <div id="m-cat" style="color:var(--primary); font-weight:800; font-size:0.8rem; margin-bottom:10px; text-transform:uppercase; letter-spacing:1px;"></div>
+                <h1 id="m-title" style="margin:0 0 20px 0; font-size:1.8rem; line-height:1.25; color:var(--text);"></h1>
+                <div id="m-txt" style="font-size:1.1rem; line-height:1.7; color:#555;"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // --- GOOGLE LINKINI BURAYA YAPISTIR ---
+        const API_URL = "https://script.google.com/macros/s/AKfycbwSZStL5acvi7oyfjTvd9VpcAkEBKmaJqt3drU278o0Nxvp9dcmdQBmCdzlR2peMx2bTA/exec"; 
+        // -------------------------------------
+
+        let allData = [];
+        function karistir(array) { for (let i = array.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [array[i], array[j]] = [array[j], array[i]]; } return array; }
+        async function init() { try { const res = await fetch(API_URL); let data = await res.json(); data = data.filter(item => item.baslik && item.baslik !== "" && item.gorsel_url && item.gorsel_url.length > 5); allData = karistir(data); renderGallery(allData); document.getElementById('loader').style.opacity = '0'; setTimeout(() => { document.getElementById('loader').style.display = 'none'; }, 500); } catch (error) { console.error(error); } }
+        function renderGallery(data) { const gallery = document.getElementById('gallery'); gallery.innerHTML = ""; if(data.length === 0) { gallery.innerHTML = "<h3 style='text-align:center; width:100%; color:#999; margin-top:50px; font-size:1rem;'>Bu kategoride içerik yok.</h3>"; return; } data.forEach((item, index) => { gallery.innerHTML += ` <div class="pin" onclick="openModal(${index})"> <img src="${item.gorsel_url}" loading="lazy" alt="${item.baslik}"> <div class="pin-content"> <div class="pin-title">${item.baslik}</div> <div class="pin-cat">${item.kategori}</div> </div> </div> `; }); }
+        function filtrele(kategori, btn) { document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active')); if(btn) btn.classList.add('active'); if (kategori === 'Hepsi') { renderGallery(allData); } else { const filtreli = allData.filter(item => item.kategori.includes(kategori)); renderGallery(filtreli); } window.scrollTo({ top: 0, behavior: 'smooth' }); }
+        function aramaYap() { const kelime = document.getElementById('searchInput').value.toLowerCase(); const sonuc = allData.filter(item => item.baslik.toLowerCase().includes(kelime)); renderGallery(sonuc); }
+        function openModal(index) { const item = allData[index]; document.getElementById('m-img').src = item.gorsel_url; document.getElementById('m-title').innerText = item.baslik; document.getElementById('m-cat').innerText = item.kategori; document.getElementById('m-txt').innerHTML = item.icerik; document.getElementById('modal').style.display = 'flex'; document.body.classList.add('stop-scrolling'); }
+        function closeModal() { document.getElementById('modal').style.display = 'none'; document.body.classList.remove('stop-scrolling'); }
+        init();
+    </script>
+</body>
+</html>
