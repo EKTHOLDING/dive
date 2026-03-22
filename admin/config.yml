@@ -1,0 +1,27 @@
+backend:
+  name: github
+  repo: EKTHOLDING/dive
+  branch: main
+
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "yazilar"
+    label: "✨ Yeni Yazı Ekle"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      
+      - {label: "🎯 Konu / Başlık", name: "title", widget: "string", hint: "Yazının başlığı ne olsun?"}
+      
+      - label: "📂 Ana Kategori"
+        name: "kategori"
+        widget: "select"
+        options: ["Klinik Psikoloji ve Ruh Sağlığı", "İlişki ve Aile Psikolojisi", "Üretkenlik ve Zihinsel Performans", "Duygusal Zeka ve Öz Farkındalık", "İş, Kariyer ve Sosyal Psikoloji", "Popüler ve Niş Konular"]
+      
+      - {label: "📸 Mükemmel Görseli Seç", name: "image", widget: "image", hint: "Bilgisayardan veya telefondan fotoğrafı buraya yükle."}
+      
+      - {label: "📝 Yazını Buraya Dök", name: "body", widget: "markdown", hint: "İçinden geldiği gibi yaz. Başlıklar için metni seçip 'H1, H2' yapabilirsin."}
