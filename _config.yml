@@ -1,0 +1,12 @@
+title: DIVE Medya
+description: Ruh sağlığı, kişisel gelişim ve iyi yaşam üzerine güncel platform.
+url: "https://www.divemedya.com"
+
+# Jekyll Ayarları (Burası Motorun Beyni)
+markdown: kramdown
+permalink: /:categories/:title/
+
+# Gelecekte ekleyeceğimiz koleksiyonlar ve kategoriler için ayar
+collections:
+  posts:
+    output: true
