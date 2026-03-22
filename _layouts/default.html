@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>{{ page.title }} | DIVE</title>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z8XQWY4Y5W"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-Z8XQWY4Y5W');
+    </script>
+    <script async defer data-pin-hover="true" data-pin-tall="true" src="//assets.pinterest.com/js/pinit.js"></script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Playfair+Display:ital,wght@0,700;1,600&display=swap" rel="stylesheet">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    
+    <style>
+        :root { --bg: #fafdfc; --text: #2c3e50; --primary: #2a9d8f; --footer-bg: #23303d; }
+        body { margin: 0; background-color: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; display: flex; flex-direction: column; min-height: 100vh; }
+        a { text-decoration: none; color: inherit; }
+        
+        .header { position: fixed; top: 0; width: 100%; height: 70px; background: rgba(255,255,255,0.98); z-index: 100; display: flex; align-items: center; padding: 0 20px; box-shadow: 0 2px 15px rgba(42, 157, 143, 0.1); }
+        .brand-container { display: flex; align-items: center; gap: 8px; font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: bold;}
+        .logo-icon { color: var(--primary); }
+        
+        /* Makalelerin ve Sayfaların Oturacağı Alan */
+        .main-content { flex: 1; margin-top: 100px; padding: 20px; max-width: 1000px; margin-left: auto; margin-right: auto; width: 100%; }
+        
+        .footer { background: var(--footer-bg); color: white; padding: 40px 20px; margin-top: auto; text-align: center; font-size: 0.9rem; opacity: 0.8;}
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <a href="/" class="brand-container">
+            <i class='bx bxs-spa logo-icon'></i> DIVE
+        </a>
+    </header>
+
+    <main class="main-content">
+        {{ content }}
+    </main>
+
+    <footer class="footer">
+        © 2026 DIVE GLOBAL MEDYA A.Ş. Tüm hakları saklıdır.
+    </footer>
+
+</body>
+</html>
