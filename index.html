@@ -3,27 +3,28 @@ layout: default
 title: Ana Sayfa
 ---
 
-<div class="cat-bar" style="margin-top: 20px; display: flex; gap: 10px; justify-content: center; padding: 10px; overflow-x: auto; flex-wrap: wrap;">
+<nav class="cat-bar" aria-label="Kategoriler" style="margin-top: 20px; display: flex; gap: 10px; justify-content: center; padding: 10px; overflow-x: auto; flex-wrap: wrap;">
     <a href="/" class="cat-btn" style="padding: 8px 16px; border-radius: 30px; background: var(--primary); color: white; font-weight: bold; text-decoration: none;">Tümü</a>
     <a href="/klinik-psikoloji" class="cat-btn" style="padding: 8px 16px; border-radius: 30px; background: white; border: 1px solid #ddd; color: #666; text-decoration: none;">Klinik Psikoloji</a>
     <a href="/iliski-ve-aile" class="cat-btn" style="padding: 8px 16px; border-radius: 30px; background: white; border: 1px solid #ddd; color: #666; text-decoration: none;">İlişki ve Aile</a>
     <a href="/uretkenlik" class="cat-btn" style="padding: 8px 16px; border-radius: 30px; background: white; border: 1px solid #ddd; color: #666; text-decoration: none;">Üretkenlik</a>
     <a href="/duygusal-zeka" class="cat-btn" style="padding: 8px 16px; border-radius: 30px; background: white; border: 1px solid #ddd; color: #666; text-decoration: none;">Duygusal Zeka</a>
     <a href="/is-ve-kariyer" class="cat-btn" style="padding: 8px 16px; border-radius: 30px; background: white; border: 1px solid #ddd; color: #666; text-decoration: none;">İş & Kariyer</a>
-    <a href="/populer-konular" class="cat-btn" style="padding: 8px 16px; border-radius: 30px; background: white; border: 1px solid #ddd; color: #666; text-decoration: none;">Popüler Konular</a>
-</div>
+</nav>
 
 <div class="container" style="max-width: 1200px; margin: 40px auto; padding: 0 15px;">
     <div class="gallery" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
         
         {% for post in site.posts %}
-        <a href="{{ post.url }}" class="pin" style="display: block; border-radius: 16px; overflow: hidden; background: white; box-shadow: 0 5px 20px rgba(0,0,0,0.06); transition: transform 0.3s; text-decoration: none;">
-            <img src="{{ post.image }}" loading="lazy" alt="{{ post.title }}" style="width: 100%; height: 200px; object-fit: cover; display: block;">
-            <div class="pin-content" style="padding: 15px;">
-                <div class="pin-title" style="font-weight: 700; font-size: 1.1rem; color: #222; margin-bottom: 8px;">{{ post.title }}</div>
-                <div class="pin-cat" style="font-size: 0.8rem; color: var(--primary); font-weight: 700; text-transform: uppercase;">{{ post.kategori }}</div>
-            </div>
-        </a>
+        <article style="background: white; border-radius: 16px; overflow: hidden; box-shadow: 0 5px 20px rgba(0,0,0,0.06);">
+            <a href="{{ post.url }}" class="pin" style="display: block; transition: transform 0.3s; text-decoration: none;">
+                <img src="{{ post.image }}" loading="lazy" alt="{{ post.title }}" width="400" height="250" style="width: 100%; height: 200px; object-fit: cover; display: block;">
+                <div class="pin-content" style="padding: 15px;">
+                    <h3 class="pin-title" style="font-weight: 700; font-size: 1.1rem; color: #222; margin: 0 0 8px 0;">{{ post.title }}</h3>
+                    <p class="pin-cat" style="font-size: 0.8rem; color: var(--primary); font-weight: 700; text-transform: uppercase; margin: 0;">{{ post.kategori }}</p>
+                </div>
+            </a>
+        </article>
         {% endfor %}
         
     </div>
