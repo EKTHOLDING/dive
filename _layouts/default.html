@@ -4,7 +4,7 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2959792438660398"
      crossorigin="anonymous"></script>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <meta name="description" content="Psikoloji, üretkenlik ve zihinsel performans üzerine bilimsel temelli, derinlemesine içerikler.">
     <title>{{ page.title }} | DIVE</title>
@@ -23,8 +23,8 @@
         body { margin: 0; background-color: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; display: flex; flex-direction: column; min-height: 100vh; }
         
         a { text-decoration: none; color: inherit; }
-        /* Erişilebilirlik: Footer linkleri belirgin */
-        .footer-link { text-decoration: underline !important; color: #ffffff !important; font-weight: 600; }
+        /* Linklerin altı çizili olması erişilebilirliği artırır */
+        .footer-link { text-decoration: underline !important; color: #ffffff !important; font-weight: bold; }
         
         .header { position: fixed; top: 0; width: 100%; height: 70px; background: rgba(255,255,255,0.98); z-index: 100; display: flex; align-items: center; padding: 0 20px; box-shadow: 0 2px 15px rgba(42, 157, 143, 0.1); }
         .brand-container { display: flex; align-items: center; gap: 8px; font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: bold;}
@@ -38,9 +38,11 @@
 <body>
 
     <header class="header">
-        <a href="/" class="brand-container">
-            <i class='bx bxs-spa logo-icon'></i> DIVE
-        </a>
+        <h1 style="margin:0; font-size: 1.5rem;">
+            <a href="/" class="brand-container">
+                <i class='bx bxs-spa logo-icon' aria-hidden="true"></i> DIVE
+            </a>
+        </h1>
     </header>
 
     <main class="main-content">
@@ -50,12 +52,12 @@
     <footer class="custom-footer">
         <div style="max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px;">
             <div>
-                <h2 style="font-family: 'Playfair Display', serif; margin-bottom: 20px; color: #ffffff;">DIVE</h2>
+                <h2 style="font-family: 'Playfair Display', serif; margin-bottom: 20px; color: #ffffff; font-size: 1.5rem;">DIVE</h2>
                 <p style="color: #ffffff; font-size: 1.1rem; line-height: 1.6;">Psikoloji, üretkenlik ve zihinsel performans üzerine bilimsel temelli, derinlemesine içerikler.</p>
             </div>
 
             <div>
-                <h4 style="margin-bottom: 20px; color: #2a9d8f; font-size: 1.2rem;">Kurumsal</h4>
+                <h2 style="margin-bottom: 20px; color: #2a9d8f; font-size: 1.2rem;">Kurumsal</h2>
                 <ul style="list-style: none; padding: 0;">
                     <li style="margin-bottom: 15px;"><a href="/hakkimizda" class="footer-link">Hakkımızda</a></li>
                     <li style="margin-bottom: 15px;"><a href="/gizlilik-politikasi" class="footer-link">Gizlilik Politikası</a></li>
