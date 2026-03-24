@@ -21,7 +21,7 @@
     <style>
         :root { --bg: #fafdfc; --text: #2c3e50; --primary: #2a9d8f; --footer-bg: #1a1a1a; }
         body { margin: 0; background-color: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; display: flex; flex-direction: column; min-height: 100vh; }
-        html { scroll-behavior: smooth; } /* Tıklayınca yağ gibi kayması için */
+        html { scroll-behavior: smooth; }
         
         a { text-decoration: none; color: inherit; }
         .footer-link { text-decoration: underline !important; color: #ffffff !important; font-weight: bold; }
@@ -34,7 +34,6 @@
         
         .custom-footer { background: var(--footer-bg); color: #ffffff; padding: 60px 20px 30px; margin-top: 80px; text-align: left; }
         
-        /* İçindekiler Tablosu CSS */
         .toc-link:hover { color: var(--primary) !important; font-weight: bold; }
     </style>
 </head>
@@ -60,27 +59,32 @@
 
         <script>
             document.addEventListener("DOMContentLoaded", function() {
-                const contentArea = document.querySelector('.main-content');
-                // Sadece yazının içindeki h2 ve h3 başlıklarını bul
-                const headings = contentArea.querySelectorAll('h2, h3');
+                // Sadece yazının KENDİ İÇİNDEKİ kalkanı hedef al
+                const contentArea = document.querySelector('.article-content');
+                if(!contentArea) return; // Kalkan yoksa robotu durdur
+
+                // Sadece yazının içindeki h1, h2 ve h3 başlıklarını bul
+                const headings = contentArea.querySelectorAll('h1, h2, h3');
                 const tocContainer = document.getElementById('custom-toc');
                 const tocList = document.getElementById('toc-list');
                 
-                // Eğer yazıda en az 2 tane başlık varsa tabloyu göster (kısa yazılarda gizle)
-                if (headings.length >= 2 && tocContainer.id !== 'custom-toc-heading') { 
-                    tocContainer.style.display = 'block';
-                    
-                    headings.forEach((heading, index) => {
-                        // "İçindekiler" yazısını ve "Bunlar da İlgini Çekebilir" başlığını atla
-                        if(heading.textContent.includes('İçindekiler') || heading.textContent.includes('İlgini Çekebilir')) return;
+                // Eğer yazıda en az 1 tane mantıklı başlık varsa tabloyu göster
+                if (headings.length > 0) { 
+                    let validHeadingCount = 0;
 
-                        // Başlıklara otomatik ID ver ki tıklayınca oraya gitsin
+                    headings.forEach((heading, index) => {
+                        // Boş başlıkları atla
+                        if(heading.textContent.trim() === '') return;
+                        
+                        validHeadingCount++;
+
+                        // Başlıklara otomatik ID ver
                         const headingId = 'baslik-' + index;
                         heading.id = headingId;
                         
                         const li = document.createElement('li');
-                        // h3 başlıklarını (alt başlık) biraz daha içeriden başlat
-                        li.style.marginLeft = heading.tagName === 'H3' ? '25px' : '0';
+                        // Alt başlıkları içeriden başlat
+                        li.style.marginLeft = heading.tagName === 'H3' ? '20px' : '0';
                         li.style.marginBottom = '8px';
                         li.style.borderBottom = '1px dashed #f0f0f0';
                         li.style.paddingBottom = '5px';
@@ -95,11 +99,18 @@
                         li.appendChild(a);
                         tocList.appendChild(li);
                     });
+
+                    // Eğer gerçekten başlık bulduysa kutuyu görünür yap
+                    if(validHeadingCount > 0) {
+                        tocContainer.style.display = 'block';
+                    }
                 }
             });
         </script>
         {% endif %}
-        {{ content }}
+        <div class="article-content">
+            {{ content }}
+        </div>
 
         {% if page.date %}
         <div class="related-posts" style="margin-top: 60px; padding-top: 30px; border-top: 2px solid #eaeaea;">
