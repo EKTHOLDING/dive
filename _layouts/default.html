@@ -22,25 +22,32 @@
         body { margin: 0; background-color: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; display: flex; flex-direction: column; min-height: 100vh; }
         html { scroll-behavior: smooth; }
         a { text-decoration: none; color: inherit; }
+        
+        /* OKUMA İLERLEME ÇUBUĞU CSS */
+        .progress-container { position: fixed; top: 70px; left: 0; width: 100%; height: 4px; background: transparent; z-index: 101; }
+        .progress-bar { height: 4px; background: var(--primary); width: 0%; transition: width 0.1s ease; box-shadow: 0 0 10px rgba(42, 157, 143, 0.5); }
+
         .header { position: fixed; top: 0; width: 100%; height: 70px; background: rgba(255,255,255,0.98); z-index: 100; display: flex; align-items: center; padding: 0 20px; box-shadow: 0 2px 15px rgba(42, 157, 143, 0.1); }
         .brand-container { display: flex; align-items: center; gap: 8px; font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: bold; }
         .main-content { flex: 1; margin-top: 100px; padding: 20px; max-width: 1000px; margin-left: auto; margin-right: auto; width: 100%; line-height: 1.8; }
         .custom-footer { background: var(--footer-bg); color: #ffffff; padding: 60px 20px 30px; margin-top: 80px; text-align: left; }
         .article-meta { display: flex; align-items: center; gap: 20px; margin-bottom: 30px; padding-bottom: 15px; border-bottom: 2px solid #eaeaea; color: #666; font-size: 0.95rem; font-weight: 600; flex-wrap: wrap; }
         
-        /* Yazar Kutusu CSS */
-        .author-card { display: flex; align-items: center; gap: 25px; background: #ffffff; border: 1px solid #eef2f0; border-radius: 20px; padding: 30px; margin-top: 40px; box-shadow: 0 10px 30px rgba(42, 157, 143, 0.05); transition: all 0.3s ease; }
-        .author-card:hover { transform: translateY(-5px); box-shadow: 0 15px 35px rgba(42, 157, 143, 0.1); }
-        .author-avatar { width: 90px; height: 90px; border-radius: 50%; background: var(--primary); display: flex; align-items: center; justify-content: center; color: white; font-size: 2.5rem; flex-shrink: 0; }
-        .author-info h4 { margin: 0 0 10px 0; font-size: 1.3rem; color: #2c3e50; font-weight: 800; }
-        .author-info p { margin: 0; color: #555; font-size: 1rem; line-height: 1.6; }
-
-        /* Sosyal Butonlar Grid */
-        .share-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 10px; margin-top: 20px; }
-        .share-btn { display: flex; align-items: center; justify-content: center; gap: 8px; padding: 10px; border-radius: 8px; color: white; font-weight: 700; font-size: 0.85rem; transition: transform 0.2s; cursor: pointer; border:none; }
+        .author-card { display: flex; align-items: center; gap: 25px; background: #ffffff; border: 1px solid #eef2f0; border-radius: 20px; padding: 30px; margin-top: 40px; box-shadow: 0 10px 30px rgba(42, 157, 143, 0.05); }
+        .author-avatar { width: 80px; height: 80px; border-radius: 50%; background: var(--primary); display: flex; align-items: center; justify-content: center; color: white; font-size: 2rem; flex-shrink: 0; }
+        
+        .share-grid { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 20px; }
+        .share-btn { display: flex; align-items: center; gap: 6px; padding: 8px 12px; border-radius: 6px; color: white; font-weight: 700; font-size: 0.8rem; cursor: pointer; border:none; transition: 0.2s; }
+        .share-btn:hover { transform: translateY(-2px); filter: brightness(1.1); }
     </style>
 </head>
 <body>
+
+    {% if page.date %}
+    <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+    </div>
+    {% endif %}
 
     <header class="header">
         <a href="/" class="brand-container"><i class='bx bxs-spa' style="color:var(--primary)"></i> DIVE</a>
@@ -58,12 +65,10 @@
 
         {% if page.date %}
         <div class="author-card">
-            <div class="author-avatar">
-                <i class='bx bxs-user-check'></i>
-            </div>
+            <div class="author-avatar"><i class='bx bxs-user-check'></i></div>
             <div class="author-info">
                 <h4>DIVE Medya Editoryal Ekibi</h4>
-                <p>Bu içerik, bilimsel araştırmalar ve güncel psikoloji literatürü referans alınarak <b>DIVE Medya</b> uzmanlığıyla hazırlanmıştır. Amacımız, zihinsel performansınızı ve yaşam kalitenizi artıracak derinlemesine bilgileri size en saf haliyle ulaştırmaktır.</p>
+                <p>Bu içerik, bilimsel araştırmalar ve güncel psikoloji literatürü referans alınarak <b>DIVE Medya</b> uzmanlığıyla hazırlanmıştır.</p>
             </div>
         </div>
 
@@ -71,13 +76,12 @@
             <h3 style="margin-top:0; font-weight:800; color:#2c3e50;">Paylaş ve Keşfedil 📣</h3>
             <div class="share-grid">
                 <a href="https://api.whatsapp.com/send?text={{ page.title | url_encode }}%20{{ site.url }}{{ page.url }}" target="_blank" class="share-btn" style="background: #25D366;"><i class='bx bxl-whatsapp'></i> WhatsApp</a>
-                <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="share-btn" style="background: #000;"><i class='bx bxl-twitter'></i> X (Twitter)</a>
+                <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" target="_blank" class="share-btn" style="background: #000;"><i class='bx bxl-twitter'></i> X</a>
                 <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ page.url }}" target="_blank" class="share-btn" style="background: #0077b5;"><i class='bx bxl-linkedin'></i> LinkedIn</a>
-                <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank" class="share-btn" style="background: #1877F2;"><i class='bx bxl-facebook'></i> Facebook</a>
+                <a href="https://t.me/share/url?url={{ site.url }}{{ page.url }}&text={{ page.title | url_encode }}" target="_blank" class="share-btn" style="background: #0088cc;"><i class='bx bxl-telegram'></i> Telegram</a>
                 <button onclick="copyLink()" class="share-btn" id="copyBtn" style="background: #2c3e50;"><i class='bx bx-link'></i> Linki Kopyala</button>
             </div>
         </div>
-        <script>function copyLink(){navigator.clipboard.writeText(window.location.href);document.getElementById('copyBtn').innerText='Kopyalandı!';setTimeout(()=>{document.getElementById('copyBtn').innerHTML="<i class='bx bx-link'></i> Linki Kopyala"},2000);}</script>
         {% endif %}
 
         {% if page.date %}
@@ -100,6 +104,19 @@
             <p>&copy; 2026 DIVE Medya. Tüm hakları saklıdır.</p>
         </div>
     </footer>
+
+    <script>
+    window.onscroll = function() {myFunction()};
+    function myFunction() {
+      var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      var scrolled = (winScroll / height) * 100;
+      var myBar = document.getElementById("myBar");
+      if(myBar) { myBar.style.width = scrolled + "%"; }
+    }
+    function copyLink(){navigator.clipboard.writeText(window.location.href);document.getElementById('copyBtn').innerText='Kopyalandı!';setTimeout(()=>{document.getElementById('copyBtn').innerHTML="<i class='bx bx-link'></i> Linki Kopyala"},2000);}
+    </script>
+
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
 </body>
