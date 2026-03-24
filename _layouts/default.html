@@ -46,6 +46,31 @@
 
     <main class="main-content">
         {{ content }}
+
+        {% if page.date %}
+        <div class="related-posts" style="margin-top: 60px; padding-top: 30px; border-top: 2px solid #eaeaea;">
+            <h3 style="font-size: 1.4rem; color: #2c3e50; margin-bottom: 25px; font-weight: 800;">Bunlar da İlgini Çekebilir 🎯</h3>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+                
+                {% assign count = 0 %}
+                {% for post in site.posts %}
+                    {% if post.kategori == page.kategori and post.url != page.url %}
+                        {% if count < 3 %}
+                            <a href="{{ post.url }}" style="display: block; border-radius: 12px; overflow: hidden; background: white; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-decoration: none; transition: transform 0.3s;">
+                                <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy" style="width: 100%; height: 160px; object-fit: cover; display: block;">
+                                <div style="padding: 15px;">
+                                    <h4 style="margin: 0 0 8px 0; font-size: 1rem; color: #222; line-height: 1.4;">{{ post.title }}</h4>
+                                    <span style="font-size: 0.8rem; color: var(--primary); font-weight: 700; text-transform: uppercase;">{{ post.kategori }}</span>
+                                </div>
+                            </a>
+                            {% assign count = count | plus: 1 %}
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+                
+            </div>
+        </div>
+        {% endif %}
     </main>
 
     <footer class="custom-footer">
