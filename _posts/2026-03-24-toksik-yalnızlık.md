@@ -2,7 +2,7 @@
 layout: default
 title: Toksik Yalnızlık
 kategori: Klinik Psikoloji ve Ruh Sağlığı
-image: /assets/images/Gemini_Generated_Image_3zmb9t3zmb9t3zmb.webp
+image: /assets/images/Gemini_Generated_Image_3zmb9t3zmb9t3zmb.png
 ---
 
 ## Toksik Yalnızlık: Sosyal İzolasyonun Nörobiyolojik ve Psikolojik Panoraması
