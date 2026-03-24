@@ -5,40 +5,54 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <title>{{ page.title }} | DIVE</title>
-    <meta name="description" content="{{ page.description | default: 'Psikoloji ve üretkenlik üzerine derinlemesine bilimsel içerikler.' }}">
-
+    <meta name="description" content="{{ page.description | default: 'Psikoloji ve üretkenlik üzerine bilimsel temelli derinlemesine içerikler.' }}">
+    
     <meta property="og:type" content="article">
     <meta property="og:url" content="https://www.divemedya.com{{ page.url }}">
     <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="{{ page.description | default: 'DIVE Medya - Derinlemesine İçerikler.' }}">
-    <meta property="og:image" content="{{ page.image }}"> <meta property="og:site_name" content="DIVE Medya">
+    <meta property="og:description" content="DIVE Medya - Bilimsel Temelli Derin İçerikler.">
+    <meta property="og:image" content="{{ page.image }}">
+    <meta property="og:site_name" content="DIVE Medya">
 
     <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@divemedya">
     <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.description | default: 'Psikoloji ve üretkenlik üzerine bilimsel içerikler.' }}">
+    <meta name="twitter:description" content="DIVE Medya - Zihinsel Performans ve Psikoloji.">
     <meta name="twitter:image" content="{{ page.image }}">
+    <meta name="twitter:image:src" content="{{ page.image }}">
 
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2959792438660398" crossorigin="anonymous"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z8XQWY4Y5W"></script>
     <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-Z8XQWY4Y5W');</script>
     
     <style>
-        :root { --bg: #fcfdfd; --text: #2c3e50; --primary: #2a9d8f; --accent: #e9f5f3; }
+        :root { --bg: #fcfdfd; --text: #2c3e50; --primary: #2a9d8f; --accent: #e9f5f3; --dark: #1a1a1a; }
         body { margin: 0; background-color: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; display: flex; flex-direction: column; min-height: 100vh; }
         html { scroll-behavior: smooth; }
-        a { text-decoration: none; color: inherit; }
+        a { text-decoration: none; color: inherit; transition: 0.3s; }
+        
         .progress-container { position: fixed; top: 70px; left: 0; width: 100%; height: 3px; background: transparent; z-index: 101; }
-        .progress-bar { height: 100%; background: var(--primary); width: 0%; }
+        .progress-bar { height: 100%; background: var(--primary); width: 0%; transition: width 0.1s; }
+        
         .header { position: fixed; top: 0; width: 100%; height: 70px; background: rgba(255,255,255,0.95); backdrop-filter: blur(10px); z-index: 100; display: flex; align-items: center; padding: 0 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.03); }
-        .brand-container { display: flex; align-items: center; gap: 8px; font-family: 'Playfair Display', serif; font-size: 1.6rem; font-weight: bold; color: var(--primary); }
+        .brand-container { font-family: 'Playfair Display', serif; font-size: 1.6rem; font-weight: bold; color: var(--primary); }
+        
         .main-content { flex: 1; margin-top: 100px; padding: 20px; max-width: 850px; margin-left: auto; margin-right: auto; width: 100%; line-height: 1.9; }
         
-        .share-section { margin: 60px 0; padding: 30px; background: #ffffff; border-radius: 20px; border: 1px solid #eee; text-align: center; }
-        .share-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px; }
-        .share-btn { display: flex; align-items: center; gap: 6px; padding: 10px 15px; border-radius: 50px; font-size: 0.8rem; font-weight: 700; background: #f8f9fa; border: 1px solid #eee; cursor: pointer; transition: 0.3s; }
-        .share-btn:hover { background: var(--primary); color: white; }
-        .author-box { display: flex; align-items: center; gap: 20px; margin: 40px 0; padding: 25px; background: var(--accent); border-radius: 20px; }
-        .custom-footer { padding: 40px; text-align: center; color: #888; font-size: 0.8rem; }
+        /* FULL ESTETİK PAYLAŞIM ALANI */
+        .share-section { margin: 50px 0; padding: 30px; background: #ffffff; border-radius: 24px; border: 1px solid #f0f0f0; text-align: center; }
+        .share-title { font-size: 1.3rem; font-weight: 800; margin-bottom: 20px; }
+        .share-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
+        
+        .share-btn { 
+            display: flex; align-items: center; gap: 6px; padding: 10px 18px; border-radius: 50px; 
+            font-size: 0.85rem; font-weight: 700; color: #444; background: #f8f9fa;
+            border: 1px solid #eee; cursor: pointer; transition: all 0.2s;
+        }
+        .share-btn:hover { background: var(--primary); color: white; transform: translateY(-3px); }
+
+        .author-box { display: flex; align-items: center; gap: 20px; margin: 40px 0; padding: 25px; background: var(--accent); border-radius: 20px; border: 1px solid #d4ece9; }
+        .custom-footer { padding: 40px; text-align: center; color: #888; border-top: 1px solid #eee; font-size: 0.9rem; }
     </style>
 </head>
 <body>
@@ -56,27 +70,33 @@
 
         {% if page.date %}
         <div class="share-section">
-            <h3 style="margin-top:0">Bu içeriği paylaşın 📣</h3>
+            <div class="share-title">Paylaş ve Başkalarına İlham Ol 📣</div>
             <div class="share-grid">
-                {% capture share_url %}https://www.divemedya.com{{ page.url }}{% endcapture %}
-                {% capture share_title %}{{ page.title }}{% endcapture %}
+                {% capture u %}https://www.divemedya.com{{ page.url }}{% endcapture %}
+                {% capture t %}{{ page.title }}{% endcapture %}
+                {% capture i %}{{ page.image }}{% endcapture %}
                 
-                <a href="https://api.whatsapp.com/send?text={{ share_title | url_encode }}%20{{ share_url | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-whatsapp'></i> WhatsApp</a>
-                <a href="https://twitter.com/intent/tweet?text={{ share_title | url_encode }}&url={{ share_url | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-twitter'></i> X</a>
-                <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_url | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-linkedin'></i> LinkedIn</a>
-                <a href="https://www.facebook.com/sharer/sharer.php?u={{ share_url | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-facebook'></i> Facebook</a>
-                <a href="https://t.me/share/url?url={{ share_url | url_encode }}&text={{ share_title | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-telegram'></i> Telegram</a>
-                <a href="https://www.pinterest.com/pin/create/button/?url={{ share_url | url_encode }}&media={{ page.image | url_encode }}&description={{ share_title | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-pinterest'></i> Pinterest</a>
-                <a href="https://www.reddit.com/submit?url={{ share_url | url_encode }}&title={{ share_title | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-reddit'></i> Reddit</a>
+                <a href="https://api.whatsapp.com/send?text={{ t | url_encode }}%0A{{ u | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-whatsapp'></i> WhatsApp</a>
+                <a href="https://twitter.com/intent/tweet?text={{ t | url_encode }}&url={{ u | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-twitter'></i> X (Twitter)</a>
+                <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ u | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-linkedin'></i> LinkedIn</a>
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ u | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-facebook'></i> Facebook</a>
+                <a href="https://t.me/share/url?url={{ u | url_encode }}&text={{ t | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-telegram'></i> Telegram</a>
+                <a href="https://www.pinterest.com/pin/create/button/?url={{ u | url_encode }}&media={{ i | url_encode }}&description={{ t | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-pinterest'></i> Pinterest</a>
+                <button onclick="copyAndRedirect('instagram')" class="share-btn"><i class='bx bxl-instagram'></i> Instagram</button>
+                <button onclick="copyAndRedirect('youtube')" class="share-btn"><i class='bx bxl-youtube'></i> YouTube</button>
+                <a href="https://www.reddit.com/submit?url={{ u | url_encode }}&title={{ t | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-reddit'></i> Reddit</a>
+                <a href="https://viber.com/forward?text={{ t | url_encode }}%20{{ u | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-viber'></i> Viber</a>
+                <a href="https://vk.com/share.php?url={{ u | url_encode }}" target="_blank" class="share-btn"><i class='bx bxl-vk'></i> VKontakte</a>
+                <button onclick="window.print()" class="share-btn"><i class='bx bx-printer'></i> Yazdır</button>
                 <button onclick="copyLink()" class="share-btn" id="copyBtn"><i class='bx bx-link'></i> Linki Kopyala</button>
             </div>
         </div>
 
         <div class="author-box">
             <div style="width:50px; height:50px; border-radius:50%; background:var(--primary); display:flex; align-items:center; justify-content:center; color:white;"><i class='bx bxs-check-shield'></i></div>
-            <div>
+            <div class="author-text">
                 <h4 style="margin:0">DIVE Medya Editoryal Ekibi</h4>
-                <p style="margin:0; font-size:0.9rem;">Bilimsel temelli özel içerik.</p>
+                <p style="margin:0; font-size:0.9rem; color:#666;">Bilimsel referanslarla doğrulanmış içerik.</p>
             </div>
         </div>
         {% endif %}
@@ -99,8 +119,13 @@
             document.getElementById('copyBtn').innerText='Kopyalandı!';
             setTimeout(()=>{document.getElementById('copyBtn').innerHTML="<i class='bx bx-link'></i> Linki Kopyala"},2000);
         }
+        function copyAndRedirect(p){
+            navigator.clipboard.writeText(window.location.href);
+            alert("Link kopyalandı! Paylaşıma hazırsınız.");
+            window.open(p==='instagram'?'https://instagram.com':'https://youtube.com','_blank');
+        }
     </script>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
 </body>
 </html>
