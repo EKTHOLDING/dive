@@ -62,7 +62,12 @@
     {% endif %}
 
     <header class="header">
-        <a href="/" class="brand-container">DIVE</a>
+        <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 850px; margin: 0 auto;">
+            <a href="/" class="brand-container">DIVE</a>
+            <button class="theme-switch" id="theme-switch" aria-label="Gece/Gündüz Modu">
+                <i class='bx bx-moon' id="theme-icon"></i>
+            </button>
+        </div>
     </header>
 
     <main class="main-content">
@@ -127,5 +132,7 @@
     </script>
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    
+    {% include dark-mode.html %}
 </body>
 </html>
