@@ -1,0 +1,80 @@
+<button id="rocketBtn" class="rocket-btn" aria-label="Yukarı Çık">
+    <i class='bx bx-chevron-up'></i>
+</button>
+
+<style>
+    /* Roket Butonu Tasarımı */
+    .rocket-btn {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        width: 45px;
+        height: 45px;
+        border-radius: 50%;
+        background-color: var(--primary); /* Dükkanın ana yeşil rengi */
+        color: white;
+        border: none;
+        font-size: 1.8rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        box-shadow: 0 4px 15px rgba(42, 157, 143, 0.4);
+        z-index: 99; /* Butonu hep üstte tutar */
+        
+        /* Başlangıçta gizli ve aşağıda durur */
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(20px);
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    /* Üzerine gelince hafifçe yukarı sıçrar */
+    .rocket-btn:hover {
+        transform: translateY(-5px) scale(1.05);
+        box-shadow: 0 6px 20px rgba(42, 157, 143, 0.6);
+    }
+
+    /* Görünür Olma Sınıfı (Aşağı inince JS bu sınıfı ekler) */
+    .rocket-btn.show {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+    }
+
+    /* Mobil Ekranlar İçin Şık Konumlandırma */
+    @media (max-width: 768px) {
+        .rocket-btn {
+            bottom: 20px;
+            right: 20px;
+            width: 40px;
+            height: 40px;
+            font-size: 1.6rem;
+        }
+    }
+</style>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const rocketBtn = document.getElementById("rocketBtn");
+
+        // Sayfa kaydırma (scroll) hareketini dinleyen ajanımız
+        window.addEventListener("scroll", function() {
+            // Kullanıcı 300 piksel aşağı kaydırdıysa butonu göster
+            if (window.scrollY > 300) {
+                rocketBtn.classList.add("show");
+            } else {
+                // Yukarı çıkarsa butonu tekrar gizle
+                rocketBtn.classList.remove("show");
+            }
+        });
+
+        // Butona tıklandığında yumuşak bir şekilde (smooth) en üste ışınla
+        rocketBtn.addEventListener("click", function() {
+            window.scrollTo({
+                top: 0,
+                behavior: "smooth"
+            });
+        });
+    });
+</script>
