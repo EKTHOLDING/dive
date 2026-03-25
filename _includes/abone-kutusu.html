@@ -1,145 +1,87 @@
 <style>
-    /* Tepeye Uyumlu Yatay ve Şık Tasarım */
     #smart-top-newsletter {
         background: var(--card-bg);
-        border: 2px solid var(--primary); /* Dükkanın yeşiliyle dikkat çeker */
+        border: 2px solid var(--primary);
         border-radius: 15px;
         padding: 20px 25px;
-        margin-bottom: 35px; /* Yazıyla arasına boşluk bırakır */
+        margin-bottom: 35px;
         display: flex;
         align-items: center;
         justify-content: space-between;
         gap: 20px;
         box-shadow: 0 8px 25px rgba(42, 157, 143, 0.15);
-        opacity: 0; /* Başlangıçta gizli, JS ile tepeye çıkınca belirecek */
+        opacity: 0;
         transform: translateY(-10px);
         transition: opacity 0.5s ease, transform 0.5s ease;
     }
     
-    body.dark-mode #smart-top-newsletter {
-        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
-    }
+    body.dark-mode #smart-top-newsletter { box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4); }
 
-    .top-news-text {
-        flex: 1;
-        display: flex;
-        align-items: center;
-        gap: 15px;
-    }
+    .top-news-text { flex: 1; display: flex; align-items: center; gap: 15px; }
+    .top-news-icon { font-size: 2.5rem; color: var(--primary); }
+    .top-news-content h4 { margin: 0 0 5px 0; font-size: 1.2rem; color: var(--text); font-weight: 800; }
+    .top-news-content p { margin: 0; font-size: 0.9rem; color: var(--text-muted); line-height: 1.4; }
 
-    .top-news-icon {
-        font-size: 2.5rem;
-        color: var(--primary);
+    .top-news-form { display: flex; gap: 10px; flex: 1; max-width: 450px; }
+    .top-news-input { 
+        flex: 1; padding: 12px 18px; border: 1px solid var(--border); border-radius: 8px; 
+        outline: none; background: var(--bg); color: var(--text); font-family: 'Inter', sans-serif; font-size: 0.95rem; 
     }
-
-    .top-news-content h4 {
-        margin: 0 0 5px 0;
-        font-size: 1.2rem;
-        color: var(--text);
-        font-weight: 800;
+    .top-news-btn { 
+        background: var(--primary); color: white; border: none; padding: 0 20px; 
+        border-radius: 8px; font-weight: 700; cursor: pointer; transition: 0.3s; 
+        display: flex; align-items: center; gap: 5px;
     }
+    .top-news-btn:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(42, 157, 143, 0.3); }
 
-    .top-news-content p {
-        margin: 0;
-        font-size: 0.9rem;
-        color: var(--text-muted);
-        line-height: 1.4;
-    }
+    /* Başarı Mesajı Stili */
+    #ml-success-msg { display: none; color: var(--primary); font-weight: 700; font-size: 1rem; }
 
-    .top-news-form {
-        display: flex;
-        gap: 10px;
-        flex: 1;
-        max-width: 450px;
-    }
-
-    .top-news-input {
-        flex: 1;
-        padding: 12px 18px;
-        border: 1px solid var(--border);
-        border-radius: 8px;
-        outline: none;
-        background: var(--bg);
-        color: var(--text);
-        font-family: 'Inter', sans-serif;
-        font-size: 0.95rem;
-        transition: 0.3s;
-    }
-
-    .top-news-input:focus {
-        border-color: var(--primary);
-    }
-
-    .top-news-btn {
-        background: var(--primary);
-        color: white;
-        border: none;
-        padding: 0 20px;
-        border-radius: 8px;
-        font-weight: 700;
-        cursor: pointer;
-        transition: 0.3s;
-        display: flex;
-        align-items: center;
-        gap: 5px;
-    }
-
-    .top-news-btn:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 5px 15px rgba(42, 157, 143, 0.3);
-    }
-
-    /* Mobil Cihazlar İçin Alt Alta Dizilim */
     @media (max-width: 768px) {
-        #smart-top-newsletter {
-            flex-direction: column;
-            text-align: center;
-            padding: 20px 15px;
-        }
-        .top-news-text {
-            flex-direction: column;
-            gap: 10px;
-        }
-        .top-news-form {
-            width: 100%;
-            flex-direction: column;
-        }
-        .top-news-btn {
-            padding: 12px;
-            justify-content: center;
-        }
+        #smart-top-newsletter { flex-direction: column; text-align: center; }
+        .top-news-form { width: 100%; flex-direction: column; }
     }
 </style>
 
 <div id="smart-top-newsletter">
     <div class="top-news-text">
         <i class='bx bx-envelope-open top-news-icon'></i>
-        <div class="top-news-content">
-            <h4>DIVE Medya Bültenine Katılın</h4>
-            <p>En yeni psikoloji ve üretkenlik içerikleri doğrudan e-posta kutunuza gelsin.</p>
+        <div class="top-news-content" id="news-content-area">
+            <h4>DIVE Medya Bülteni</h4>
+            <p>Derin içerikler e-postanıza gelsin.</p>
         </div>
+        <div id="ml-success-msg">Aramıza hoş geldiniz! 🎉</div>
     </div>
-    <form class="top-news-form" onsubmit="event.preventDefault(); alert('Tebrikler! Abone oldunuz.');">
-        <input type="email" class="top-news-input" placeholder="E-posta adresiniz..." required>
-        <button type="submit" class="top-news-btn">Abone Ol <i class='bx bx-send'></i></button>
+
+    <form class="top-news-form" id="ml-form" action="https://assets.mailerlite.com/jsonp/2222287/forms/182950012981872574/subscribe" method="post">
+        <input type="email" class="top-news-input" name="fields[email]" placeholder="E-posta adresiniz..." required>
+        <button type="submit" class="top-news-btn">Abone Ol</button>
     </form>
 </div>
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-        // Kutuyu ve sayfanın ana gövdesini (main-content) bul
         const newsletterBox = document.getElementById("smart-top-newsletter");
         const mainContent = document.querySelector(".main-content");
+        const mlForm = document.getElementById("ml-form");
+        const newsContent = document.getElementById("news-content-area");
+        const successMsg = document.getElementById("ml-success-msg");
         
+        // Kutuyu tepeye taşı
         if (mainContent && newsletterBox) {
-            // Kutuyu al, ana gövdenin EN TEPESİNE (ilk çocuk olarak) yapıştır!
             mainContent.insertBefore(newsletterBox, mainContent.firstChild);
-            
-            // Yumuşakça görünür yap (Estetik geçiş)
-            setTimeout(() => {
-                newsletterBox.style.opacity = "1";
-                newsletterBox.style.transform = "translateY(0)";
-            }, 100);
+            setTimeout(() => { newsletterBox.style.opacity = "1"; newsletterBox.style.transform = "translateY(0)"; }, 100);
+        }
+
+        // Form gönderildiğinde şık bir teşekkür göster
+        if(mlForm) {
+            mlForm.addEventListener("submit", function() {
+                setTimeout(() => {
+                    mlForm.style.display = "none";
+                    newsContent.style.display = "none";
+                    successMsg.style.display = "block";
+                }, 500);
+            });
         }
     });
 </script>
