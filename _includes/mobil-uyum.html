@@ -1,0 +1,22 @@
+<style>
+    /* Evrensel Kutu Sınırı (Taşmayı %100 engeller) */
+    *, *::before, *::after { 
+        box-sizing: border-box !important; 
+    }
+    
+    /* Sağa sola kaymayı kilitle */
+    html, body { 
+        overflow-x: hidden !important; 
+        width: 100%; 
+        position: relative;
+    }
+    
+    /* Telefon ekranlarında kenar boşluklarını otomatik ayarla */
+    @media (max-width: 768px) {
+        .header { padding: 0 15px !important; }
+        .main-content { padding: 20px 15px !important; }
+        .share-section { padding: 25px 15px !important; }
+        .author-box { padding: 20px 15px !important; flex-direction: column; text-align: center; gap: 15px !important; }
+        .custom-footer { padding: 30px 15px !important; }
+    }
+</style>
