@@ -7,25 +7,46 @@ media_folder: "assets/images"
 public_folder: "/assets/images"
 
 collections:
-  - name: "yazilar"
-    label: "✨ Yeni Yazı Ekle"
+  # ==========================================
+  # 1. KAPI: TÜRKÇE YAZILAR (Mevcut Sistem)
+  # ==========================================
+  - name: "yazilar_tr"
+    label: "🇹🇷 Türkçe Yazı Ekle"
     folder: "_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Dil", name: "lang", widget: "hidden", default: "tr"} # Yenge görmez, sistem otomatik "tr" yazar
       
       - {label: "🎯 Konu / Başlık", name: "title", widget: "string", hint: "Yazının başlığı ne olsun?"}
-      
-      - {label: "🌍 Yazı Dili", name: "lang", widget: "select", options: ["tr", "en"], default: "tr", hint: "İngilizce bir yazı giriyorsanız bunu 'en' olarak değiştirin."}
-      
-      - {label: "🔗 İngilizce Özel URL (SADECE EN İÇİN)", name: "permalink", widget: "string", required: false, hint: "İngilizce yazıyorsanız başına MUTLAKA /en/ koyun. Örn: /en/trauma-psychology"}
       
       - label: "📂 Ana Kategori"
         name: "kategori"
         widget: "select"
         options: ["Klinik Psikoloji ve Ruh Sağlığı", "İlişki ve Aile Psikolojisi", "Üretkenlik ve Zihinsel Performans", "Duygusal Zeka ve Öz Farkındalık", "İş, Kariyer ve Sosyal Psikoloji", "Popüler ve Niş Konular"]
       
-      - {label: "📸 Mükemmel Görseli Seç", name: "image", widget: "image", hint: "Bilgisayardan veya telefondan fotoğrafı buraya yükle."}
+      - {label: "📸 Mükemmel Görseli Seç", name: "image", widget: "image"}
+      - {label: "📝 Yazını Buraya Dök", name: "body", widget: "markdown"}
+
+  # ==========================================
+  # 2. KAPI: İNGİLİZCE YAZILAR (Amerika Şubesi)
+  # ==========================================
+  - name: "yazilar_en"
+    label: "🇬🇧 İngilizce Yazı Ekle"
+    folder: "en/_posts" # SİHİR BURADA! Bu klasör URL'yi otomatik /en/ yapar!
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Dil", name: "lang", widget: "hidden", default: "en"} # Yenge görmez, sistem otomatik "en" yazar
       
-      - {label: "📝 Yazını Buraya Dök", name: "body", widget: "markdown", hint: "İçinden geldiği gibi yaz. Başlıklar için metni seçip 'H1, H2' yapabilirsin."}
+      - {label: "🎯 English Title (İngilizce Başlık)", name: "title", widget: "string"}
+      
+      - label: "📂 Category (İngilizce Kategori)"
+        name: "kategori"
+        widget: "select"
+        options: ["Clinical Psychology", "Relationship Psychology", "Productivity & Mental Performance", "Emotional Intelligence", "Social Psychology", "Popular Topics"]
+      
+      - {label: "📸 Görsel Seç", name: "image", widget: "image"}
+      - {label: "📝 İngilizce İçeriği Buraya Dök", name: "body", widget: "markdown"}
