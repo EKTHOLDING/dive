@@ -9,8 +9,8 @@ backend:
 media_library:
   name: cloudinary
   config:
-    cloud_name: "damaohl9z"
-    api_key: "923534215914992"
+    cloud_name: "dk9zsrfpj"
+    api_key: "241357716719592"
 
 collections:
   # ==========================================
