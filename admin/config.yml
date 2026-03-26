@@ -17,6 +17,10 @@ collections:
       
       - {label: "🎯 Konu / Başlık", name: "title", widget: "string", hint: "Yazının başlığı ne olsun?"}
       
+      - {label: "🌍 Yazı Dili", name: "lang", widget: "select", options: ["tr", "en"], default: "tr", hint: "İngilizce bir yazı giriyorsanız bunu 'en' olarak değiştirin."}
+      
+      - {label: "🔗 İngilizce Özel URL (SADECE EN İÇİN)", name: "permalink", widget: "string", required: false, hint: "İngilizce yazıyorsanız başına MUTLAKA /en/ koyun. Örn: /en/trauma-psychology"}
+      
       - label: "📂 Ana Kategori"
         name: "kategori"
         widget: "select"
