@@ -1,0 +1,41 @@
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const headerInner = document.querySelector('.header-inner');
+        const themeSwitch = document.getElementById('theme-switch');
+
+        if (headerInner && themeSwitch) {
+            // Şık bir dil butonu yaratıyoruz
+            const langBtn = document.createElement('a');
+            langBtn.className = 'theme-switch'; // Ay ve Büyüteç ile aynı tasarımı alır
+            langBtn.id = 'langSwitcher';
+            langBtn.style.marginRight = "5px";
+            langBtn.style.fontSize = "1.1rem";
+            langBtn.style.fontWeight = "800";
+            langBtn.style.fontFamily = "'Inter', sans-serif";
+
+            // Akıllı Dedektif: Şu an hangi dildeyiz?
+            const currentUrl = window.location.pathname;
+            const isEnglish = currentUrl.includes('/en/');
+
+            if (isEnglish) {
+                // Eğer İngilizce dükkandaysak, buton "TR" olsun ve Türkçe anasayfaya göndersin
+                langBtn.innerHTML = "TR";
+                langBtn.href = "/"; 
+                langBtn.title = "Türkçe Oku";
+            } else {
+                // Eğer Türkçe dükkandaysak, buton "EN" olsun ve Amerika şubesine göndersin
+                langBtn.innerHTML = "EN";
+                langBtn.href = "/en/"; 
+                langBtn.title = "Read in English";
+            }
+
+            // Büyüteç (Arama) butonunun soluna yerleştir
+            const searchBtn = document.getElementById('openSearch');
+            if(searchBtn) {
+                headerInner.insertBefore(langBtn, searchBtn);
+            } else {
+                headerInner.insertBefore(langBtn, themeSwitch);
+            }
+        }
+    });
+</script>
