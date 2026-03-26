@@ -1,0 +1,34 @@
+<section class="related-posts" style="margin-top: 50px; padding: 20px 0;">
+    <h3 style="font-weight: 800; font-size: 1.4rem; margin-bottom: 20px; padding-left: 15px;">🔍 İlginizi Çekebilir</h3>
+    
+    <div class="slider-container" style="display: flex; overflow-x: auto; gap: 15px; padding: 10px 15px; scroll-snap-type: x mandatory; -webkit-overflow-scrolling: touch;">
+        {% assign count = 0 %}
+        {% for post in site.posts %}
+            {% if post.url != page.url and post.kategori == page.kategori %}
+                {% if count < 6 %}
+                    <article style="flex: 0 0 280px; scroll-snap-align: start; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.05);">
+                        <a href="{{ post.url }}" style="text-decoration: none; color: inherit;">
+                            <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 160px; object-fit: cover;">
+                            <div style="padding: 15px;">
+                                <h4 style="font-size: 1rem; margin: 0 0 5px 0; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; height: 2.4em;">{{ post.title }}</h4>
+                                <span style="font-size: 0.75rem; color: var(--primary); font-weight: 700; text-transform: uppercase;">{{ post.kategori }}</span>
+                            </div>
+                        </a>
+                    </article>
+                    {% assign count = count | plus: 1 %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</section>
+
+<style>
+    /* Kaydırma çubuğunu gizle (temiz görünüm için) */
+    .slider-container::-webkit-scrollbar {
+        display: none;
+    }
+    .slider-container {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+</style>
