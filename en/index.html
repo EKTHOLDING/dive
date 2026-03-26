@@ -1,0 +1,25 @@
+---
+layout: default
+title: Home
+description: Deep, science-based articles on psychology, productivity, and mental performance.
+---
+<div style="text-align:center; padding: 50px 20px;">
+    <h1 style="font-family: 'Playfair Display', serif; font-size: 2.5rem; color: var(--primary);">Welcome to DIVE Media</h1>
+    <p style="font-size: 1.2rem; color: var(--text-muted);">Explore our deep, science-based insights on mental performance and psychology.</p>
+    <br>
+    <div class="related-posts">
+        <div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:20px;">
+            {% for post in site.posts %}
+                {% if post.lang == 'en' %}
+                <a href="{{ post.url }}" class="related-card">
+                    <img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy" style="width:100%; height:160px; object-fit:cover; display:block;">
+                    <div style="padding:15px;">
+                        <h4>{{ post.title }}</h4>
+                        <span style="font-size:0.8rem; color:var(--primary); font-weight:700; text-transform:uppercase;">Read Article</span>
+                    </div>
+                </a>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
