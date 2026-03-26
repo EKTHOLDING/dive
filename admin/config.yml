@@ -3,12 +3,18 @@ backend:
   repo: EKTHOLDING/dive
   branch: main
 
-media_folder: "assets/images"
-public_folder: "/assets/images"
+# ==========================================
+# 🚀 YENİ NESİL BULUT MEDYA MOTORU (CLOUDINARY)
+# ==========================================
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: "damaohl9z"
+    api_key: "923534215914992"
 
 collections:
   # ==========================================
-  # 1. KAPI: TÜRKÇE YAZILAR (Mevcut Sistem)
+  # 1. KAPI: TÜRKÇE YAZILAR
   # ==========================================
   - name: "yazilar_tr"
     label: "🇹🇷 Türkçe Yazı Ekle"
@@ -17,7 +23,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - {label: "Dil", name: "lang", widget: "hidden", default: "tr"} # Yenge görmez, sistem otomatik "tr" yazar
+      - {label: "Dil", name: "lang", widget: "hidden", default: "tr"}
       
       - {label: "🎯 Konu / Başlık", name: "title", widget: "string", hint: "Yazının başlığı ne olsun?"}
       
@@ -34,12 +40,12 @@ collections:
   # ==========================================
   - name: "yazilar_en"
     label: "🇬🇧 İngilizce Yazı Ekle"
-    folder: "en/_posts" # SİHİR BURADA! Bu klasör URL'yi otomatik /en/ yapar!
+    folder: "en/_posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - {label: "Dil", name: "lang", widget: "hidden", default: "en"} # Yenge görmez, sistem otomatik "en" yazar
+      - {label: "Dil", name: "lang", widget: "hidden", default: "en"}
       
       - {label: "🎯 English Title (İngilizce Başlık)", name: "title", widget: "string"}
       
