@@ -1,5 +1,5 @@
 <style>
-    /* 1. Kök Değişkenler */
+    /* 1. Kök Değişkenler (Anahtarları Altın Yapıyoruz) */
     :root {
         --primary-color: #B1976B !important;
         --theme-color: #B1976B !important;
@@ -8,41 +8,62 @@
         --color-primary: #B1976B !important;
     }
 
-    /* 2. TÜM BAŞLIKLAR, "READ ARTICLE" ve "WELCOME" YAZILARI (İnatçı Yeşiller) */
-    h1, h2, h3, h4, h5, h6, 
-    .post-title, .post-title a, 
-    .read-more, .read-more a, .more-link, .btn-link,
-    .hero-title, .section-title, .page-title,
-    .text-primary {
+    /* 🎯 HEDEF 1: "EN" YAZISI VE DİL SEÇİCİ */
+    .lang-switch, .lang-switch a, .language-selector, 
+    .language-selector a, .header-lang, .header-lang a, 
+    [class*="lang"] {
         color: #B1976B !important;
     }
 
-    /* 3. İNATÇI ÇERÇEVELER (Bülten) ve İKONLAR (Zarf vs) */
+    /* 🎯 HEDEF 2: BÜLTEN KUTUSU (Çerçeve, Zarf ve Abone Ol Butonu) */
+    /* Çerçeve */
     .subscribe-form, .newsletter-box, .newsletter-wrapper, 
-    .card, .border-primary, form, input, .form-control {
+    .newsletter, .subscribe-wrapper, [class*="subscribe"], 
+    [class*="newsletter"], .border-primary {
         border-color: #B1976B !important;
     }
-    
-    /* Zarf ve diğer tüm küçük simgeler */
-    svg, .icon, i, .fa, .fas, .far {
-        color: #B1976B !important;
+    /* Zarf İkonu */
+    .subscribe-form svg, .newsletter svg, .subscribe-wrapper svg, 
+    [class*="subscribe"] svg, .newsletter-box i, .subscribe-form i {
         fill: #B1976B !important;
+        color: #B1976B !important;
+    }
+    /* Abone Ol Butonu */
+    .subscribe-form button, .newsletter button, .btn-primary, 
+    [class*="subscribe"] button, [class*="newsletter"] .btn {
+        background-color: #B1976B !important;
+        border-color: #B1976B !important;
+        color: #ffffff !important;
     }
 
-    /* 4. TEPEDEKİ BÜYÜTEÇ VE AY (Kareleri Buharlaştırıyoruz, Sadece İkon Kalacak) */
+    /* 🎯 HEDEF 3: "TÜMÜ" BUTONU VE AKTİF SEKMELER */
+    .active, .is-active, .nav-link.active, .filter-button.active,
+    .category-tag.active, .tag.active, .nav-pills .nav-link.active,
+    .category-filter .active {
+        background-color: #B1976B !important;
+        border-color: #B1976B !important;
+        color: #ffffff !important;
+    }
+
+    /* 🎯 HEDEF 4: MAKALE ALTINDAKİ KATEGORİ YAZILARI */
+    .post-category, .category-name, a.category-link, 
+    .article-category, .article-category a, .post-meta .category,
+    .card-body .text-primary, .card-text .text-primary, 
+    .card-body a, .card-body span {
+        color: #B1976B !important;
+    }
+
+    /* 🛡️ KORUMA KALKANI: TEPEDEKİ BÜYÜTEÇ VE AY (ASLA BOZULMAYACAK) */
     .navbar button, .header button, 
     .nav-search-button, .dark-mode-toggle, 
-    header .btn, nav .btn, 
     .search-toggle, .navbar-toggler {
-        background: transparent !important; /* Arka planı tamamen yok et */
+        background: transparent !important; 
         background-color: transparent !important;
         border: none !important;
         box-shadow: none !important;
         padding: 5px !important;
         color: #B1976B !important;
     }
-    
-    /* O ikonların boyutunu ve rengini asil bir hale getiriyoruz */
     .navbar button svg, .header button svg,
     .nav-search-button svg, .dark-mode-toggle svg {
         width: 22px !important;
@@ -50,23 +71,9 @@
         fill: #B1976B !important;
         transition: all 0.3s ease;
     }
-    
-    /* Üstüne gelince hafif büyüme efekti */
     .navbar button:hover svg, .header button:hover svg {
         transform: scale(1.1);
         fill: #C5A059 !important;
-    }
-
-    /* 5. Butonlar (Tümü, Abone Ol vb. Gold Kalacak) */
-    .btn, .btn-primary, button[type="submit"], .tag, .category-tag, .active {
-        background-color: #B1976B !important;
-        border-color: #B1976B !important;
-        color: #ffffff !important;
-    }
-    
-    /* Üstteki ikonlar "btn" sınıfından etkilenip kare olmasın diye koruma kalkanı */
-    header .btn, nav .btn, .navbar button, .header button {
-        background-color: transparent !important;
     }
 </style>
 
