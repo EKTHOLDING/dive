@@ -1,37 +1,53 @@
 ---
 layout: default
-title: "Çocuklara Sınır Çizmeyi Öğretmenin 5 Pratik Yolu"
-kategori: "Psikoloji"
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwFaY1ZzkXT4D4b5jTFKVpeYDkkOmS2Au4Q&s"
+title: Çocuklarda sınır çizme yolları, Çocuklara kural koyma
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwFaY1ZzkXT4D4b5jTFKVpeYDkkOmS2Au4Q&s
 ---
 
-Ebeveynler İçin Rehber: Çocuğunuza "Hayır" Demeyi ve Sınır Çizmeyi Nasıl Öğretirsiniz?
-Bir çocuğun dış dünyadaki manipülasyonlara karşı en büyük kalkanı, kendi sınırlarının nerede başlayıp nerede bittiğini bilmesidir. İşte bu beceriyi geliştirmek için evde uygulayabileceğiniz stratejiler:
+# Bağırmadan Disiplin: Çocuklarda Sınır Çizmenin 5 Pratik Yolu
 
-1. "Hayır" Cevabına Alan Açın
-Çocuğunuz size "Hayır, şu an sarılmak istemiyorum" veya "Bu yemeği yemek istemiyorum" dediğinde, bu bir saygısızlık değil, bir sınır beyanıdır.
+Pek çok ebeveyn için "sınır koymak" kelimesi; çatışma, ağlama krizleri ve suçluluk hissiyle eş anlamlıdır. Oysa sınırlar, bir çocuğun hayatındaki yol çizgileri gibidir; çizgiler olmazsa çocuk kendini güvende hissetmez ve sürekli "Nereye kadar gidebilirim?" diye test eder.
 
-Uygulama: Güvenlik veya sağlıkla ilgili hayati bir durum yoksa, çocuğun "hayır"ına saygı gösterin. Kendi evinde sınırları kabul edilen çocuk, dışarıda sınırlarını koruma cesareti bulur.
+İşte evdeki huzuru geri getirecek, çocuk psikolojisine uygun 5 etkili yöntem:
 
-2. "Vücut Benimdir" Bilincini Yerleştirin
-Çocuk, kendi bedeninin mutlak sahibi olduğunu bilmelidir.
+## 1. "Hayır" Yerine Seçenek Sunun
 
-Uygulama: Zorla öpme, mıncıklama veya başkalarına (akrabalar dahil) temas etmesi için baskı yapma alışkanlığından vazgeçin. Onay almayı bir oyun haline getirin: "Sana sarılabilir miyim?" diye sormak, ona rıza kavramını öğretir.
+Çocuklar kontrol sahibi olmayı severler. Doğrudan "Hayır, o ödevi şimdi yapacaksın!" demek yerine onlara seçme hakkı verin. Bu, çocuğun direncini kırar ve sorumluluk almasını sağlar.
 
-3. Duygularını İsimlendirmesine Yardımcı Olun
-Manipülatörler genellikle kurbanlarının kafasını karıştırır. Çocuğunuz ne hissettiğinden emin olursa, manipülasyonu daha hızlı fark eder.
+- **Örnek:** "Ödevini şimdi mi yapmak istersin, yoksa 10 dakika oyun oynadıktan sonra mı?"
+- **Neden İşe Yarar?** Çocuk "ne yapacağı" konusunda değil, "ne zaman yapacağı" konusunda kontrolün kendisinde olduğunu hisseder.
 
-Uygulama: "Şu an arkadaşın oyuncağını aldığı için kendini haksızlığa uğramış mı hissediyorsun?" gibi sorularla duygularını netleştirmesini sağlayın. Kendi duygusundan emin olan çocuk, başkasının ona "Yanlış anlıyorsun" demesine kanmaz.
+## 2. Kuralları "Nedenleri" İle Açıklayın
 
-4. "Sır" ve "Sürpriz" Arasındaki Farkı Öğretin
-Manipülatörlerin en sık kullandığı araç "aramızda sır kalsın" cümlesidir.
+Sadece "Çünkü ben öyle istiyorum" demek, güç savaşına davetiye çıkarmaktır. Kuralların arkasındaki mantığı çocuğun yaşına uygun şekilde anlatmak, kuralı içselleştirmesini sağlar.
 
-Uygulama: Çocuğunuza şunu öğretin: "Sürprizler (doğum günü hediyesi gibi) herkes öğrendiğinde herkesi mutlu eder ve geçicidir. Sırlar ise insanın karnını ağrıtır ve saklanması istenir. Karnını ağrıtan hiçbir şeyi saklamak zorunda değilsin."
+- **Örnek:** "Tablet süresini bitirmeliyiz çünkü beyninin ve gözlerinin dinlenmeye ihtiyacı var."
+- **İpucu:** Kuralları koyarken emir kipi yerine "bizim evimizde kuralımız budur" gibi genel ifadeler kullanın.
 
-5. Seçim Yapma Kası Geliştirin
-Sürekli talimat alan çocuklar, komutla hareket etmeye alışır. Bu da onları otorite figürlerinin manipülasyonuna açık hale getirir.
+## 3. Tutarlılık ve Kararlılık (Altın Kural)
 
-Uygulama: Gün içinde küçük seçenekler sunun. "Mavi kazağı mı giymek istersin yoksa kırmızıyı mı?" Karar verme sorumluluğunu alan çocuk, kendi iradesini kullanmayı öğrenir.
+Sınır çizmenin en büyük düşmanı tutarsızlıktır. Bir gün izin verdiğiniz bir şeye ertesi gün yasak koyarsanız, çocuk sınırın nerede olduğunu anlayamaz.
 
-Okuyucularınız İçin Küçük Bir Not:
-"Sınırları olan bir çocuk yetiştirmek, bazen sizinle de çatışması demektir. Unutmayın; bugün size 'hayır' diyebilen bir çocuk, yarın onu istismar veya manipüle etmek isteyen birine de 'hayır' diyebilecektir."
+- **Uygulama:** Ebeveynlerin (anne ve baba) ortak bir dil kullanması kritiktir. Birinin "evet" dediğine diğeri "hayır" diyorsa, çocuk boşluktan sızmayı öğrenecektir.
+
+## 4. Tehdit Etmeyin, Doğal Sonuçları Gösterin
+
+"Yemeğini yemezsen tablet yasak!" gibi cezalar yerine, davranışın doğal sonucunu görmesini sağlayın. Ceza öfke yaratır, sonuç ise öğretir.
+
+- **Örnek:** "Yemeğini yemezsen karnın acıkabilir ve bir sonraki öğüne kadar mutfak kapalı olacak."
+- **Fark:** Burada odak noktası sizin verdiğiniz ceza değil, çocuğun kendi seçiminin sonucudur.
+
+## 5. Duygusunu Kabul Edin, Davranışı Sınırlandırın
+
+Sınır koyarken en sık yapılan hata, çocuğun duygusunu reddetmektir. Oysa çocuk üzülmekte veya kızmakta haklıdır, ancak yanlış davranmakta (vurmak, kırmak) haklı değildir.
+
+- **Formül:** "Şu an oyunun bittiği için çok kızgın olduğunu görüyorum (Duyguyu onayla), ancak kapıya vurmana izin veremem (Davranışı sınırla). Gel beraber sakinleşelim."
+
+***
+
+### **Sonuç: Sınır Sevginin Bir Parçasıdır**
+
+Sınır koymak, çocuğunuzu sevmemek veya onu üzmek değildir. Aksine, ona hayatın kurallarını güvenli bir limanda öğretmektir. Sabırlı, tutarlı ve şefkatli kaldığınız sürece çizdiğiniz sınırlar, çocuğunuzun daha özgüvenli ve huzurlu bir birey olmasını sağlayacaktır.
+
+**Yazan:** Dilara Türkoğlu
