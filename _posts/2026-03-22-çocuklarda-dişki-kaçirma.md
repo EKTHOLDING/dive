@@ -1,39 +1,58 @@
 ---
 layout: default
-title: "ÇOCUKLARDA DIŞKI KAÇIRMA"
-kategori: "Çocuk ve Ergen"
-image: "https://s3.eu-central-1.amazonaws.com/patients-blog/yatagini_islatme_enurezis_kaka_kacirma_enkoprezis_thumbnail_74eb084905.jpg"
+title: ÇOCUKLARDA DIŞKI KAÇIRMA
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://s3.eu-central-1.amazonaws.com/patients-blog/yatagini_islatme_enurezis_kaka_kacirma_enkoprezis_thumbnail_74eb084905.jpg
 ---
 
-Enkoprezis (halk arasında dışkı kaçırma), bir çocuğun gelişimsel olarak tuvalet eğitimini tamamlamış olması gereken bir yaşta (genellikle 4 yaş ve üzeri), dışkısını istemli veya istemsiz olarak uygunsuz yerlere (giysiler, zemin vb.) bırakması durumudur.
+# Sessiz Bir Yardım Çağrısı: Çocuklarda Dışkı Kaçırma (Enkoprezis)
 
-Bu durumun tıbbi bir tanı alabilmesi için en az 3 ay boyunca ayda en az bir kez tekrarlanması gerekir.
+Çocuğunuz tuvalet eğitimini tamamladığı halde hala iç çamaşırını kirletiyorsa, bu durum hem ebeveynler hem de çocuk için stresli bir sürece dönüşebilir. Ancak bilinmesi gereken ilk ve en önemli kural şudur: **Bu durum bir "yaramazlık" veya "tembellik" değil, genellikle fiziksel veya psikolojik bir sağlık sorunudur.**
 
-Enkoprezis Türleri
-Enkoprezis genellikle iki ana grupta incelenir:
+## 1. Enkoprezis Nedir?
 
-Kabızlığa Bağlı (Retansiyonlu) Enkoprezis: En sık görülen türdür (%80-90). Çocuk çeşitli nedenlerle (acı çekme korkusu, oyunun bölünmemesi, tuvalet korkusu) dışkısını tutar. Bağırsakta biriken dışkı sertleşir; sert kütlenin etrafından sızan sıvı dışkı, çocuğun kontrolü dışında giysilerine bulaşır.
+Tıbbi literatürde **Enkoprezis**, 4 yaşın üzerindeki bir çocuğun, organik bir engel olmaksızın, kaka yapma kontrolünü sağlayamaması ve uygun olmayan yerlere (genellikle iç çamaşırına) dışkı kaçırmasıdır.
 
-Kabızlığa Bağlı Olmayan Enkoprezis: Fiziksel bir kabızlık belirtisi yoktur. Genellikle duygusal stres, travma veya yanlış tuvalet eğitimi gibi psikososyal nedenlerden kaynaklanır.
+### İki Ana Türü Vardır:
 
-Temel Nedenler
-Enkoprezis genellikle tek bir nedene bağlı değildir; fiziksel ve psikolojik faktörlerin karışımıdır:
+- **Birincil Enkoprezis:** Çocuğun hiçbir zaman tam bir bağırsak kontrolü sağlayamamış olması.
+- **İkincil Enkoprezis:** En az 6 ay veya 1 yıl süren tam kontrolden sonra dışkı kaçırmanın başlaması.
 
-Fiziksel Nedenler: Kronik kabızlık, bağırsak yapısındaki bozukluklar veya hipotiroidizm gibi metabolik sorunlar.
+## 2. Neden Olur? (Fiziksel ve Psikolojik Nedenler)
 
-Psikolojik Faktörler: Yeni bir kardeşin doğumu, okul değişikliği, aile içi çatışmalar, boşanma veya çok katı tuvalet eğitimi.
+Enkoprezis vakalarının yaklaşık **%80-90'ı** aslında kronik kabızlık ile ilişkilidir.
 
-Gelişimsel Gecikmeler: Çocuğun vücut sinyallerini (tuvaletinin geldiğini) fark etme konusunda yaşadığı güçlükler.
+### Fiziksel Neden: Kabızlık Döngüsü
 
-Yaklaşım ve Tedavi
-Enkoprezis, çocuğun bilerek yaptığı yaramazlık veya dikkat çekme çabası değildir. Bu nedenle cezalandırıcı bir tutum, sorunu daha da derinleştirir. Tedavi genellikle şu adımları içerir:
+Çocuk bir kez canı yandığı için kakasını tutmaya başlar. Bağırsakta biriken dışkı sertleşir ve büyür. Bu durum kolonun genişlemesine ve sinirlerin duyarsızlaşmasına neden olur. Sert dışkının etrafından sızan daha sıvı formdaki dışkı, çocuk farkında bile olmadan iç çamaşırına geçer. Buna "taşma inkontinansı" denir.
 
-Tıbbi Müdahale: Eğer kabızlık varsa, doktor kontrolünde dışkı yumuşatıcılar ve uygun diyet (bol lifli gıdalar, su tüketimi) planlanır.
+### Psikolojik Nedenler
 
-Davranışçı Terapi: Çocuğun öğünlerden sonra düzenli olarak (5-10 dakika) tuvalete oturması sağlanır ve başarıları ödüllendirilir.
+- **Tuvalet Eğitimi Baskısı:** Çok erken veya çok katı verilen tuvalet eğitimi.
+- **Yaşam Değişiklikleri:** Yeni bir kardeşin doğumu, boşanma, okul değişikliği veya taşınma gibi stresli olaylar.
+- **İnatlaşma:** Çocuğun kontrol sahibi olduğunu kanıtlama çabası (güç savaşı).
 
-Psikolojik Destek: Çocuğun yaşadığı utanç, suçluluk ve özgüven kaybıyla başa çıkması için bir pedagog veya çocuk psikiyatristinden destek alınması çok önemlidir.
+## 3. Ailelerin Yapmaması Gereken 3 Şey
 
-Önemli Not: Enkoprezis yaşayan çocuklar genellikle bu durumdan büyük utanç duyarlar ve durumu gizlemeye çalışabilirler. Sabırlı ve destekleyici bir ebeveyn tutumu iyileşmenin anahtarıdır.
+Bu süreçte sergilenen yanlış tutumlar sorunu kronik hale getirebilir:
 
-Çocuğunuzda bu durumu gözlemliyorsanız, ilk adım olarak bir çocuk sağlığı ve hastalıkları uzmanına danışmak en sağlıklı yoldur.
+1. **Cezalandırmak ve Utandırmak:** Çocuğu suçlamak, dışkı kaçırmayı bir "silah" olarak kullanmasına veya kaygısının artmasına neden olur.
+2. **Kıyaslamak:** "Kardeşin bile yapmıyor" gibi cümleler özsaygısını zedeler.
+3. **Görmezden Gelmek:** "Büyüyünce geçer" diyerek tıbbi desteği geciktirmek, bağırsak yapısının daha fazla bozulmasına yol açabilir.
+
+## 4. Çözüm Yolları: Ne Yapmalı?
+
+Enkoprezis tedavisi sabır gerektiren, multidisipliner (doktor ve psikolog iş birliği) bir süreçtir.
+
+- **Tıbbi Değerlendirme:** Öncelikle bir çocuk gastroenteroloğu veya pediatrist ile kabızlık sorunu çözülmelidir. Bağırsakların boşaltılması ve yumuşatılması ilk adımdır.
+- **Beslenme Düzeni:** Lifli gıdalar (sebze, meyve, tam tahıllar) ve bol su tüketimi bağırsak sağlığı için kritiktir.
+- **Tuvalet Rutini:** Her yemekten 15-20 dakika sonra çocuğun tuvalete oturması sağlanmalıdır (bağırsakların doğal çalışma ritmini yakalamak için).
+- **Oyun Terapisi ve Destek:** Eğer sorun psikolojik kökenliyse, çocuğun kaygılarını ifade edebilmesi için bir çocuk psikoloğundan destek alınmalıdır.
+
+***
+
+### **Sonuç: Sabır ve Şefkat İyileştirir**
+
+Dışkı kaçırma, çocuğun bilerek yaptığı bir eylem değildir. Onun bu zor dönemde en çok ihtiyaç duyduğu şey ebeveyninin desteğidir. Unutmayın; doğru tedavi ve sevgi dolu bir yaklaşımla bu sorun tamamen ortadan kalkabilir.
+
+**Yazan:** Dilara Türkoğlu
