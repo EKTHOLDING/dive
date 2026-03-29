@@ -1,8 +1,51 @@
 ---
 layout: default
-title: "ÇOCUKLARDA BESLENME "
-kategori: "Beslenme"
-image: "https://www.dryeldamumcu.com/storage/images/contents/2-yas-bebek-gelisimi-79.jpg"
+title: Çocuklarda sağlıklı beslenme, Çocuklar için beslenme çantası
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://www.dryeldamumcu.com/storage/images/contents/2-yas-bebek-gelisimi-79.jpg
 ---
 
-Çocuklarda beslenme, sadece karın doyurmak değil; fiziksel büyüme, beyin gelişimi ve ömür boyu sürecek yeme alışkanlıklarının temelini atmaktır. Bebeklikten çocukluğa geçişte (1-3 yaş ve sonrası) dikkat edilmesi gerekenleri temel başlıklarla inceleyelim:1. Temel Beslenme İlkeleriÇocuğun tabağı bir "gökkuşağı" gibi renkli olmalıdır. Her öğünde şu dört gruptan besinler bulunmasına özen gösterin:Süt ve Süt Ürünleri: Kalsiyum ve kemik gelişimi için (yoğurt, kefir, peynir).Et, Yumurta, Baklagiller: Protein ve demir kaynağı (beyin gelişimi ve kas yapısı için).Sebze ve Meyveler: Vitamin, mineral ve lif kaynağı.Tahıllar: Enerji ihtiyacı için (tam buğday, yulaf, bulgur).2. Yaş Gruplarına Göre Kritik Noktalar12-24 Ay: Anne sütü veya devam sütü destekleyici olarak devam edebilir ancak asıl odak sofra yemekleridir. İnek sütü günlük 500 ml'yi geçmemelidir (fazlası kansızlık yapabilir).2 Yaş ve Sonrası: Çocuğun büyüme hızı ilk yıla göre yavaşlar, bu yüzden iştahında azalmalar normaldir. Zorla yedirmekten kaçınılmalıdır.3. Mutlaka Dikkat Edilmesi Gerekenler (Altın Kurallar)A. Şeker ve İşlenmiş Gıdalardan Uzak DurunPaketli atıştırmalıklar, asitli içecekler ve aşırı şekerli gıdalar hem obezite riskini artırır hem de damak tadını bozarak sağlıklı gıdaları reddetmesine neden olur.B. Porsiyon KontrolüÇocuğun midesi yetişkinin midesi kadar değildir. Kendi avuç içi kadar bir porsiyonun onun için yeterli olabileceğini unutmayın. Fazla yemek için baskı yapmak "doyma hissini" kaybetmesine yol açar.C. Boğulma Riskine Karşı ÖnlemKuruyemişler, bütün üzüm, sert şekerler ve büyük parça etler 4 yaşına kadar risk taşır. Üzümleri boyuna kesin, kuruyemişleri ezerek veya toz halinde verin.D. Yemek Zamanı DisipliniEkran Karşısında Yedirmeyin: Tablet veya TV karşısında yemek yiyen çocuk ne yediğini anlamaz ve tokluk sinyallerini fark edemez.Sofraya Birlikte Oturun: Sizi yemek yerken görmesi, yeni besinleri denemesi için en büyük motivasyondur.4. İştahsızlık ve Yemek Seçme ile Baş EtmeÇocukların yeni bir tadı kabul etmesi bazen 10-15 deneme gerektirebilir.Israrcı olmayın: "Bir kaşık daha" diye baskı yapmak yemek vaktini bir çatışma alanına çevirir.Sunumu değiştirin: Haşlanmış karnabaharı yemiyorsa, fırında peynirli veya mücver şeklinde deneyin.Mutfakta görev verin: Kendi hazırladığı (salatayı karıştırmak gibi) yemeği yeme ihtimali daha yüksektir.Örnek Sağlıklı Atıştırmalık TablosuSağlıksız TercihSağlıklı AlternatifMeyve Suyu (Hazır)Meyvenin kendisi veya ev yapımı ayranŞekerli BisküviEv yapımı yulaflı/muzlu kurabiyeCipsFırınlanmış elma dilim patatesÇikolataKuru meyveler (gün kurusu kayısı, gün kurusu incir)Ne Zaman Doktora Danışmalı?Çocuk kilo kaybediyorsa veya persentil tablosunda (büyüme eğrisi) gerileme varsa.Sadece 1-2 çeşit yemekle besleniyor ve diğer her şeyi reddediyorsa.Yemek yerken yutma güçlüğü çekiyor veya sürekli öğürüyorsa.
+# Büyüyen Bedenler, Güçlü Zihinler: Çocuklarda Beslenme Rehberi
+
+Çocukluk çağında beslenme, bir çocuğun sadece boyunun uzamasını değil; okul başarısını, ruh halini ve ilerideki yetişkinlik sağlığını da belirler. Modern dünyada işlenmiş gıdaların kuşatması altındayken, çocuklarımıza "gerçek gıdayı" sevdirmek bir ebeveynlik sanatıdır.
+
+## 1. Tabağın Dengesi: Gökkuşağı Kuralı
+
+Bir çocuğun öğünü ne kadar renkliyse, o kadar farklı vitamin ve mineral alıyor demektir. Sağlıklı bir çocuk tabağı şu dört temel gruptan oluşmalıdır:
+
+- **Proteinler:** Büyüme hormonu ve kas gelişimi için (Yumurta, et, baklagiller).
+- **Kalsiyum Kaynakları:** Güçlü kemikler ve dişler için (Yoğurt, peynir, kefir).
+- **Kompleks Karbonhidratlar:** Beyin enerjisi için (Tam tahıllar, yulaf, meyveler).
+- **Sağlıklı Yağlar:** Zihinsel odaklanma için (Ceviz, zeytinyağı, avokado).
+
+## 2. Okul Çağı ve Beslenme Çantası Stratejisi
+
+Okulda tüketilen gıdalar, çocuğun derslerdeki konsantrasyonunu doğrudan etkiler. Şekerli paketli gıdalar ani enerji artışı ve ardından hızla gelen yorgunluğa neden olur.
+
+- **Alternatifler:** Beyaz ekmek yerine tam buğday, meyve suyu yerine ayran, bisküvi yerine kuru yemiş ve kuru meyve tercih edilmelidir.
+
+## 3. "Sebze Yemiyor!" - İştahsızlık ve Seçicilikle Başa Çıkma
+
+Çocuklarda yemek seçme dönemi (neofobi) oldukça yaygındır. Zorlamak yerine şu yöntemleri deneyin:
+
+- **Model Olun:** Siz brokoli yemezken çocuğunuzun yemesini bekleyemezsiniz.
+- **Sunumu Değiştirin:** Haşlanmış sebzeyi sevmeyen bir çocuk, fırınlanmış veya çorba içine gizlenmiş sebzeyi sevebilir.
+- **Mutfakta Rol Verin:** Yemeği beraber hazırlayan çocuk, kendi emeği olan besini tatmaya daha hevesli olur.
+
+## 4. Gizli Tehlike: Şeker ve Katkı Maddeleri
+
+Şeker, çocuklarda hiperaktivite, uyku bozuklukları ve erken dönem diyabet riskini artırır.
+
+- **Etiket Okuma:** "Meyveli" yazan yoğurtların veya paketli sütlerin içindeki gizli şeker oranlarına dikkat edin. Ev yapımı meyveli yoğurtlar her zaman daha güvenlidir.
+
+## 5. Su Tüketimi ve Hidrasyon
+
+Çocuklar oyun oynarken susadıklarını unutabilirler. Susuzluk, çocuklarda halsizlik ve baş ağrısının en yaygın sebebidir. Yanında her zaman şık, onun seveceği bir matara bulundurmak su içme alışkanlığını destekler.
+
+***
+
+### **Sonuç: Beslenme Bir Eğitim Sürecidir**
+
+Çocuğunuza sadece yemek yedirmeyin, ona besinlerin vücuduna ne yaptığını anlatın. "Bu havuç senin gözlerini güçlendirir" gibi somut faydalar, çocukların sağlıklı gıdalara bakışını değiştirir. Unutmayın; sağlıklı bir çocukluk, mutlu bir yetişkinliğin yatırımıdır.
+
+**Yazan:** Dilara Türkoğlu
