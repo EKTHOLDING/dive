@@ -1,0 +1,46 @@
+<style>
+    /* Sitenin genel renk değişkenlerini eziyoruz */
+    :root {
+        --primary-color: #C5A059 !important;
+        --theme-color: #C5A059 !important;
+        --main-color: #C5A059 !important;
+        --accent-color: #C5A059 !important;
+        --color-primary: #C5A059 !important;
+    }
+
+    /* Butonlar, Etiketler ve Aktif Sekmeler için Gold baskısı */
+    .btn, button, input[type="submit"], .category-tag, .tag, .active {
+        background-color: #C5A059 !important;
+        border-color: #C5A059 !important;
+        color: #ffffff !important;
+    }
+
+    /* Çerçeveler (Bülten kayıt kutusu vs.) */
+    input:focus, .subscribe-form {
+        border-color: #C5A059 !important;
+        outline-color: #C5A059 !important;
+    }
+
+    /* Yazı altındaki kategori isimlerini (Hover) Gold yapıyoruz */
+    a:hover, .post-category, .category-name {
+        color: #C5A059 !important;
+    }
+</style>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Taktik 1: Sitedeki en yaygın logo class'larını ara
+        var logoElements = document.querySelectorAll('.site-title, .navbar-brand, .logo');
+        if(logoElements.length > 0) {
+            logoElements[0].innerHTML = '<img src="/assets/images/logo.png" alt="DIVE" style="height: 45px; width: auto; object-fit: contain; margin-top: -5px;">';
+        } else {
+            // Taktik 2: Bulamazsa, anasayfaya giden ve içinde 'DIVE' yazan linki bulup logoyu oraya çak
+            var links = document.querySelectorAll('a[href="/"]');
+            links.forEach(function(link) {
+                if(link.innerText.includes('DIVE')) {
+                    link.innerHTML = '<img src="/assets/images/logo.png" alt="DIVE" style="height: 45px; width: auto; object-fit: contain; margin-top: -5px;">';
+                }
+            });
+        }
+    });
+</script>
