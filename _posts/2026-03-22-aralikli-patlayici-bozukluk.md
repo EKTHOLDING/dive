@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "ARALIKLI PATLAYICI BOZUKLUK"
-kategori: "Psikoloji"
-image: "https://norapsikoloji.com/wp-content/uploads/2018/06/ofke-kontrolu-baslangic.jpg"
+title: ARALIKLI PATLAYICI BOZUKLUK
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://norapsikoloji.com/wp-content/uploads/2018/06/ofke-kontrolu-baslangic.jpg
 ---
 
 Aralıklı Patlayıcı Bozukluk (APB), kişinin yaşadığı olayla tamamen orantısız, ani ve kontrol edilemez öfke patlamalarıyla karakterize edilen bir dürtü kontrol bozukluğudur.
