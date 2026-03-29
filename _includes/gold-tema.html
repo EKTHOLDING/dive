@@ -1,5 +1,5 @@
 <style>
-    /* Sitenin genel renk değişkenlerini eziyoruz */
+    /* 1. Kök Değişkenler (Tüm ihtimalleri eziyoruz) */
     :root {
         --primary-color: #C5A059 !important;
         --theme-color: #C5A059 !important;
@@ -8,33 +8,44 @@
         --color-primary: #C5A059 !important;
     }
 
-    /* Butonlar, Etiketler ve Aktif Sekmeler için Gold baskısı */
-    .btn, button, input[type="submit"], .category-tag, .tag, .active {
+    /* 2. Arkaplanlar (Tümü butonu ve diğer etiketler) */
+    .btn, button, input[type="submit"], 
+    .category-tag, .tag, 
+    .active, .is-active, .nav-link.active, .filter-button.active,
+    .bg-primary, .btn-primary, .nav-pills .nav-link.active {
         background-color: #C5A059 !important;
         border-color: #C5A059 !important;
         color: #ffffff !important;
     }
 
-    /* Çerçeveler (Bülten kayıt kutusu vs.) */
-    input:focus, .subscribe-form {
+    /* 3. Çerçeveler (O inatçı Bülten kutusu çizgisi) */
+    .subscribe-form, .newsletter, .border-primary,
+    .widget, .card, fieldset, input:focus, textarea:focus,
+    .subscribe-wrapper, .newsletter-box {
         border-color: #C5A059 !important;
         outline-color: #C5A059 !important;
     }
 
-    /* Yazı altındaki kategori isimlerini (Hover) Gold yapıyoruz */
-    a:hover, .post-category, .category-name {
+    /* 4. Yazılar (Makale altındaki inatçı kategori yazıları) */
+    .post-category, .category-name, .text-primary, 
+    .article-category, .post-meta a, .post-tags a, a.category-link {
+        color: #C5A059 !important;
+    }
+
+    /* 5. İkonlar (Bülten kutusundaki o yeşil Zarf) */
+    svg.icon-primary, .text-primary svg, 
+    .subscribe-form svg, .newsletter svg {
+        fill: #C5A059 !important;
         color: #C5A059 !important;
     }
 </style>
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-        // Taktik 1: Sitedeki en yaygın logo class'larını ara
         var logoElements = document.querySelectorAll('.site-title, .navbar-brand, .logo');
         if(logoElements.length > 0) {
             logoElements[0].innerHTML = '<img src="/assets/images/logo.png" alt="DIVE" style="height: 45px; width: auto; object-fit: contain; margin-top: -5px;">';
         } else {
-            // Taktik 2: Bulamazsa, anasayfaya giden ve içinde 'DIVE' yazan linki bulup logoyu oraya çak
             var links = document.querySelectorAll('a[href="/"]');
             links.forEach(function(link) {
                 if(link.innerText.includes('DIVE')) {
