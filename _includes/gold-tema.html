@@ -1,78 +1,77 @@
 <style>
-    /* 1. Kök Değişkenler (Daha Asil Bir Şampanya Altını - Lüks Hisse Dönüşüm) */
+    /* 1. Kök Değişkenler */
     :root {
-        --primary-color: #B1976B !important; /* Lüks Şampanya Altını */
+        --primary-color: #B1976B !important;
         --theme-color: #B1976B !important;
         --main-color: #B1976B !important;
-        --accent-color: #B1976B !important;
+        --secondary-color: #B1976B !important;
         --color-primary: #B1976B !important;
     }
 
-    /* 2. Kategori Bağlantıları (O İnatçı Yeşil Kategori Yazılarını Hedefle) */
-    a, a:active, a:focus,
-    .post-category, .category-name, a.category-link, 
-    .tag, .tag a, .post-tags a, .article-category a,
-    .nav-link, .category-list a, .widget-tags a {
-        color: #B1976B !important; /* Tüm kategori yazıları Gold */
-        transition: color 0.3s ease;
+    /* 2. TÜM BAŞLIKLAR, "READ ARTICLE" ve "WELCOME" YAZILARI (İnatçı Yeşiller) */
+    h1, h2, h3, h4, h5, h6, 
+    .post-title, .post-title a, 
+    .read-more, .read-more a, .more-link, .btn-link,
+    .hero-title, .section-title, .page-title,
+    .text-primary {
+        color: #B1976B !important;
     }
 
-    /* 3. Aktif Kategori (Örn: Tümü) ve Butonlar */
-    .active, .is-active, .nav-link.active, .filter-button.active,
-    .btn, button, input[type="submit"],
-    .category-tag.active, .tag.active {
-        background-color: #B1976B !important;
+    /* 3. İNATÇI ÇERÇEVELER (Bülten) ve İKONLAR (Zarf vs) */
+    .subscribe-form, .newsletter-box, .newsletter-wrapper, 
+    .card, .border-primary, form, input, .form-control {
         border-color: #B1976B !important;
-        color: #ffffff !important;
+    }
+    
+    /* Zarf ve diğer tüm küçük simgeler */
+    svg, .icon, i, .fa, .fas, .far {
+        color: #B1976B !important;
+        fill: #B1976B !important;
     }
 
-    /* 4. Simge Estetiği (Büyüteç, Ay, Zarf) - Lüks ve Minimalist Dokunuş */
-    .nav-search-button, .dark-mode-toggle, .subscribe-form svg, .newsletter svg,
-    .navbar-toggler, .btn-search, .search-toggle {
-        border: none !important; /* Çirkin çerçeveleri kaldır */
-        background: none !important; /* Renk bloğunu kaldır */
+    /* 4. TEPEDEKİ BÜYÜTEÇ VE AY (Kareleri Buharlaştırıyoruz, Sadece İkon Kalacak) */
+    .navbar button, .header button, 
+    .nav-search-button, .dark-mode-toggle, 
+    header .btn, nav .btn, 
+    .search-toggle, .navbar-toggler {
+        background: transparent !important; /* Arka planı tamamen yok et */
+        background-color: transparent !important;
+        border: none !important;
         box-shadow: none !important;
         padding: 5px !important;
-        cursor: pointer;
-        transition: transform 0.3s ease, color 0.3s ease;
-    }
-
-    /* Simgelerin kendisine asil gold rengini ver */
-    .nav-search-button svg, .dark-mode-toggle svg, .subscribe-form svg, .newsletter svg,
-    .navbar-toggler svg, .btn-search svg, .search-toggle svg,
-    svg.icon-primary, .text-primary svg {
-        fill: #B1976B !important;
         color: #B1976B !important;
-        height: 20px; /* Pinterest gibi ince ve minimalist */
-        width: 20px;
-        transition: fill 0.3s ease;
+    }
+    
+    /* O ikonların boyutunu ve rengini asil bir hale getiriyoruz */
+    .navbar button svg, .header button svg,
+    .nav-search-button svg, .dark-mode-toggle svg {
+        width: 22px !important;
+        height: 22px !important;
+        fill: #B1976B !important;
+        transition: all 0.3s ease;
+    }
+    
+    /* Üstüne gelince hafif büyüme efekti */
+    .navbar button:hover svg, .header button:hover svg {
+        transform: scale(1.1);
+        fill: #C5A059 !important;
     }
 
-    /* Simgelerin üstüne gelinceki hafif ışıltı */
-    .nav-search-button:hover svg, .dark-mode-toggle:hover svg, .navbar-toggler:hover svg {
-        fill: #C5A059 !important; /* Hafif daha açık gold */
-        transform: scale(1.1); /* Çok hafif büyüme */
-    }
-
-    /* 5. Çerçeveler ve Diğer Unsurlar */
-    .subscribe-form, .newsletter, .newsletter-box,
-    .border-primary, .widget, .card, fieldset, 
-    input:focus, textarea:focus {
-        border-color: #B1976B !important;
-        outline-color: #B1976B !important;
-    }
-
-    /* Abone Ol Butonu ve Benzerleri */
-    .btn-primary, .btn-primary:hover, .btn-primary:focus {
+    /* 5. Butonlar (Tümü, Abone Ol vb. Gold Kalacak) */
+    .btn, .btn-primary, button[type="submit"], .tag, .category-tag, .active {
         background-color: #B1976B !important;
         border-color: #B1976B !important;
         color: #ffffff !important;
+    }
+    
+    /* Üstteki ikonlar "btn" sınıfından etkilenip kare olmasın diye koruma kalkanı */
+    header .btn, nav .btn, .navbar button, .header button {
+        background-color: transparent !important;
     }
 </style>
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-        // Taktik 1: Logo Değişimi (Önceki Kod)
         var logoElements = document.querySelectorAll('.site-title, .navbar-brand, .logo');
         if(logoElements.length > 0) {
             logoElements[0].innerHTML = '<img src="/assets/images/logo.png" alt="DIVE" style="height: 45px; width: auto; object-fit: contain; margin-top: -5px;">';
@@ -84,22 +83,5 @@
                 }
             });
         }
-
-        // Taktik 2: Büyüteç ve Gece Modu Simgelerini Minimalistleştir
-        // Simgeleri saran düğmeleri hedefleyelim
-        var searchButtons = document.querySelectorAll('.nav-search-button, .btn-search, .search-toggle');
-        var darkModeToggles = document.querySelectorAll('.dark-mode-toggle');
-
-        function styleIcon(iconElement) {
-            if(iconElement) {
-                // CSS ile zaten hallettik ama JavaScript ile de garantiye alalım
-                iconElement.style.background = 'none';
-                iconElement.style.border = 'none';
-                iconElement.style.padding = '5px';
-            }
-        }
-
-        searchButtons.forEach(styleIcon);
-        darkModeToggles.forEach(styleIcon);
     });
 </script>
