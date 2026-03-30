@@ -1,116 +1,58 @@
 ---
 layout: default
-title: "ÇOCUKLARDA DEHB"
-kategori: "Çocuk ve Ergen"
-image: "https://lh6.googleusercontent.com/proxy/WRChoFIsQSBcjyMNWUh_moyzInZPAoSh79CV22WxRIobV0r4KtFVm0agdgVNSMZVtlLMKUjiPK7xLvgG948dFkE-AKZhBzN2gQFt9wtpe7t0aUF0qapTO0yfZra4-sK21Tk"
+title: ÇOCUKLARDA DEHB
+kategori: Çocuk ve Ergen
+image: https://lh6.googleusercontent.com/proxy/WRChoFIsQSBcjyMNWUh_moyzInZPAoSh79CV22WxRIobV0r4KtFVm0agdgVNSMZVtlLMKUjiPK7xLvgG948dFkE-AKZhBzN2gQFt9wtpe7t0aUF0qapTO0yfZra4-sK21Tk
 ---
 
-Hiperaktivite; çocuk ve ergenlerde yaşına uygun olmayan düzeyde aşırı hareketlilik, yerinde duramama, sabırsızlık ve dürtüsel davranışlar ile karakterize bir durumdur. Çocuk, sakin kalması gereken ortamlarda bile hareket etme ihtiyacı hisseder ve davranışlarını kontrol etmekte zorlanır.
+# Yaramazlık mı, Nörolojik Bir Farklılık mı? Çocuklarda DEHB Rehberi
 
-Bu durum çocuğun okul başarısını, arkadaş ilişkilerini ve aile yaşamını olumsuz etkileyebilir ve çoğunlukla Dikkat Eksikliği ve Hiperaktivite Bozukluğu (DEHB) kapsamında değerlendirilir.Hiperaktivitenin ortaya çıkmasında genetik faktörler önemli bir rol oynar. Araştırmalar, hiperaktivite ve DEHB’nin ailevi geçiş gösterdiğini ortaya koymuştur.
+Her çocuk zaman zaman hareketli olabilir veya ödev yaparken dikkati dağılabilir. Ancak bazı çocuklar için bu durum, günlük yaşamı ve öğrenme sürecini engelleyen kronik bir hal alır. Tıbbi adı **Dikkat Eksikliği ve Hiperaktivite Bozukluğu (DEHB)** olan bu durum, sanılanın aksine bir "karakter zayıflığı" veya "kötü ebeveynlik" sonucu değil, beynin çalışma biçimiyle ilgili biyolojik bir farklılıktır.
 
-Anne, baba veya kardeşlerde DEHB/hiperaktivite varsa, çocukta görülme riski artar.
+## 1. DEHB’nin Üç Farklı Görünümü
 
-Tek yumurta ikizlerinde görülme oranı, çift yumurta ikizlerine göre daha yüksektir.
+DEHB her çocukta aynı şekilde ortaya çıkmaz. Genellikle üç ana tipte gözlemlenir:
 
-Dürtü kontrolü, dikkat ve hareket düzenlenmesinde görevli beyin kimyasalları (özellikle dopamin ve noradrenalin) ile ilişkili genlerde farklılıklar saptanmıştır.
+1. **Dikkat Eksikliği Baskın Tip:** Hiperaktivite azdır; çocuk daha çok "hayalperest" gibi görünür, eşyalarını sık kaybeder ve detayları gözden kaçırır.
+2. **Hiperaktivite-Dürtüsellik Baskın Tip:** Yerinde duramaz, sürekli konuşur, sırasını beklemekte zorlanır ve tehlikeli işlere atılmaya meyillidir.
+3. **Bileşik Tip:** Hem dikkat eksikliği hem de aşırı hareketlilik belirtileri bir arada görülür.
 
-Genetik yatkınlık tek başına belirleyici değildir; çevresel faktörlerle etkileşim içinde belirtiler ortaya çıkar.
+## 2. En Yaygın DEHB Belirtileri Nelerdir?
 
-Sonuç olarak: Genetik faktörler hiperaktiviteye zemin hazırlar, ancak belirtilerin şiddeti ve görünümü çevresel koşullar ve destekle değişebilir.Çocuk ve ergenlerde DEHB (Dikkat Eksikliği ve Hiperaktivite Bozukluğu) için yapılabilecekler, en etkili şekilde aile–okul–uzman iş birliği ile yürütülür. Ailelerin rolü çok kritiktir. Aşağıda pratik ve bilimsel olarak önerilen yaklaşımları başlıklar halinde anlattım:
+Eğer çocuğunuzda şu belirtiler **en az 6 aydır** ve birden fazla ortamda (hem evde hem okulda) görülüyorsa bir uzmana danışmanız faydalı olabilir:
 
-🔹 AİLELER NELER YAPABİLİR?
-🧠 1. DEHB’yi Doğru Anlamak
+- Basit talimatları takip etmekte güçlük çekme.
+- Doğrudan kendisine konuşulduğunda dinlemiyormuş gibi görünme.
+- Ödevlerde veya oyunlarda dikkati sürdürememe.
+- Soru tamamlanmadan cevabı ağzından kaçırma.
+- Sessizce oyun oynamakta zorlanma, sürekli bir "motor takılmış gibi" hareket etme.
 
-DEHB isteyerek yapılan bir davranış bozukluğu değildir.
+## 3. DEHB Neden Olur?
 
-“Yaramazlık”, “tembellik” ya da “şımarıklık” değildir.
+Bilimsel araştırmalar, DEHB’nin temelinde genetik faktörlerin ve beyin kimyasındaki (özellikle **dopamin** ve **norepinefrin**) dengesizliklerin yattığını göstermektedir. Beynin "yönetici işlevler"inden sorumlu olan ön bölgesi (prefrontal korteks), DEHB olan çocuklarda mesajları iletmekte daha yavaş kalabilir.
 
-Beynin dikkat, dürtü kontrolü ve planlama alanlarıyla ilgilidir.
+## 4. Ebeveynler İçin 5 Pratik Yönetim Stratejisi
 
-👉 Suçlamak ve etiketlemek, çocuğun özgüvenini ciddi şekilde zedeler.
+DEHB olan bir çocuğa sahip olmak sabır gerektirir. İşte süreci kolaylaştıracak ipuçları:
 
-🏠 2. Ev Ortamını Düzenlemek
+1. **Rutinin Gücü:** Belirsizlik kaygıyı artırır. Yemek, uyku ve ödev saatlerinin her gün aynı olması çocuğu rahatlatır.
+2. **Kısa ve Net Komutlar:** "Odanı topla" demek yerine; "Önce oyuncaklarını kutuya koy, sonra kitaplarını rafa diz" gibi tek adımlı komutlar verin.
+3. **Olumlu Geri Bildirim:** Yanlışlarını eleştirmek yerine, doğru yaptığı en küçük bir şeyi bile (örneğin 5 dakika masada oturması) hemen övün.
+4. **Enerji Boşaltma Alanları:** Fiziksel aktivite, DEHB olan çocuklar için doğal bir ilaç gibidir. Spor, beyindeki odaklanma kimyasallarını artırır.
+5. **Görsel Hatırlatıcılar:** Yapılacaklar listesi, renkli panolar ve zamanlayıcılar kullanmak, zaman algısı zayıf olan çocuğa yardımcı olur.
 
-Net kurallar ve tutarlı rutinler oluşturun.
+## 5. Tedavi Yöntemleri
 
-Günlük programı görsel olarak asın (resimli/renkli).
+DEHB tedavisi "terzi usulü" yani çocuğa özel olmalıdır:
 
-Ödev ve ders için sessiz, sade bir alan sağlayın.
+- **Davranış Terapisi:** Çocuğun sosyal becerilerini geliştirmeyi ve dürtülerini kontrol etmeyi amaçlar.
+- **İlaç Tedavisi:** Uzman bir çocuk psikiyatristi tarafından önerildiğinde, beyin kimyasını dengeleyerek odaklanmayı artırabilir.
+- **Okul Desteği:** Öğretmenle iş birliği yaparak çocuğun sınıfta ön sırada oturması veya sınav süresinin uzatılması gibi düzenlemeler yapılabilir.
 
-Televizyon, tablet, telefon gibi dikkat dağıtıcıları sınırlandırın.3. Zamanı Küçük Parçalara Bölmek
+***
 
-Uzun süreli görevler yerine:
+### **Sonuç: DEHB Bir Engel Değil, Farklı Bir Bakış Açısıdır**
 
-10–15 dakikalık çalışma
+Doğru destekle DEHB olan çocuklar; yaratıcılıkları, yüksek enerjileri ve dış kutunun dışındaki düşünme yetenekleriyle çok başarılı bireyler olabilirler. Önemli olan onlara "bozuk" gibi değil, sadece farklı bir öğrenme ritmine sahip bireyler olarak yaklaşmaktır.
 
-5 dakikalık mola
-
-Zamanlayıcı (timer) kullanmak çok işe yarar.
-
-⭐ 4. Olumlu Davranışı Pekiştirmek
-
-Olumsuzdan çok olumluya odaklanın.
-
-Hemen ve net geri bildirim verin:
-
-❌ “Yine yerinde duramıyorsun”
-
-✅ “5 dakika yerinde oturabildin, bunu fark ettim”
-
-🎯 Ödül sistemi (puan, yıldız tablosu) çok etkilidir.5. İletişim Şekli Çok Önemli
-
-Kısa, net, tek cümlelik yönergeler verin.
-
-Göz teması kurarak konuşun.
-
-Aynı anda birden fazla talimat vermeyin.
-
-😴 6. Uyku, Beslenme ve Fiziksel Aktivite
-
-Düzenli uyku saatleri (çok önemli!)
-
-Şekerli ve katkılı gıdaları sınırlamak
-
-Günlük spor ve hareket (özellikle yüzme, koşu, takım sporları)
-
-🏫 7. Okul ile İş Birliği
-
-Öğretmeni mutlaka bilgilendirin.
-
-Oturma düzeni (ön sıra), kısa görevler, mola hakkı gibi düzenlemeler isteyin.
-
-Rehber öğretmenle düzenli iletişim kurun.8. Uzman Desteği Almak
-
-DEHB’de tek bir çözüm yoktur, kombinasyon en etkilisidir:
-
-Çocuk–ergen psikiyatrisi (gerekirse ilaç)
-
-Psikolog ile:
-
-Davranışçı terapi
-
-Aile eğitimi
-
-Sosyal beceri çalışmaları
-
-💊 İlaç her çocukta şart değildir, ama bazı çocuklarda hayat kalitesini ciddi artırır.
-
-❤️ 9. Çocuğun Güçlü Yönlerini Öne Çıkarmak
-
-DEHB’li çocuklar genelde:
-
-Yaratıcı
-
-Enerjik
-
-Hızlı düşünen
-
-Empatik olabilir
-
-İlgi alanlarını destekleyin (spor, sanat, müzik).AİLELERİN KAÇINMASI GEREKENLER
-
-❌ Sürekli ceza
-❌ Kıyaslama (“Bak kardeşin…”)
-❌ Bağırma ve etiketleme
-❌ Tutarsız disiplin
+**YAZAN:** Dilara Türkoğlu
