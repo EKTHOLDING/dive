@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ÇOCUKLARDA DEHB
-kategori: Çocuk ve Ergen
+kategori: Klinik Psikoloji ve Ruh Sağlığı
 image: https://lh6.googleusercontent.com/proxy/WRChoFIsQSBcjyMNWUh_moyzInZPAoSh79CV22WxRIobV0r4KtFVm0agdgVNSMZVtlLMKUjiPK7xLvgG948dFkE-AKZhBzN2gQFt9wtpe7t0aUF0qapTO0yfZra4-sK21Tk
 ---
 
