@@ -36,3 +36,5 @@ If our biology condemns us to this treadmill, is true happiness impossible? Rese
 - **Prioritize Experiences Over Objects:** According to research by **Dr. Thomas Gilovich** at Cornell University, spending money on experiences—like attending a concert or learning a new language—provides more lasting happiness than buying physical goods. Objects gather dust and become part of the background, but memories are reinterpreted and grow more valuable in our minds over time.
 - **The Practice of "Gratitude":** The brain is wired to ignore what it already possesses. Keeping a daily journal of three things you are grateful for forces the brain to "break the adaptation." Neurologically, this retrains the reward system (the striatum) in your brain.
 - **Shifting from Hedonic to Eudaimonic Happiness:** Aristotle distinguished between "Hedonia" (short-term pleasure) and "Eudaimonia"—living with purpose and realizing one's potential. Helping others or creating a work of art is far more resistant to biological adaptation than buying a new gadget.
+
+BY: DİLARA TÜRKOĞLU
