@@ -33,3 +33,5 @@ The solution to these conditions is not to stop helping, but rather to increase 
 2. **Practice Self-Compassion:** Extend the same understanding to yourself that you give to others. Acknowledging that "I am not a robot, and it is normal to be affected" is the first step toward healing.
 3. **Establish Professional Boundaries:** Empathy does not mean "swallowing" another person's pain. Learning to protect your own emotional space while offering support is vital.
 4. **Supervision and Therapy:** Those who regularly hear heavy narratives need a safe space—such as a therapist or a support group—to process and discharge these stories.
+
+BY: DİLARA TÜRKOĞLU
