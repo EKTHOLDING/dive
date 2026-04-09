@@ -35,3 +35,5 @@ The scientific community suggests that this syndrome is not a "disease" but a "t
 - **Focus on Facts, Not Feelings:** When you feel like a fraud, take a piece of paper. On the left, write your "feelings"; on the right, write your "factual achievements" (degrees earned, completed projects, positive feedback). Feelings can lie, but concrete evidence does not.
 - **Abandon Perfectionism:** Impostor syndrome thrives on "all-or-nothing" thinking. Let go of the belief that any work that isn't 100% perfect is "garbage."
 - **Share Your Experience:** When you share these feelings with someone you trust, you will often find they feel the same way. The realization that "I am not alone" is the most powerful antidote to the feeling of fraudulence.
+
+BY: DİLARA TÜRKOĞLU
