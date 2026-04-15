@@ -10,8 +10,6 @@ Kahramanmaraş’ta meydana gelen ve toplumun vicdanını derinden yaralayan oku
 
 **PEKİ NE YAPABİLİRİZ?**
 
-## Gemini şunu dedi:
-
 Bu trajik tabloyu değiştirmek ve çocuklarımızı şiddetin pençesinden kurtarmak için tek bir çözümden ziyade, toplumun her katmanının aynı anda harekete geçmesi gereken "bütüncül bir onarım" sürecine ihtiyacımız var. İlk adım, **evdeki dilin ve zihniyetin değişmesidir.** Aileler, çocuklarına şiddetin bir güç gösterisi değil, bir acizlik göstergesi olduğunu aşılamalıdır. "Kendini ezdirme" bahanesiyle şiddete yönlendirmek yerine, çatışma çözme becerileri ve empati duygusu önceliklendirilmelidir. Ayrıca ebeveynlerin, çocuklarının dijital dünyada ve sosyal çevrelerinde nelerle temas ettiğini, o silahların çocukların eline nasıl bu kadar kolay ulaştığını sorgulayan, denetleyen ama bunu baskıyla değil güvenle yapan birer rehber olmaları şarttır.
 
 Okullarda ise öğretmenlerin sadece müfredat yetiştiren birer anlatıcı değil, her bir çocuğun ruhsal değişimini gözlemleyen birer **"duygusal dedektif"** olması gerekir. Sorunlu davranış sergileyen çocuk dışlanmak veya sadece cezalandırılmak yerine; okul psikolojik danışmanları, aile ve öğretmen üçgeninde rehabilite edilmelidir. Okulun duvarları arasına sızan zorbalık, "çocuktur yapar" denilerek geçiştirilmemeli, en küçük bir şiddet belirtisinde profesyonel müdahale başlatılmalıdır.
