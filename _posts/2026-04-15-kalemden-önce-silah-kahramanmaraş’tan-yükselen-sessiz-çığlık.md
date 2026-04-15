@@ -1,0 +1,27 @@
+---
+layout: default
+lang: tr
+title: Kalemden Önce Silah Kahramanmaraş’tan Yükselen Sessiz Çığlık
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://res.cloudinary.com/dk9zsrfpj/image/upload/v1776275173/KAHRAMANMARA%C5%9E_SALDIRI_wshndf.png
+---
+
+Kahramanmaraş’ta meydana gelen ve toplumun vicdanını derinden yaralayan okul saldırısı, aslında buzdağının sadece görünen kısmını temsil eden, çok katmanlı bir toplumsal krizin dışavurumudur. Çocukların oyun parklarında olması gereken ellerinde ateşli silahlarla gezmesi ve bu ölümcül araçları birer güç gösterisi nesnesi olarak görmeleri, şiddetin ne denli kanıksandığını ve sıradanlaştığını gözler önüne sermektedir. Kendi akranlarına karşı acımasızca, hatta yaşam hakkını hiçe sayacak şekilde ölümcül bir tutum sergileyen bu çocuklar, aslında içinde yetiştikleri öfke kültürünün birer kurbanıdırlar. Bu noktada en büyük sorumluluk payı şüphesiz ailelerindir; zira temel eğitim ailede başlar ve şiddeti bir sorun çözme yöntemi olarak gören, çocuğunun elindeki tehlikeyi fark etmeyen veya bunu bir "erkeklik/güç" gösterisi olarak alkışlayan ebeveyn tutumları, felaketin taşlarını döşemektedir. Disiplin ile şiddeti, sevgi ile şımartılmayı birbirine karıştıran yanlış eğitim modelleri, çocukların empati yeteneğinden yoksun, vicdani frenleri boşalmış bireyler olarak büyümesine neden olmaktadır. Bu karanlık tabloya eğitim kurumlarındaki bazı öğretmenlerin sergilediği ihmalkâr veya sert tutumlar da eklendiğinde, okul bir yuva olmaktan çıkıp bir gerilim hattına dönüşmektedir. Öğrencinin ruhsal dünyasına dokunmak yerine sadece akademik başarıya odaklanan ya da sorunlu davranışları baskıyla bastırmaya çalışan pedagojik hatalar, çocuktaki dışlanmışlık hissini körüklemektedir. Sonuç olarak, denetimsiz silahlanma, aile içindeki sevgi ve rehberlik eksikliği ve eğitim sistemindeki otoriter çatlaklar birleştiğinde, masumiyetin yerini ne yazık ki telafisi mümkün olmayan trajediler almaktadır.
+
+**PEKİ NE YAPABİLİRİZ?**
+
+## Gemini şunu dedi:
+
+Bu trajik tabloyu değiştirmek ve çocuklarımızı şiddetin pençesinden kurtarmak için tek bir çözümden ziyade, toplumun her katmanının aynı anda harekete geçmesi gereken "bütüncül bir onarım" sürecine ihtiyacımız var. İlk adım, **evdeki dilin ve zihniyetin değişmesidir.** Aileler, çocuklarına şiddetin bir güç gösterisi değil, bir acizlik göstergesi olduğunu aşılamalıdır. "Kendini ezdirme" bahanesiyle şiddete yönlendirmek yerine, çatışma çözme becerileri ve empati duygusu önceliklendirilmelidir. Ayrıca ebeveynlerin, çocuklarının dijital dünyada ve sosyal çevrelerinde nelerle temas ettiğini, o silahların çocukların eline nasıl bu kadar kolay ulaştığını sorgulayan, denetleyen ama bunu baskıyla değil güvenle yapan birer rehber olmaları şarttır.
+
+Okullarda ise öğretmenlerin sadece müfredat yetiştiren birer anlatıcı değil, her bir çocuğun ruhsal değişimini gözlemleyen birer **"duygusal dedektif"** olması gerekir. Sorunlu davranış sergileyen çocuk dışlanmak veya sadece cezalandırılmak yerine; okul psikolojik danışmanları, aile ve öğretmen üçgeninde rehabilite edilmelidir. Okulun duvarları arasına sızan zorbalık, "çocuktur yapar" denilerek geçiştirilmemeli, en küçük bir şiddet belirtisinde profesyonel müdahale başlatılmalıdır.
+
+En kritik nokta ise **toplumsal denetim ve yasaların kararlılığıdır.** Ateşli silahların bir oyuncak gibi sergilenmesi, sosyal medyada şiddet içerikli paylaşımların yüceltilmesi ve bireysel silahlanmanın kolaylığına karşı devlet düzeyinde çok sıkı önlemler alınmalıdır. Çocukların şiddeti bir "kahramanlık hikayesi" olarak gördüğü bu çarpık kültürel kodları, sanatla, sporla ve gerçek başarı hikayeleriyle temizlemek zorundayız. Kısacası; ailenin sevgisi, öğretmenin dikkati ve devletin denetimi birleşmediği sürece, sadece olayların ardından yas tutmaya devam ederiz. Çözüm, o silahı çocuğun elinden almaktan ziyade, o silahı tutma isteğini onun zihninden silecek bir sevgi ve güven ortamı inşa etmektir.
+
+**Sizce bu tür trajedilerin önüne geçmede en büyük engel, ailelerin konuya olan duyarsızlığı mı yoksa toplumsal olarak şiddeti normalleştirmemiz mi?**
+
+Toplum olarak şiddeti bir "sorun çözme aracı" veya bir "erkeklik/güç simgesi" olarak gördüğümüzde, çocuklar bu iklimin içinde büyüyor. Televizyon dizilerinden sosyal medya videolarına kadar her yerde silahın bir otorite aracı olarak sunulması, çocuğun zihninde "Güçlü olmak istiyorsan korku salmalısın" fikrini meşrulaştırıyor. Bu durum, bireysel hataları aşan kolektif bir kültürel sorun haline geliyor. Aileler, çoğu zaman çocuklarının elindeki tehlikenin boyutunu küçümsüyor. "Benim çocuğum yapmaz" savunmacılığı ya da çocuğun sergilediği zorbalığı "kendini savunuyor" diyerek alkışlamak, duyarsızlığın en tehlikeli halidir. Bilimsel araştırmalar, aile içi iletişimin zayıf olduğu ve sevginin koşullu sunulduğu ortamlarda büyüyen çocukların, aidiyet hissini sokakta veya şiddet gruplarında aradığını gösteriyor.gerçek çözüm; bir babanın evdeki silahı yok etmesiyle, bir öğretmenin sınıftaki sessiz çocuğun gözlerindeki hüznü fark etmesiyle ve toplumun "eline sağlık" yerine "bu bir cinayettir" diyebilmesiyle başlar. Şiddet bir kader değil, bir **tercihtir.** Biz toplum olarak bu tercihi reddetmediğimiz sürece, ailelerin bireysel çabaları maalesef bir noktada yetersiz kalacaktır.
+
+YAZAN: Psk. DİLARA TÜRKOĞLU 
+
+! KAHRAMANMARAŞTA BULUNAN ORTAOKUL SALDIRISINDA TÜM AİLE VE EĞİTMENLERİNE SABIR, HAYATINI KAYBEDENLERİN AİLELERİNE BAŞ SAĞLIĞI DİLİYORUM.
