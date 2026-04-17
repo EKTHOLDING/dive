@@ -5,29 +5,17 @@ kategori: İlişki ve Aile Psikolojisi
 image: https://res.cloudinary.com/dk9zsrfpj/image/upload/v1774810015/ZORBALIK_autbv7.png
 ---
 
-# Sessiz Çığlık: Akran Zorbalığını Anlamak ve Durdurmak
-
-Okul bahçelerinde, sınıflarda ve artık dijital dünyada yankılanan bir sorun var: **Akran Zorbalığı.** Genellikle "çocuklar kendi aralarında halleder" denilerek geçiştirilen bu durum, aslında bireyin özgüvenini sarsan, akademik başarısını düşüren ve yetişkinlikte bile peşini bırakmayan psikolojik bir travma kaynağıdır.
-
-## 1. Akran Zorbalığı Nedir?
-
-Akran zorbalığı; bir veya birden fazla öğrencinin, kendilerinden daha güçsüz gördükleri bir akranlarına karşı **kasıtlı, sürekli ve tekrarlayan** şekilde uyguladıkları olumsuz eylemlerdir. Bir olayın zorbalık sayılması için üç temel kriter vardır: **Kasıt, süreklilik ve güç dengesizliği.**
-
-### Zorbalık Türleri:
+Okul bahçelerinde, sınıflarda ve artık dijital dünyada yankılanan bir sorun var: **Akran Zorbalığı.** Genellikle "çocuklar kendi aralarında halleder" denilerek geçiştirilen bu durum, aslında bireyin özgüvenini sarsan, akademik başarısını düşüren ve yetişkinlikte bile peşini bırakmayan psikolojik bir travma kaynağıdır.Akran zorbalığı; bir veya birden fazla öğrencinin, kendilerinden daha güçsüz gördükleri bir akranlarına karşı **kasıtlı, sürekli ve tekrarlayan** şekilde uyguladıkları olumsuz eylemlerdir. Bir olayın zorbalık sayılması için üç temel kriter vardır: **Kasıt, süreklilik ve güç dengesizliği.**
 
 - **Fiziksel Zorbalık:** İtme, vurma, eşyalarına zarar verme.
 - **Sözel Zorbalık:** Alay etme, lakap takma, tehdit etme.
 - **Sosyal (İlişkisel) Zorbalık:** Gruptan dışlama, dedikodu yayma, yalnızlaştırma.
 - **Siber Zorbalık:** Sosyal medya veya mesajlaşma yoluyla küçük düşürücü paylaşımlar yapma.
 
-## 2. Zorbalığın Psikolojik Anatomisi
-
 Bu döngüde sadece "kurban" değil, "zorba" da yardıma ihtiyaç duyar.
 
 - **Kurban Psikolojisi:** Sürekli korku, çaresizlik, okula gitme isteksizliği ve düşük özsaygı. İleri aşamalarda depresyon ve anksiyete bozuklukları tetiklenebilir.
 - **Zorba Psikolojisi:** Genellikle empati eksikliği, güç uygulama arzusu veya kendi yaşadığı yetersizlik hissini başkasını ezerek bastırma çabası görülür. Çoğu zaman zorba olan çocuk, başka bir ortamda zorbalığa maruz kalıyor olabilir.
-
-## 3. Çocuğunuzun Zorbalığa Uğradığını Nasıl Anlarsınız?
 
 Çocuklar çoğu zaman utandıkları veya korktukları için yaşadıklarını anlatmazlar. Ebeveynler şu işaretlere dikkat etmelidir:
 
@@ -37,7 +25,7 @@ Bu döngüde sadece "kurban" değil, "zorba" da yardıma ihtiyaç duyar.
 - Sosyal çevreden kopma, içe kapanma.
 - Uyku bozuklukları ve kabuslar.
 
-## 4. Çözüm Stratejileri: Ne Yapmalı?
+## Ne Yapmalı?
 
 Zorbalıkla mücadele; okul, aile ve öğrenci üçgeninde yürütülmelidir.
 
@@ -45,10 +33,6 @@ Zorbalıkla mücadele; okul, aile ve öğrenci üçgeninde yürütülmelidir.
 - **Okulla İş Birliği Yapın:** Durumu sınıf öğretmeni ve okul rehberlik servisiyle paylaşın. "Kendi aralarında çözerler" düşüncesinden uzak durun.
 - **Dijital Okuryazarlık:** Siber zorbalığa karşı çocuğunuzun sosyal medya kullanımını takip edin ve ona "engelleme/ihbar etme" gibi yöntemleri öğretin.
 - **Empati Eğitimi:** Hem ailede hem okulda çocuklara farklılıklara saygı duyma ve empati kurma becerisi aşılanmalıdır.
-
-***
-
-### **Sonuç: Zorbalık Bir Seçimdir, Kader Değil**
 
 Akran zorbalığı, bir çocuğun büyüme sancısı değildir; müdahale edilmesi gereken bir ihlaldir. Sessiz kalmamak, farkında olmak ve çocuklara "hayır" diyebilecekleri güvenli bir ortam sunmak hepimizin görevidir.
 
