@@ -46,4 +46,4 @@ Today, **"Spiritually Integrated Psychotherapy"** incorporates the client's beli
 
 Mental health is not just a biochemical balance; it is a state of spiritual peace. The "middle path" philosophy offered by Islam provides a spiritual sanctuary and balance for the individual against the hyper-competitive and chaotic nature of the modern world.
 
-**By:** Dilara Türkoğlu
+**By:** Dilara KARABACAK
