@@ -49,4 +49,4 @@ Eğer birey kendine veya çevresine zarar verme eğilimindeyse, gerçeklik algı
 
 Akut bir rahatsızlık yaşamak, bireyin "zayıf" olduğu anlamına gelmez; sadece sistemin aşırı yüklendiğini gösterir. Doğru müdahale ve zamanında profesyonel destekle, bu fırtınalı süreç bireyin psikolojik dayanıklılığını (resilience) artıran bir dönüşüm hikayesine evrilebilir.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
