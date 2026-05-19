@@ -39,3 +39,5 @@ For the modern individual, escaping this isolation requires more than just "bein
 - **The Power of Weak Ties:** Short, casual contacts—with a courier, a neighbor, or a stranger on the bus—stimulate the "trust" centers of the brain.
 - **Eye Contact and Oxytocin:** Bonds formed solely through digital screens result in very low releases of oxytocin, the "trust hormone." Physical presence and eye contact are the keys to biological healing.
 - **Hobby Groups and Common Goals:** The brain reaches its highest level of peace when it feels part of a group gathered for a shared purpose (volunteering, sports, a choir, etc.).
+
+BY: DİLARA KARABACAK
