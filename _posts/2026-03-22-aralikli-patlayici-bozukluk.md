@@ -51,4 +51,4 @@ APB kendi kendine geçmez, ancak profesyonel destekle yönetilebilir:
 
 Aralıklı Patlayıcı Bozukluk bir seçim değil, bir rahatsızlıktır. Doğru destekle, o "patlama noktasına" gelmeden durmayı öğrenmek ve huzurlu bir yaşam sürmek mümkündür. Unutmayın, yardım istemek zayıflık değil, kontrolü geri alma adımıdır.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
