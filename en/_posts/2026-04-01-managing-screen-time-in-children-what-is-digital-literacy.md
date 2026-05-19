@@ -58,4 +58,4 @@ Be alert if you notice these signs:
 
 When managed correctly, the digital world is a magnificent library that enriches your child's world. Our goal is not to completely sever children from screens, but to build a life where they can be happy even when the screen is off, and teach them to use technology wisely.
 
-**By:** Dilara Türkoğlu
+**By:** Dilara KARABACAK
