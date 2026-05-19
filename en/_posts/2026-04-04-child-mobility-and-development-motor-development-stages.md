@@ -10,14 +10,14 @@ image: https://res.cloudinary.com/dk9zsrfpj/image/upload/v1775332006/Gemini_Gene
 
 While a child who "can't sit still" is often perceived as a challenge for parents, from the perspective of developmental psychology and neurology, this mobility is the strongest signal of healthy growth. Movement is a child's primary way of exploring the world and the fundamental tool they use to "build" their brain.
 
-## 1. The Link Between Movement and Neurological Development
+## 
 
 Mobility in children is not merely a physical act; it is directly hardwired to **brain development**.
 
 - **Myelination:** As a child moves, the myelin sheaths that speed up communication between nerve cells are strengthened.
 - **Balance and Coordination:** Constant activity stimulates the cerebellum. This supports not only physical balance but also executive functions like attention span and emotional regulation.
 
-## 2. Mobility Across Developmental Stages
+## 
 
 A child’s need for movement evolves as they grow:
 
@@ -25,7 +25,7 @@ A child’s need for movement evolves as they grow:
 - **3-5 Years (The Energy Burst):** This is the peak of gross motor skills (running, jumping). Children test their physical boundaries and develop body awareness.
 - **6+ Years (Skill-Oriented Movement):** Movement becomes more purposeful. The ability to master a specific sport or engage in complex, rule-based games develops.
 
-## 3. Distinguishing "Impulsivity" from "Healthy Mobility"
+## 
 
 Not every active child has ADHD. In healthy developmental mobility, a child:
 
@@ -33,7 +33,7 @@ Not every active child has ADHD. In healthy developmental mobility, a child:
 2. Feels the need to rest when tired.
 3. Is aware of physical dangers (at an age-appropriate level). If the mobility is characterized by constant "crashing," a feeling of being "driven by a motor," and a total lack of danger awareness, consulting a specialist may be beneficial.
 
-## 4. Turning Mobility into a Developmental Opportunity
+## 
 
 Instead of saying "Stop it!" or "Sit down!", parents should channel this energy effectively:
 
@@ -41,10 +41,8 @@ Instead of saying "Stop it!" or "Sit down!", parents should channel this energy 
 - **Structured Movement:** Dancing, obstacle courses, or organized sports allow energy to be spent in a planned, cognitive way.
 - **Nature Exposure:** The outdoors is the healthiest environment for children to satisfy their need for large-scale movement.
 
-***
-
 ### **Conclusion: A Moving Child is a Learning Child**
 
 A child’s need to move is their appetite for learning. A child who runs, jumps, and explores is essentially preparing their nervous system for life. Remember: the highly active children of today are the energetic, solution-oriented adults who will change the world tomorrow.
 
-**By:** Dilara Türkoğlu
+**By:** Dilara KARABACAK
