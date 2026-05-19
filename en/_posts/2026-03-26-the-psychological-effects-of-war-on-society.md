@@ -10,24 +10,12 @@ image: /assets/images/SOCİETY.jpg
 
 **Meta Description:** Explore the profound psychological impacts of war on society. A detailed analysis of collective trauma, intergenerational transmission, and societal anxiety.
 
-***
-
-## 1. Collective Trauma and the Loss of Trust
-
 War creates a **collective trauma** that transcends individuals and encompasses the entire society. The fundamental belief that "the world is a safe place," which forms the bedrock of a community, is shattered. This leads to a state of constant hyper-vigilance and a sense of alienation among individuals.
 
 - **Erosion of Trust:** Faith in institutions, fellow citizens, and the future is weakened.
 - **Social Fragmentation:** The polarization brought by war can sever the bonds of solidarity within a society.
 
-***
-
-## 2. Intergenerational Trauma Transmission
-
 The effects of war are not limited to those who experience it firsthand. The fear, grief, and stress experienced by parents are passed down to subsequent generations through parenting styles and narratives. Scientific studies show that severe trauma can cause anxiety disorders even in grandchildren through **epigenetic** pathways or behavioral modeling.
-
-***
-
-## 3. Societal Anxiety and PTSD (Post-Traumatic Stress Disorder)
 
 The most tangible psychological consequence of war is the increase in Post-Traumatic Stress Disorder (PTSD) cases across the general population. However, this is not limited to soldiers; civilians exhibit similar symptoms:
 
@@ -35,15 +23,7 @@ The most tangible psychological consequence of war is the increase in Post-Traum
 - **Emotional Numbing:** Becoming unresponsive or detached from surrounding events.
 - **Hyper-vigilance:** A state of extreme alertness and being easily startled by the slightest noise.
 
-***
-
-## 4. The Complexity of Loss and the Grieving Process
-
 Under normal circumstances, the grieving process is completed through specific rituals. However, during wartime, this process is disrupted by "ambiguous losses" (missing loved ones, inaccessible funerals). Unresolved grief lays the groundwork for chronic sadness and outbursts of anger within the community.
-
-***
-
-## 5. Is Healing Possible? Societal Resilience
 
 Despite the devastating effects of war, societies possess the capacity to develop **psychological resilience**. The healing process can be supported by the following steps:
 
@@ -53,14 +33,10 @@ Despite the devastating effects of war, societies possess the capacity to develo
 
 > **In Summary:** The physical debris left by war can be cleared, but lifting the mental rubble is a long journey that requires professional support and societal compassion.
 
-***
-
-### Keywords:
-
 - Psychological effects of war
 - What is collective trauma?
 - Societal psychology and war
 - Intergenerational trauma transmission
 - Post-war social structure
 
-Author: DİLARA TÜRKOĞLU
+Author: DİLARA KARABACAK
