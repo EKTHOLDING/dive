@@ -35,4 +35,4 @@ Adaletsizlik algısını kırmak ve aile bağlarını güçlendirmek için şu a
 
 Bir ailede sevgi kadar önemli olan şey, o sevginin adil dağıtıldığına dair duyulan inançtır. Adalet hissinin olduğu bir evde çocuklar, dış dünyadaki haksızlıklara karşı daha dirençli ve özgüvenli bireyler olarak yetişirler.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
