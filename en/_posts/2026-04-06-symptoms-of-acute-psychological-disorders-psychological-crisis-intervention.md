@@ -49,4 +49,4 @@ If the individual shows a tendency to harm themselves or others, if their percep
 
 Experiencing an acute disorder does not mean an individual is "weak"; it simply indicates that the system is overloaded. With the right intervention and timely professional support, this stormy period can evolve into a story of transformation that enhances psychological resilience.
 
-**By:** Dilara Türkoğlu
+**By:** Dilara KARABACAK
