@@ -8,7 +8,7 @@ image: https://res.cloudinary.com/dk9zsrfpj/image/upload/v1775415235/Gemini_Gene
 
 # The Body Keeps the Score: Chronic Stress and Somatic Awareness
 
-The pace of modern life continues to push the evolutionary capacity of human biology. Most adults attribute symptoms like chronic fatigue, unexplained back pain, or digestive issues solely to physical factors. However, clinical psychology—pioneered by the principle that **"The Body Keeps the Score"**—proves that unprocessed stress is stored in our muscles and our nervous system.
+The pace of modern life continues to push the evolutionary capacity of human biology. Most adults attribute symptoms like chronic fatigue, unexplained back pain, or digestive issues solely to physical factors. However, clinical psychology—pioneered by the principle that \*\*"The Body Keeps the Score"\*\*—proves that unprocessed stress is stored in our muscles and our nervous system.
 
 ## 1. The Language of the Nervous System: Fight, Flight, or Freeze
 
@@ -43,4 +43,4 @@ If you cannot calm your mind, use your body to send a "we are safe" signal to yo
 
 Healing is not just about what we think, but how we feel. When you begin to read your body’s signals not as "glitches" but as "messages," you unlock the door to freedom from chronic stress. Ask yourself: _"What is my body trying to tell me right now?"_
 
-**By:** Dilara Türkoğlu
+**By:** Dilara KARABACAK
