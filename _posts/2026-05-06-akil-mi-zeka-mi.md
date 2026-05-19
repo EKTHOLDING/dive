@@ -33,6 +33,6 @@ Modern dünyada sadece zeki olmak (yüksek akademik başarı, teknik beceri) yet
 
 Eğer çevrenizdekiler size sürekli **"Çok kafası çalışıyor, çok kıvrak"** diyorsa zekânız ön planda olabilir.Eğer insanlar size gelip **"Senin fikrin nedir, sence ne yapmalıyım?"** diye danışıyorsa, yani bir "sağduyu" merkeziyseniz, aklınız (hikmetiniz) ön planda demektir.
 
-YAZAN: PSİKOLOG DİLARA TÜRKOĞLU
+YAZAN: PSİKOLOG DİLARA KARABACAK
 
 © 2026 DİVE MEDYA Tüm hakları saklıdır. Bu sitede yer alan metinler, kaynak gösterilse dahi izinsiz kopyalanamaz ve yayınlanamaz.
