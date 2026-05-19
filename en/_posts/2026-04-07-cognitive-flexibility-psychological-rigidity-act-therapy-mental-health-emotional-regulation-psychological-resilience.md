@@ -32,7 +32,7 @@ As one of the "Third Wave" approaches in modern psychology, **Acceptance and Com
 
 Research indicates that individuals with high levels of cognitive flexibility are more resilient against modern psychological issues such as depression, anxiety, and burnout. A flexible mind does not get stuck on a single path when facing a problem; instead, it develops alternative strategies and excels in emotional regulation.
 
-### 3 Practical Methods to Increase Mental Flexibility
+###  Practical Methods to Increase Mental Flexibility
 
 Training your mind to be more flexible is much like exercising a muscle. Here are some methods you can implement:
 
@@ -40,4 +40,4 @@ Training your mind to be more flexible is much like exercising a muscle. Here ar
 - **Define Your Values:** Goals are temporary, but values are like a compass. Clarify what motivates you at your core (e.g., honesty, growth, compassion).
 - **Step Out of Your Comfort Zone:** Even changing minor routines—such as taking a different route to work or trying a new hobby—supports the brain’s neuroplasticity and fosters greater flexibility.
 
-BY: DİLARA TÜRKOĞLU
+BY: DİLARA KARABACAK
