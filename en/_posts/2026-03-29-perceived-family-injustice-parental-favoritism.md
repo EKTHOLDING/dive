@@ -46,4 +46,4 @@ To break the cycle of perceived injustice and strengthen family bonds, the follo
 
 In a family, what is just as important as love itself is the belief that love is distributed fairly. In a home where the sense of justice is preserved, children grow up to be more resilient, confident individuals capable of navigating the injustices of the outside world.
 
-**Written by:** Dilara Türkoğlu
+**Written by:** Dilara KARABACAK
