@@ -34,4 +34,4 @@ The solution to these conditions is not to stop helping, but rather to increase 
 3. **Establish Professional Boundaries:** Empathy does not mean "swallowing" another person's pain. Learning to protect your own emotional space while offering support is vital.
 4. **Supervision and Therapy:** Those who regularly hear heavy narratives need a safe space—such as a therapist or a support group—to process and discharge these stories.
 
-BY: DİLARA TÜRKOĞLU
+BY: DİLARA KARABACAK
