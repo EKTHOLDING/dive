@@ -12,13 +12,13 @@ For many, the word "hypnosis" conjures up images of a stage magician snapping th
 
 Today, many therapists worldwide utilize **Clinical Hypnosis** to address various issues ranging from addictions to phobias. But how exactly does this process work?
 
-### 1. What is Hypnosis? (Trance State and Focus)
+### 
 
 Hypnosis is a state of **trance** in which an individual detaches from environmental stimuli to focus on their inner world and the therapist’s guidance. Contrary to popular belief, hypnosis is not a state of sleep; rather, it is one of the mind’s most alert and open states.
 
 - **The Critical Faculty:** This is the name given to the "sentinel" part of our consciousness that filters and questions incoming information. During hypnosis, this sentinel temporarily steps aside, allowing suggestions to reach the subconscious directly.
 
-### 2. Fundamental Psychological Terms of Hypnosis
+### 
 
 The concepts used to understand hypnosis demonstrate how systematic this process is:
 
@@ -27,7 +27,7 @@ The concepts used to understand hypnosis demonstrate how systematic this process
 - **Age Regression:** The process where a client mentally returns to a past period, such as childhood, to reconnect with the emotions felt at that time.
 - **Post-Hypnotic Suggestion:** Commands given during hypnosis that are activated by a specific trigger after the session ends. For example, suggesting to someone who wants to quit smoking: "When you smell cigarette smoke, you will take a deep breath and walk away."
 
-### 3. Applications of Clinical Hypnosis
+### 
 
 Clinical hypnosis (hypnotherapy) is not just "talk therapy"; it is a process of mental reprogramming. The most common areas of use include:
 
@@ -36,7 +36,7 @@ Clinical hypnosis (hypnotherapy) is not just "talk therapy"; it is a process of 
 3. **Pain Management (Hypnotic Analgesia):** Applied to alter the brain's perception of pain during chronic pain management or dental procedures.
 4. **Performance Enhancement:** Preferred by athletes or artists to increase focus capacity and self-confidence.
 
-### 4. Common Myths vs. Facts
+### 
 
 - **Myth:** "I will lose control while under hypnosis."
 - **Fact:** A person will never do or say anything contrary to their moral values or personality under hypnosis. The client always remains in control.
@@ -57,4 +57,4 @@ Hypnosis is a deep process where the mind's defense mechanisms are relaxed. Ther
 
 In many countries, including Turkey, the application of hypnosis for therapeutic purposes is legally restricted to **Medical Doctors**, **Dentists**, and **Clinical Psychologists** (within specific certifications).
 
-**Written by:** Dilara Türkoğlu
+**Written by:** Dilara KARABACAK
