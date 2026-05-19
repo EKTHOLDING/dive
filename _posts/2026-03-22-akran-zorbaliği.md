@@ -36,4 +36,4 @@ Zorbalıkla mücadele; okul, aile ve öğrenci üçgeninde yürütülmelidir.
 
 Akran zorbalığı, bir çocuğun büyüme sancısı değildir; müdahale edilmesi gereken bir ihlaldir. Sessiz kalmamak, farkında olmak ve çocuklara "hayır" diyebilecekleri güvenli bir ortam sunmak hepimizin görevidir.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
