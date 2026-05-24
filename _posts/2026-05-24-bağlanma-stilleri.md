@@ -1,0 +1,19 @@
+---
+layout: default
+lang: tr
+title: BAĞLANMA STİLLERİ
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://gipder.com/wp-content/uploads/2025/12/Baglanma-Stilleri-ve-Iliskiler.png
+---
+
+İlişkilerinde sürekli aynı kısırdöngüye sıkışan, tam her şey yolunda giderken aniden uzaklaşan ya da tam tersi, partnerini kaybetme korkusuyla boğulup nefes aldırmayan insanlarla seanslarımda çok sık karşılaşıyorum. Belki de bu satırları okurken, o insanın bizzat kendiniz olduğunu fark ediyorsunuz. Modern dünyada adına kısaca "bağlanma sorunu" deyip geçtiğimiz bu durum, aslında temelleri çocuklukta atılan ve yetişkinlik hayatımızın gölgelerinde yaşayan çok köklü bir psikolojik savunma mekanizmasıdır. Klinik pratiklerimde gördüğüm en büyük yanılgı, insanların bu durumu bir "karakter kusuru" ya da "şanssızlık" olarak görmesidir. Oysa bağlanma stilleri, çocukken o günkü şartlar altında hayatta kalmak, duygusal varlığımızı korumak için geliştirdiğimiz en iyi adaptasyon yöntemleridir. Yaşamın ilk yıllarında bakımverenimizle (genellikle anneyle) kurduğumuz ilişki, zihnimize bir "ilişki haritası" çizer. Eğer bebekken ağladığınızda ihtiyaçlarınız zamanında, sevgiyle ve tutarlı bir şekilde karşılandıysa, haritanız size dünyanın güvenli bir yer olduğunu söyler. Ancak bu süreçte ihmal, tutarsızlık veya aşırı boğucu bir kontrol varsa, yetişkinliğe iki ana savunma mekanizmasından birini taşırsınız. Bu danışanlarım genellikle yakınlığı bir tehdit, özgürlüklerinin kısıtlanması olarak kodlarlar. İlişki derinleştiği an bir alarm zili çalar. Aniden soğuma, partnerin kusurlarına aşırı odaklanma, "hazır değilim" cümlelerinin arkasına saklanma çok tipiktir. İç dünyalarındaki o gizli ses aslında şudur; _"Sana ihtiyacım varmış gibi görünmek istemiyorum, çünkü yaklaşırsan beni incitirsin. En iyisi ben seni terk etmeden önce ben uzaklaşayım."_
+
+### Kıyıya Vuranlar: Kaygılı Bağlanma
+
+Bu gruptaki kişiler ise sürekli bir duygusal açlık ve terk edilme korkusuyla yaşarlar. Partnerden gelen küçücük bir sessizlik, mesajın gecikmesi ya da bir jestin eksikliği zihinlerinde felaket senaryolarına yol açar. Partneri kaybetmemek için kendi benliklerinden, sınırlarından vazgeçebilirler. İç sesleri sürekli fısıldar: _"Lütfen beni bırakma. Eğer gidersen ben tek başıma var olamam, dayanamam."_
+
+## Kaçıngan-Kaygılı Dansı
+
+İşin ironik ve psikolojik açıdan en büyüleyici kısmı şudur: Bu iki tarz, bir mıknatıs gibi birbirini çeker. Kaygılı birey daha fazla yakınlık ve netlik talep ettikçe, kaçıngan birey bunu bir "istila" olarak görür ve duvarlarını yükseltir. Kaçıngan uzaklaştıkça, kaygılı olanın terk edilme şeması tetiklenir ve daha çok üstüne düşer.
+
+> Bu durum, iki tarafın da birbirinin en derin yarasını kanattığı, bitmek bilmeyen ve iki tarafı da tüketen bir kovalama-kaçma dansıdır.Peki, bu kısırdöngüden çıkmak mümkün mü? Klinik çalışmalar bize "kazanılmış güvenli bağlanma" kavramının varlığını gösteriyor. Yani geçmişiniz ne olursa olsun, beyninizin esnekliği (nöroplastisite) sayesinde bu kalıpları dönüştürebilirsiniz. Bunun için şu adımlarla başlamanızı öneriyorum:**Tetikleyicilerinizi Fark Edin (Suçlamadan Gözlemleyin):** İlişkinizde tam olarak ne zaman panikliyorsunuz? Ne zaman kaçma isteği geliyor? O an hissettiğiniz duygu partnerinizin bugünkü davranışı mı, yoksa geçmişten gelen bir yankı mı?**Duygusal Regülasyonu Öğrenin:** Kaygınız yükseldiğinde dünyanızın yıkılmadığını kendinize hatırlatın ve partnerinizden onay almak yerine, kendi kendinizi sakinleştirmeyi (öz-şefkat) deneyin. Eğer kaçmak istiyorsanız, aniden yok olmak yerine partnerinize açıkça şunu söyleyin: _"Şu an biraz yalnız kalmaya ihtiyacım var ama bu seninle ilgili değil, sakinleşince geri döneceğim."_**Güvenli Limanları Seçin:** Sizi sürekli belirsizlikte bırakan, kaygınızı besleyen "fırtınalı" insanlar yerine; açık, net ve güven veren, tabiri caizse "sıkıcı" gelebilecek kadar tutarlı insanlara şans verin.YAZAN: DİLARA KARACACAK
