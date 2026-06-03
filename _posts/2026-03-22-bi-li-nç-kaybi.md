@@ -55,4 +55,4 @@ Bilinç kaybı yaşayan birine müdahale ederken **ABC kuralı** (Airway, Breath
 
 Bilinç kaybı, vücudun "bir şeyler yolunda değil" deme şeklidir. Kısa süreli bir bayılma bile olsa, altında yatan nedenin belirlenmesi için mutlaka bir uzmana danışılmalıdır. Unutmayın, doğru ilk yardım bilgisi panik anında hayat ile ölüm arasındaki çizgiyi belirler.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
