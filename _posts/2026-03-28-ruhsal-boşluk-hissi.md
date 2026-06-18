@@ -41,4 +41,4 @@ Languishing halinden çıkmanın en etkili yolu, pozitif psikolojinin öncüsü 
 
 **Sonuç olarak;** languishing hissettiğinizde kendinizi suçlamayın. Bu, zihninizin bir duraklama dönemidir. Küçük adımlarla, dikkatinizi tek bir noktaya toplayarak yeniden "canlılık" (flourishing) safhasına geçebilirsiniz.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAKI
