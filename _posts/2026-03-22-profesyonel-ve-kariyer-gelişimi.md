@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Profesyonel ve Kariyer Gelişimi"
-kategori: "Kişisel Gelişim"
-image: "https://blog.mabel.com.tr/wp-content/uploads/2023/04/IB_API_P_111932_3d303eb0-2b41-40a0-aee6-2d1436f6f483-657x360.jpg"
+title: Profesyonel ve Kariyer Gelişimi
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://blog.mabel.com.tr/wp-content/uploads/2023/04/IB_API_P_111932_3d303eb0-2b41-40a0-aee6-2d1436f6f483-657x360.jpg
 ---
 
 Profesyonel ve Kariyer Gelişimi, bir bireyin iş dünyasında daha etkili, yetkin ve tercih edilen biri haline gelmek için yürüttüğü stratejik ilerleme sürecidir. Bu alan sadece bir işe girmekle ilgili değil; iş yapış biçiminizi mükemmelleştirmek, liderlik vasıfları kazanmak ve iş-özel hayat dengesini kurmakla ilgilidir.
@@ -46,3 +46,5 @@ Kariyer gelişiminde en etkili öğrenme modelidir:
 %20: Diğer insanlardan (mentorluk, geri bildirim) öğrenme.
 
 %10: Örgün eğitimler, kitaplar ve seminerlerle öğrenme.
+
+YAZAN: DİLARA KARABACAK
