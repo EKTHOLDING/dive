@@ -2,7 +2,7 @@
 layout: default
 title: TOPLUMSAL PSİKOLOJİ VE SAVAŞ
 kategori: İş, Kariyer ve Sosyal Psikoloji
-image: /assets/images/Gemini_Generated_Image_o8sjhro8sjhro8sj (1).png
+image: https://dunyadanismanlikmerkezi.com/wp-content/uploads/2022/02/Sosyal-psikoloji.jpg
 ---
 
 Savaş, sadece cephede verilen fiziksel bir mücadele değil, aynı zamanda toplumların zihninde ve ruhsal yapısında derin izler bırakan kolektif bir travmadır. Bir toplumun sosyal dokusunu, güven duygusunu ve gelecek algısını kökten değiştiren bu süreç, nesiller boyu sürecek psikolojik etkileri de beraberinde getirir.
