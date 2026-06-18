@@ -2,7 +2,7 @@
 layout: default
 title: Toksik Yalnızlık
 kategori: Klinik Psikoloji ve Ruh Sağlığı
-image: /assets/images/Gemini_Generated_Image_3zmb9t3zmb9t3zmb.png
+image: https://psychologytimes.com.tr/wp-content/uploads/2025/05/yalnizlik-mi-toksik.jpg
 ---
 
 ## Toksik Yalnızlık: Sosyal İzolasyonun Nörobiyolojik ve Psikolojik Panoraması
@@ -60,4 +60,4 @@ Toksik yalnızlıktan kurtulmak, sadece "dışarı çıkıp birileriyle tanışm
 > 4. Müdahale ve İyileşme SüreciKaya ile yürütülen süreçte şu adımlar izlenmiştir:**Düşünce Kaydı:** Kaya’ya, sosyal ortamlarda aklından geçen olumsuz düşünceleri not etmesi ve bunların "kanıtlarını" araması öğretildi.**Davranışsal Deneyler:** Bir hafta boyunca, arkadaşlarıyla buluştuğunda telefonunu çantasına koyması ve en az iki kişiye samimi bir soru sorması ödevi verildi.**Duygusal Farkındalık:** Yalnızlık hissettiğinde bu hissi bastırmak yerine (sosyal medya veya alkol ile), bu hissin bedensel olarak nerede hissedildiğine (göğüs sıkışması vb.) odaklanması sağlandı.
 > Analiz Özeti ve SonuçKaya’nın vakası gösteriyor ki; **toksik yalnızlık bir sayı meselesi değil, bir şeffaflık meselesidir.** Kişi, maskelerinden arınıp kendi gerçekliğiyle başkasına dokunamadığında, dünyanın en kalabalık meydanında bile bir fanusun içindedir.
 
-YAZAN: DİLARA TÜRKOĞLUİNSTAGRAM: @dililepsikolojiYOUTUBE: dilarailepsikoloji
+YAZAN: DİLARA KARABACAK
