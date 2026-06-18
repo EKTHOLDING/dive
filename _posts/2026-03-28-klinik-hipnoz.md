@@ -55,4 +55,4 @@ Klinik hipnoz, doğru ellerde uygulandığında insanın kendi içsel kaynaklar�
 
 Hipnoz, zihnin savunma mekanizmalarının gevşediği derin bir süreçtir. Bu nedenle, uygulayıcının sadece teknik bilgiye değil, aynı zamanda **tıbbi ve psikolojik etik eğitime** sahip olması hayati önem taşır.Türkiye'de ve pek çok dünya ülkesinde, hipnozun tedavi amacıyla uygulanması yasal olarak sadece **Tıp Doktorları** ve **Diş Hekimleri** ile klinik alanda çalışan **Psikologlara** (belirli sertifikasyonlar dahilinde) tanınmış bir yetkidir.
 
-YAZAN: DİLARA TÜRKOĞLU
+YAZAN: DİLARA KARABACAK
