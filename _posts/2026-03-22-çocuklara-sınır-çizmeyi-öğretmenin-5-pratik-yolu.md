@@ -50,4 +50,4 @@ Sınır koyarken en sık yapılan hata, çocuğun duygusunu reddetmektir. Oysa �
 
 Sınır koymak, çocuğunuzu sevmemek veya onu üzmek değildir. Aksine, ona hayatın kurallarını güvenli bir limanda öğretmektir. Sabırlı, tutarlı ve şefkatli kaldığınız sürece çizdiğiniz sınırlar, çocuğunuzun daha özgüvenli ve huzurlu bir birey olmasını sağlayacaktır.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
