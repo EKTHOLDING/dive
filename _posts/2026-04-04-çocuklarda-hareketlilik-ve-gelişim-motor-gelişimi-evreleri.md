@@ -47,4 +47,4 @@ Ebeveynlerin "Dur, yapma!" demek yerine bu enerjiyi kanalize etmesi gerekir;
 
 Çocukların hareket ihtiyacı, onların öğrenme iştahıdır. Koşan, zıplayan ve keşfeden bir çocuk, aslında kendi sinir sistemini hayata hazırlıyordur. Unutmayın; bugünün hareketli çocukları, yarının dünyayı değiştiren, enerjik ve çözüm odaklı yetişkinleri olacaktır.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
