@@ -1,11 +1,13 @@
 ---
 layout: default
-title: "Zihinsel ve Entelektüel Gelişim"
-kategori: "Kişisel Gelişim"
-image: "https://image.cnnturk.com/i/cnnturk/75/740x416/5fa6627517aca901a8d4efa0.jpg"
+title: Zihinsel ve Entelektüel Gelişim
+kategori: Kişisel Gelişim
+image: https://image.cnnturk.com/i/cnnturk/75/740x416/5fa6627517aca901a8d4efa0.jpg
 ---
 
 Zihinsel ve Entelektüel Gelişim Nedir?
+
+
 Bu gelişim alanı, bireyin bilişsel yeteneklerini (hafıza, mantık, odaklanma) ve dünya hakkındaki anlayışını geliştirmesini ifade eder. Statik bir zihniyetten (Sabit Zihniyet) çıkıp, her şeyin öğrenilebilir olduğunu savunan bir zihniyete (Gelişim Zihniyeti) geçişi temel alır.
 
 Temel Amacı:
@@ -37,4 +39,6 @@ Durum: Bir belgesel izlerken "Rönesans" kelimesi geçiyor.
 Gelişim Odaklı Yaklaşım: Sadece belgeseli izleyip bırakmaz. O dönemdeki sanatın neden değiştiğini, matbaanın bu değişimdeki rolünü araştırır ve bu bilgiyi bugünün internet devrimiyle kıyaslar. Bu, yatay düşünme becerisidir.
 
 Bu Alanda Kendinizi Geliştirmek İçin Küçük Bir Adım
-Zihinsel gelişimin en etkili yollarından biri **"Feynman Tekniği"**ni kullanmaktır. Karmaşık bir konuyu, sanki 10 yaşındaki bir çocuğa anlatıyormuşsunuz gibi basitleştirerek anlatmaya çalışın. Eğer basitleştiremiyorsanız, o konuyu henüz tam olarak anlamamışsınız demektir.
+Zihinsel gelişimin en etkili yollarından biri Feynman Tekniğini kullanmaktır. Karmaşık bir konuyu, sanki 10 yaşındaki bir çocuğa anlatıyormuşsunuz gibi basitleştirerek anlatmaya çalışın. Eğer basitleştiremiyorsanız, o konuyu henüz tam olarak anlamamışsınız demektir.
+
+YAZAN: DİLARA KARABACAK
