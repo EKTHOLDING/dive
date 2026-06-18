@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "PSİKOLOJİ NEDİR?"
-kategori: "Bilim"
-image: "https://www.cemilcelik.com.tr/wp-content/uploads/2021/05/psikoloji.jpg"
+title: PSİKOLOJİ NEDİR?
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://www.cemilcelik.com.tr/wp-content/uploads/2021/05/psikoloji.jpg
 ---
 
 Psikoloji, insan doğasının en karmaşık ve büyüleyici yönlerini mercek altına alan, zihin ve davranışları bilimsel yöntemlerle inceleyen geniş kapsamlı bir disiplindir. Temelinde yatan asıl soru "Neden böyle davranıyoruz?" sorusudur. Ancak bu soruya cevap ararken sadece görünen hareketlerle yetinmez; bu hareketlerin arkasındaki biyolojik yapıları, nörolojik süreçleri, geçmiş yaşantıları ve sosyal çevrenin etkilerini de bir bütün olarak ele alır.
@@ -17,3 +17,5 @@ Psikolojiyi felsefeden veya "hayat tecrübesinden" ayıran en önemli fark, bili
 • Gelişim Psikolojisi: İnsanın anne karnından ölüme kadar geçirdiği zihinsel ve fiziksel evreleri ele alır.
 • Bilişsel Psikoloji: Öğrenme, bellek ve karar verme gibi yüksek seviyeli zihin fonksiyonlarını araştırır.
 Sonuç olarak psikoloji, hem bireysel sağlığı korumak hem de toplumsal huzuru ve verimliliği artırmak için kritik bir rol oynar. İnsanı anlamak, sadece bireyin kendisini tanımasını değil, aynı zamanda empati kurabilen, daha sağlıklı iletişim kuran bir toplumun inşasını da sağlar.
+
+YAZAN: DİLARA KARABACAK
