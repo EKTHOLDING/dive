@@ -56,4 +56,4 @@ Bipolar bozukluk **tedavi edilebilir** bir durumdur. Doğru yönetimle kişi ür
 
 Bipolar bozuklukla yaşamak, sürekli fırtınalı bir denizde yol almak gibidir. Ancak doğru tedavi "yelkenleri" kontrol etmeyi sağlar. Bu tanıya sahip olmak, hayatın sonu değil; kendinizi daha derinlemesine tanıyacağınız yeni bir yaşam tarzının başlangıcıdır.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
