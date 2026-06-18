@@ -57,4 +57,4 @@ Sinirbilimsel açıdan, düşüncelerle birleştiğimizde beyin bunu fiziksel bi
 
 Bilişsel ayrışma, zihni susturmak değil, onunla kurulan ilişkiyi değiştirmektir. Düşünceleriniz okyanustaki dalgalar gibidir; onları durduramazsınız ama üzerinde sörf yapmayı öğrenebilirsiniz.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
