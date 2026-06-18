@@ -37,4 +37,4 @@ Peki, biyolojimiz bizi bu koşu bandına mahkûm ettiyse, gerçek mutluluk imkan
 - **"Şükran" (Gratitude) Pratiği:** Beyin, sahip olduğu şeyi görmezden gelmeye meyillidir. Her gün sahip olduğunuz üç iyi şeyi not etmek, beyni "adaptasyonu kırmaya" zorlar. Bu, nörolojik olarak beyninizdeki ödül sistemini (striatum) yeniden eğitir.
 - **Hedonikten Ödomonik Mutluluğa Geçiş:** Aristoteles'in bahsettiği "Ödomonia", anlık hazların (hedonik) ötesinde, bir amaç uğruna yaşamak ve potansiyelini gerçekleştirmektir.Birine yardım etmek veya bir eser üretmek, biyolojik adaptasyona karşı çok daha dirençlidir.
 
-YAZAN: DİLARA TÜRKOĞLU
+YAZAN: DİLARA KARABACAK
