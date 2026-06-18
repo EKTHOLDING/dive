@@ -40,4 +40,4 @@ Zihninizi daha esnek hale getirmek bir kası eğitmek gibidir. İşte uygulayabi
 - **Değerlerinizi Belirleyin:** Hedefler geçicidir, ancak değerler bir pusula gibidir. Sizi neyin motive ettiğini (örneğin; dürüstlük, gelişim, şefkat) netleştirin.
 - **Konfor Alanınızın Dışına Çıkın:** Küçük rutinlerinizi değiştirmek bile (farklı bir yoldan işe gitmek, yeni bir hobi denemek) beynin nöroplastisite kapasitesini destekleyerek esnekliği artırır.
 
-YAZAN: DİLARA TÜRKOĞLU
+YAZAN: DİLARA KARABACAK
