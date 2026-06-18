@@ -46,4 +46,4 @@ Günümüzde "Maneviyat Yönelimli Psikoterapi", danışanın inanç sistemini i
 
 Ruh sağlığı sadece biyokimyasal bir denge değil, aynı zamanda manevi bir huzur halidir. İslam'ın sunduğu "orta yol" felsefesi, modern dünyanın aşırı rekabetçi ve kaotik yapısı karşısında bireye ruhsal bir sığınak ve denge sunmaktadır.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
