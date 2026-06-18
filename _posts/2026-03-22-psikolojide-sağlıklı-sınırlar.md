@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Psikolojide Sağlıklı Sınırlar"
-kategori: "Ruh Sağlığı"
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiFdzdWv4ebBUr0ZesELNXMgUmzAzmqNnwSw&s"
+title: Psikolojide Sağlıklı Sınırlar
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiFdzdWv4ebBUr0ZesELNXMgUmzAzmqNnwSw&s
 ---
 
 Görünmez Duvarlar Neden Gereklidir?
@@ -30,3 +30,5 @@ Kısa ve Net Olun: Hayır derken uzun açıklamalar yapıp kendinizi savunmayın
 Suçluluk Hissini Kabul Edin Ama Boyun Eğmeyin: İlk başta kendinizi kötü hissedebilirsiniz; bu çok normal. Bu duygunun geçici olduğunu bilin.
 
 Kademeli Başlayın: Önce sizi çok korkutmayan küçük konularda (örneğin akşam yemeği mekanını seçmek gibi) sınır koymaya başlayın.
+
+YAZAN: DİLARA KARABACAK
