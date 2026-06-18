@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "ŞEHİR VE YABANCILAŞMA"
-kategori: "Psikoloji"
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYnNJs4E8QZhWGIGfODbJEetf7mZCJNWmKA&s"
+title: ŞEHİR VE YABANCILAŞMA
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsYnNJs4E8QZhWGIGfODbJEetf7mZCJNWmKA&s
 ---
 
 Giriş: Hiper-Bağlantılı Ama Kopuk
@@ -29,3 +29,5 @@ Bireysel İltica: Şehir insanı, fiziksel olarak kalabalığın içinde kalsa d
 
 Sonuç: Şehrin Dağlarına Doğru
 Şehirde "yolunu şaşıran" kişi, aslında sürünün dayattığı o mekanik ritme ayak uyduramayan kişidir. Her gün aynı istasyonda duran, aynı kahveyi içen ve aynı anlamsız diyalogları kuran milyonlarca "uyumlu" penguenin arasından sıyrılıp kendi sessizliğine yürümek, bir hata değil; bir hayatta kalma çabasıdır. Belki de o penguen, okyanusun artık onu beslemediğini herkesten önce fark etmiştir. Şehir insanı için de yabancılaşma, sahte bir dünyada gerçek bir "ben" bulabilmek için göze alınan o zorlu, karlı ve yalnız yürüyüştür.
+
+YAZAN: DİLARA KARABACAK
