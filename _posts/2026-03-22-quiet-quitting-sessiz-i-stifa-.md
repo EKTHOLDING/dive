@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Quiet Quitting (Sessiz İstifa)"
-kategori: "Psikoloji"
-image: "https://www.marketingturkiye.com.tr/wp-content/uploads/2022/09/quite-quitting-sessiz-istifa.jpg.webp"
+title: Quiet Quitting (Sessiz İstifa)
+kategori: Psikoloji
+image: https://www.marketingturkiye.com.tr/wp-content/uploads/2022/09/quite-quitting-sessiz-istifa.jpg.webp
 ---
 
 Sessiz İstifa: Bir Başkaldırı mı, Yoksa Psikolojik Bir Savunma mı?
@@ -45,3 +45,5 @@ Sonuçlar:
 
  "Sessiz İstifa Bir Sorun Değil, Bir Semptomdur"
 "Bir kurumda sessiz istifa dalgası yayılıyorsa, sorun çalışanların tembelliği değil, kurumun psikolojik güven ortamı ve ödüllendirme sistemidir. Sessiz istifa aslında bir 'hayatta kalma mekanizmasıdır'. İnsanlar ruh sağlıklarını korumak için işe ayırdıkları duygusal yatırımın miktarını düşürürler. Şirketler için bu bir 'kayıp' gibi görünse de, birey için uzun vadeli bir 'kazanç' olabilir. Ancak unutulmamalıdır ki; sadece sınır çizmek yetmez, yapılan işten anlam bulmak da ruh sağlığı için kritiktir."
+
+YAZAN: DİLARA KARABACAK
