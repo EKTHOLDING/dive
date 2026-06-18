@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "PREMENSTRÜEL SENDROM"
-kategori: "Psikoloji"
-image: "https://dilaratekdenkirgiz.com/images/0/jinekolojik-endokronoloji/premenstruel-sendrom.jpg"
+title: PREMENSTRÜEL SENDROM
+kategori: Psikoloji
+image: https://dilaratekdenkirgiz.com/images/0/jinekolojik-endokronoloji/premenstruel-sendrom.jpg
 ---
 
 Premenstrüel Sendrom (PMS), çoğu kadının adet döngüsünün belirli bir döneminde deneyimlediği, fiziksel ve duygusal değişimlerin bir kombinasyonudur. Genellikle "adet öncesi gerginlik" olarak da adlandırılır.
@@ -44,3 +44,4 @@ Eğer bu belirtiler iş hayatını, sosyal ilişkilerini veya günlük aktivitel
 
 Küçük bir ipucu: Belirtilerini birkaç ay boyunca bir takvim üzerinde not etmek, doktorunun doğru teşhis koymasına yardımcı olur.
 
+YAZAN: DİLARA KARABACAK
