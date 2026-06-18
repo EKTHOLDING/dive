@@ -48,4 +48,4 @@ Okulda tüketilen gıdalar, çocuğun derslerdeki konsantrasyonunu doğrudan etk
 
 Çocuğunuza sadece yemek yedirmeyin, ona besinlerin vücuduna ne yaptığını anlatın. "Bu havuç senin gözlerini güçlendirir" gibi somut faydalar, çocukların sağlıklı gıdalara bakışını değiştirir. Unutmayın; sağlıklı bir çocukluk, mutlu bir yetişkinliğin yatırımıdır.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
