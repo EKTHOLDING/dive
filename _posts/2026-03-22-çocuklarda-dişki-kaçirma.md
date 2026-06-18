@@ -55,4 +55,4 @@ Enkoprezis tedavisi sabır gerektiren, multidisipliner (doktor ve psikolog iş b
 
 Dışkı kaçırma, çocuğun bilerek yaptığı bir eylem değildir. Onun bu zor dönemde en çok ihtiyaç duyduğu şey ebeveyninin desteğidir. Unutmayın; doğru tedavi ve sevgi dolu bir yaklaşımla bu sorun tamamen ortadan kalkabilir.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
