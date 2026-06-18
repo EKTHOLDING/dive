@@ -34,4 +34,4 @@ Bu durumdan kurtulmak veya korunmak için "yardım etmeyi bırakmak" bir çözü
 3. **Profesyonel Sınırlar Çizin:** Empati kurmak, karşıdaki kişinin acısını "yutmak" demek değildir. Destek olurken kendi duygusal alanınızı korumayı öğrenmek hayati önem taşır.
 4. **Süpervizyon ve Terapi:** Ağır hikayeler dinleyen kişilerin, bu hikayeleri boşaltabileceği güvenli bir alana (bir terapiste veya destek grubuna) ihtiyacı vardır.
 
-YAZAN: DİLARA TÜRKOĞLU
+YAZAN: DİLARA KARABACAK
