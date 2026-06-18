@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "NEDEN MUTLU DEĞİLİZ?"
-kategori: "Psikoloji"
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlBtwZGhGCeTwGwcKposvIHhiNaGPejUAsrg&s"
+title: NEDEN MUTLU DEĞİLİZ?
+kategori: Psikoloji
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlBtwZGhGCeTwGwcKposvIHhiNaGPejUAsrg&s
 ---
 
 Psikolojide mutluluk genellikle şu formülle açıklanır: Mutluluk -Gerçeklik - Beklentiler. Sosyal medya ve modern kültür, bize sürekli "ideal" hayatlar, kusursuz bedenler ve bitmek bilmeyen başarı hikayeleri sunuyor. Kendi sıradan gerçekliğimizi bu parlatılmış sahte dünyalarla kıyasladığımızda, ortaya çıkan "yetersizlik hissi" kronik bir mutsuzluğa dönüşüyor.
