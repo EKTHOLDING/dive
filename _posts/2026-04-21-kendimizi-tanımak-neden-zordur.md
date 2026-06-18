@@ -12,4 +12,4 @@ Hoş geldiniz.
 
 Okuduğunuz için teşekkür eder sağlıklı günler dilerim;
 
-YAZAN:  Psikolog Dilara TÜRKOĞLU
+YAZAN:  Psikolog Dilara KARABACAK
