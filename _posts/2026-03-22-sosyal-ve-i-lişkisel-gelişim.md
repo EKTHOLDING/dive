@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Sosyal ve İlişkisel Gelişim"
-kategori: "Kişisel Gelişim"
-image: "https://drmustafaerkan.com/wp-content/uploads/2018/06/zihinsel-gelisim-bozukluklari.jpg"
+title: Sosyal ve İlişkisel Gelişim
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://drmustafaerkan.com/wp-content/uploads/2018/06/zihinsel-gelisim-bozukluklari.jpg
 ---
 
 Sosyal ve İlişkisel Gelişim, bireyin diğer insanlarla kurduğu bağların kalitesini, derinliğini ve sağlığını artırma sürecidir. İnsan sosyal bir canlıdır; dolayısıyla çevremizle kurduğumuz etkileşim, genel mutluluğumuz ve başarımız üzerinde doğrudan belirleyici bir rol oynar.
@@ -42,3 +42,5 @@ Sosyal Gelişim Odaklı Yaklaşım: "Sen her zaman böylesin" demek yerine, "Bu 
 
 İlişkisel Gelişim İçin Önemli Bir İlke: "En Yakın 5 Kişi"
 Sosyal gelişimde şu kural sıkça hatırlanır: "İnsan, en çok vakit geçirdiği 5 kişinin ortalamasıdır." Bu alan, sadece mevcut ilişkileri düzeltmeyi değil, aynı zamanda sizi yukarı çekecek, size yeni ufuklar açacak insanlarla tanışma cesaretini göstermeyi de kapsar.
+
+YAZAN: DİLARA KARABACAK
