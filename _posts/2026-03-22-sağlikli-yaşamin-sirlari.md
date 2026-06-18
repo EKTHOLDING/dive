@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "SAĞLIKLI YAŞAMIN SIRLARI"
-kategori: "Beslenme"
-image: "https://acibademmobil.com.tr/wp-content/uploads/2025/01/saglikli-yasam-check-up.webp"
+title: SAĞLIKLI YAŞAMIN SIRLARI
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://acibademmobil.com.tr/wp-content/uploads/2025/01/saglikli-yasam-check-up.webp
 ---
 
 Sağlıklı bir yaşam, sadece hastalıkların yokluğu değil; fiziksel, zihinsel ve sosyal açıdan tam bir iyilik halidir. Modern dünyanın hızlı temposunda bu dengeyi kurmak zor görünse de, küçük ve istikrarlı adımlar büyük değişimler yaratır.
@@ -44,3 +44,5 @@ Stres Yönetimi: Meditasyon, nefes egzersizleri veya hobilerle zihninizi dinlend
 Sosyal Bağlar: Sevdiğiniz insanlarla vakit geçirmek, oksitosin (mutluluk hormonu) seviyenizi artırır ve bağışıklığı güçlendirir.
 
 Sınır Çizmek: Hayır demeyi öğrenmek ve kendinize vakit ayırmak ruhsal yorgunluğu önler.
+
+YAZAN: DİLARA KARABACAK
