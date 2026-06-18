@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Spiritüel ve Ruhsal Gelişim"
-kategori: "Kişisel Gelişim"
-image: "https://www.birlikbilinci.com/wp-content/uploads/2022/04/ruhsal-gelisim.jpg"
+title: Spiritüel ve Ruhsal Gelişim
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://www.birlikbilinci.com/wp-content/uploads/2022/04/ruhsal-gelisim.jpg
 ---
 
 Spiritüel ve Ruhsal Gelişim, bireyin hayatın anlamını sorgulama, iç huzuru bulma ve kendi varlığını daha geniş bir perspektifle (evrenle, doğayla veya inanç sistemiyle) ilişkilendirme sürecidir.
@@ -46,3 +46,5 @@ Spiritüel Gelişimi Başlatacak Basit Bir Uygulama: "Günün Üç Güzelliği"
 Her akşam uyumadan önce o gün yaşadığınız, ne kadar küçük olursa olsun 3 iyi şeyi not edin (Örn: "İçtiğim kahvenin tadı çok güzeldi", "Bir arkadaşım beni aradı", "Gün batımı harikaydı"). Bu basit pratik, beyninizi mucizeleri görmeye programlar.
 
 Özetle: Spiritüel gelişim, dış dünyadaki gürültüyü kısıp kendi iç sesinizi duymaya başladığınızda başlar.
+
+YAZAN: DİLARA KARABACAK
