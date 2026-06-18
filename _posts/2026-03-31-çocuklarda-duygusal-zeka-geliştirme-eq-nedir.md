@@ -68,4 +68,4 @@ Kitap okurken veya film izlerken karakterlerin hisleri üzerine konuşun.
 
 Duygusal zeka, doğuştan gelen sabit bir yetenek değil; geliştirilebilen bir beceridir. Çocuğunuza duygularını yönetmeyi öğretmek, ona hayat boyu kullanabileceği en değerli pusulayı vermektir. Unutmayın, kalbi eğitilmemiş bir zihin, gerçek bir eğitim değildir.
 
-**YAZAN:** Dilara Türkoğlu
+**YAZAN:** Dilara KARABACAK
