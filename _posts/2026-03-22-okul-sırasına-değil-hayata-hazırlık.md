@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Okul Sırasına Değil, Hayata Hazırlık"
-kategori: "Psikoloji"
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYUTRqiF9H37yO3o8Ww4mRi8X4ghGPGh2s9Q&s"
+title: Okul Sırasına Değil, Hayata Hazırlık
+kategori: Psikoloji
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYUTRqiF9H37yO3o8Ww4mRi8X4ghGPGh2s9Q&s
 ---
 
 Okula başlamak sadece bir çanta ve kırtasiye alışverişi süreci değil, çocuğun güvenli limanı olan evinden çıkıp dış dünyaya attığı ilk büyük adımdır.
@@ -50,3 +50,5 @@ Kaçınılması Gerekenler
 Diğer çocuklarla kıyaslama yapmak.
 Gizlice okuldan kaçıp gitmek (Habersiz ayrılmak).
 Akademik başarı için baskı kurmak.
+
+YAZAN: DİLARA KARABACAK
