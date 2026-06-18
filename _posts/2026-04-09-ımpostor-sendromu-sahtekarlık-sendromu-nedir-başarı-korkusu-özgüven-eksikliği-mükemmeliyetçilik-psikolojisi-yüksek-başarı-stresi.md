@@ -36,4 +36,4 @@ Bilim dünyası, bu sendromun bir "hastalık" değil, bir "düşünce kalıbı" 
 - **Mükemmeliyetçilikten Vazgeçin:** Impostor sendromunun en büyük besini "ya hep ya hiç" mantığıdır. %100 mükemmel olmayan bir işin "çöp" olduğu inancını terk edin.
 - **Paylaşın:** Bu hissi güvendiğiniz birine anlattığınızda, onların da benzer şeyler hissettiğini göreceksiniz. "Yalnız değilim" duygusu, sahtekarlık hissinin en büyük panzehiridir.
 
-YAZAN: YAZAN DİLARA TÜRKOĞLU
+YAZAN: YAZAN DİLARA KARABACAK
