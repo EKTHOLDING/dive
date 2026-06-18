@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "NEFES MEDİTASYONU"
-kategori: "Meditasyon"
-image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AkZTxAY4vHXwwXMbNyoKuuhqZX6zb3FNYw&s"
+title: NEFES MEDİTASYONU
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AkZTxAY4vHXwwXMbNyoKuuhqZX6zb3FNYw&s
 ---
 
 Günde yaklaşık 20.000 kez nefes alıyoruz, ancak bunun kaçının farkındayız? Nefes meditasyonu, otomatik olarak gerçekleşen bu hayati işlevi bilinçli bir farkındalık alanına taşıma sanatıdır.
@@ -24,3 +24,5 @@ Geri Dönün: Zihniniz mutlaka dağılacaktır (bu çok normaldir). Düşüncele
 Kutu Nefesi: 4 saniye al, 4 saniye tut, 4 saniye ver, 4 saniye bekle (Anlık stres yönetimi için).
 
 Nefes Sayma: Her nefes verişte 1'den 10'a kadar saymak (Odaklanma güçlüğü çekenler için).
+
+YAZAN: DİLARA KARABACAK
