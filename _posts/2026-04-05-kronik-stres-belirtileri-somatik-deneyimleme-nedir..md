@@ -43,4 +43,4 @@ Zihninizi sakinleştiremiyorsanız, bedeninizi kullanarak zihninize "güvendeyiz
 
 İyileşme, sadece ne düşündüğümüzle değil, nasıl hissettiğimizle ilgilidir. Bedeninizin verdiği sinyalleri birer "arıza" olarak değil, birer "mesaj" olarak okumaya başladığınızda, kronik stresten özgürleşmenin kapısı açılır. Kendinize sorun: "Şu an bedenim bana ne anlatmaya çalışıyor?"
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
