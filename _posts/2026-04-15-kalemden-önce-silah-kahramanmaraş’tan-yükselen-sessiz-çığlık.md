@@ -20,6 +20,6 @@ En kritik nokta ise **toplumsal denetim ve yasaların kararlılığıdır.** Ate
 
 Toplum olarak şiddeti bir "sorun çözme aracı" veya bir "erkeklik/güç simgesi" olarak gördüğümüzde, çocuklar bu iklimin içinde büyüyor. Televizyon dizilerinden sosyal medya videolarına kadar her yerde silahın bir otorite aracı olarak sunulması, çocuğun zihninde "Güçlü olmak istiyorsan korku salmalısın" fikrini meşrulaştırıyor. Bu durum, bireysel hataları aşan kolektif bir kültürel sorun haline geliyor. Aileler, çoğu zaman çocuklarının elindeki tehlikenin boyutunu küçümsüyor. "Benim çocuğum yapmaz" savunmacılığı ya da çocuğun sergilediği zorbalığı "kendini savunuyor" diyerek alkışlamak, duyarsızlığın en tehlikeli halidir. Bilimsel araştırmalar, aile içi iletişimin zayıf olduğu ve sevginin koşullu sunulduğu ortamlarda büyüyen çocukların, aidiyet hissini sokakta veya şiddet gruplarında aradığını gösteriyor.gerçek çözüm; bir babanın evdeki silahı yok etmesiyle, bir öğretmenin sınıftaki sessiz çocuğun gözlerindeki hüznü fark etmesiyle ve toplumun "eline sağlık" yerine "bu bir cinayettir" diyebilmesiyle başlar. Şiddet bir kader değil, bir **tercihtir.** Biz toplum olarak bu tercihi reddetmediğimiz sürece, ailelerin bireysel çabaları maalesef bir noktada yetersiz kalacaktır.
 
-YAZAN: Psk. DİLARA TÜRKOĞLU 
+YAZAN: Psk. DİLARA KARABACAK
 
 ! KAHRAMANMARAŞTA BULUNAN ORTAOKUL SALDIRISINDA TÜM AİLE VE EĞİTMENLERİNE SABIR, HAYATINI KAYBEDENLERİN AİLELERİNE BAŞ SAĞLIĞI DİLİYORUM.
