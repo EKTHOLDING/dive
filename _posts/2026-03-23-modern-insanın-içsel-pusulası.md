@@ -40,8 +40,4 @@ Araştırmacı Tasha Eurich'e göre öz farkındalık iki ana kategoriye ayrıl�
 
 **Unutmayın:** "Kendini tanımak, tüm bilgeliğin başlangıcıdır." — Aristoteles
 
-YAZAN: Dilara TÜRKOĞLU
-
-İNSTAGRAM: @dililepsikoloji
-
-YOUTUBE: @dilarailepsikoloji
+YAZAN: Dilara KARABACAK
