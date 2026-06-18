@@ -57,4 +57,4 @@ Hayatın sunduğu fırsatlar, genellikle reddedilme riskinin tam arkasında sakl
 
 **Önemli Not:** Eğer bu korku hayat kalitenizi ciddi ölçüde düşürüyor ve sizi izole ediyorsa, Bilişsel Davranışçı Terapi (BDT) gibi yöntemlerle bir uzmandan destek almak süreci hızlandıracaktır.
 
-YAZAN: DİLARA TÜRKOĞLU
+YAZAN: DİLARA KARABACAK
