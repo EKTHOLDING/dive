@@ -52,8 +52,4 @@ Ebeveynlerin geri adımı, çocuğun manipülatif davranışının dozunu artır
 
 Çocuklarda manipülasyon, bir karakter kusuru değil, bir iletişim biçimidir. Ebeveynlerin bu davranışlar karşısında sakin kalması, kişisel algılamaması ve kararlı bir duruş sergilemesi, çocuğun daha sağlıklı sosyal-duygusal beceriler geliştirmesine olanak tanır. Unutulmamalıdır ki; çocuklar sınırların olmadığı bir dünyada kendilerini güvende hissetmezler; net sınırlar onlar için en büyük güven alanıdır.
 
-YAZAN: DİLARA TÜRKOĞLU
-
-İNSTAGRAM: @dililepsikoloji
-
-YOUTUBE: @dilarailepsikoloji
+YAZAN: DİLARA KARABACAK
