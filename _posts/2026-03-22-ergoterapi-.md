@@ -51,4 +51,4 @@ Günümüzde ergoterapi, **"İş Temelli Terapi"** (Occupational-Based Therapy) 
 
 Ergoterapi, bireyi "iyileşmesi gereken bir hasta" olarak değil, "hayatına anlam katması gereken bir özne" olarak görür. Kendi hayatınızın mimarı olmak için, günlük aktivitelerinizi küçük birer tedavi aracına dönüştürmek en büyük güçtür.
 
-**yazan:** Dilara Türkoğlu
+**yazan:** Dilara KARABACAK
