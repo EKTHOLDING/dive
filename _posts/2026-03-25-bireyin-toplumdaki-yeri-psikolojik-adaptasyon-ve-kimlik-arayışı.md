@@ -47,4 +47,4 @@ Psikolog Carl Rogers’a göre, bireyin ruhsal sağlığı, "ideal benliği" ile
 
 Bireyin toplumdaki yeri sabit bir nokta değil, sürekli devam eden bir devinimdir. Olumlu ve olumsuz yaşantılar, karakterimizin şekillenmesinde birer araçtır. Unutulmamalıdır ki; toplumun sağlıklı bir parçası olmanın ilk şartı, sağlıklı bir birey olmaktır.
 
-YAZAN: DİLARA TÜRKOĞLU
+YAZAN: DİLARA KARABACAK
