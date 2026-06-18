@@ -52,4 +52,4 @@ Stanford Üniversitesi'nden Dr. Carol Dweck'in teorisine göre; başarıyı zeka
 
 Amacımız çocukları hayatın fırtınalarından korumak değil, onlara kendi gemilerini nasıl yöneteceklerini öğretmektir. Duygusal dayanıklılığı yüksek bir çocuk, sadece başarılı bir öğrenci değil; hayatın iniş çıkışları karşısında ruh sağlığını koruyabilen güçlü bir yetişkin olacaktır.
 
-**YAZAN:** Dilara Türkoğlu
+**YAZAN:** Dilara KARABACAK
