@@ -55,4 +55,4 @@ DEHB tedavisi "terzi usulü" yani çocuğa özel olmalıdır:
 
 Doğru destekle DEHB olan çocuklar; yaratıcılıkları, yüksek enerjileri ve dış kutunun dışındaki düşünme yetenekleriyle çok başarılı bireyler olabilirler. Önemli olan onlara "bozuk" gibi değil, sadece farklı bir öğrenme ritmine sahip bireyler olarak yaklaşmaktır.
 
-**YAZAN:** Dilara Türkoğlu
+**YAZAN:** Dilara KARABACAK
