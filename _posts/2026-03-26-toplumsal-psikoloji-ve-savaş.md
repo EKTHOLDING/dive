@@ -58,4 +58,4 @@ Savaşın yıkıcı etkilerine rağmen, toplumların **psikolojik dayanıklılı
 
 ### Savaşın en savunmasız kurbanları olan çocuklar, bu süreci yetişkinlerden çok daha farklı ve derin bir düzlemde deneyimler. Bir çocuğun dünyasında savaş; sadece silah sesi değil, güven duyduğu "koruyucu kale" olan aile ve yuva kavramının yıkılmasıdır.
 
-YAZAN: DİLARA TÜRKOĞLU
+YAZAN: DİLARA KARABACAK
