@@ -58,4 +58,4 @@ Siz sürekli telefonunuza bakarken çocuğunuzun kitaba yönelmesini bekleyemezs
 
 Dijital dünya, doğru yönetildiğinde çocuğunuzun dünyasını zenginleştiren muazzam bir kütüphanedir. Amacımız çocukları ekrandan tamamen koparmak değil, onlara ekran kapandığında da mutlu olabilecekleri bir hayat kurmayı ve teknolojiyi akıllıca kullanmayı öğretmektir.
 
-**YAZAN:** Dilara Türkoğlu
+**YAZAN:** Dilara KARABACAK
