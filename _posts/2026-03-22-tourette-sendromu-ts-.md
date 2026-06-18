@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Tourette Sendromu (TS)"
-kategori: "Psikoloji"
-image: "https://cdn.medicalpark.com.tr/Tourette_Sendromu.jpg"
+title: Tourette Sendromu (TS)
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://cdn.medicalpark.com.tr/Tourette_Sendromu.jpg
 ---
 
 Tourette Sendromu (TS), çocukluk döneminde başlayan, istem dışı gerçekleşen ani hareketler ve sesler (tikler) ile karakterize nörolojik bir durumdur. Genellikle 5-7 yaşları arasında belirti vermeye başlar ve erkeklerde kızlara oranla daha sık görülür.1. Belirtiler: Tik Türleri
 Tikler, "basit" ve "karmaşık" olmak üzere iki ana kategoriye ayrılır:
 
-Motor Tikler (Hareketler): * Basit: Göz kırpma, kafa sallama, omuz silkme, yüz buruşturma.
+Motor Tikler (Hareketler): \* Basit: Göz kırpma, kafa sallama, omuz silkme, yüz buruşturma.
 
 Karmaşık: Zıplama, nesnelere dokunma, başkasının hareketlerini taklit etme (ekopraksi).
 
@@ -40,3 +40,5 @@ Seyir: Birçok vakada tikler ergenlik döneminde zirve yapar, ancak 20'li yaşla
 
 Dikkat Edilmesi Gereken Önemli Nokta
 Tourette sendromu olan bireyler bu hareketleri bilerek yapmazlar. Tikler, hapşırma veya kaşınma hissi gibi durdurulması çok zor olan bir dürtüyle gelir. Bu nedenle kişiyi uyarmak veya baskı yapmak, stresi artırarak tiklerin daha da şiddetlenmesine neden olabilir.
+
+YAZAN: DİLARA KARABACAK
