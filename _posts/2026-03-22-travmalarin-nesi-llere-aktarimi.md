@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "TRAVMALARIN NESİLLERE AKTARIMI"
-kategori: "Psikoloji"
-image: "https://www.deryauluduz.com/wp-content/uploads/2025/07/genler-kaderiniz-degilse-kim-yaziyor-bu-senaryoyu.jpg"
+title: TRAVMALARIN NESİLLERE AKTARIMI
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://www.deryauluduz.com/wp-content/uploads/2025/07/genler-kaderiniz-degilse-kim-yaziyor-bu-senaryoyu.jpg
 ---
 
 1. Epigenetik ve Travma: "Genlerin Hafızası"
@@ -41,3 +41,5 @@ Psikoterapi (EMDR, Somatik Deneyimleme): Bu yöntemler travmanın bedendeki ve b
 Farkındalık (Mindfulness): Beynin mantık merkezi ile korku merkezi arasındaki bağı güçlendirir.
 
 Yaşam Tarzı: Düzenli uyku ve egzersiz, gen ifadesini olumlu yönde etkileyen biyokimyasal değişimler yaratır.
+
+YAZAN: DİLARA KARABACAK
