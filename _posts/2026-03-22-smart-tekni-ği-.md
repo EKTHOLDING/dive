@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "SMART TEKNİĞİ"
-kategori: "Psikoloji"
-image: "https://i.monay.com.tr/2/878/494/storage/files/images/2023/07/27/5-u5pj-cover-pfLf_cover.jpg"
+title: SMART TEKNİĞİ
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://i.monay.com.tr/2/878/494/storage/files/images/2023/07/27/5-u5pj-cover-pfLf_cover.jpg
 ---
 
 Hedef koymak, sadece bir şeyi istemek değil, o isteği bir projeye dönüştürmektir. Kişisel ve psikolojik değişim sürecinde de hedeflerin belirsiz olması motivasyonu kırar. SMART tekniği, hedeflerinizi somutlaştırarak başarı şansınızı artıran en etkili yöntemlerden biridir.
@@ -41,3 +41,5 @@ SMART Hedef: "Önümüzdeki 6 ay içinde (Zamana Bağlı), her sabah 20 dakika (
 
 Psikolojik Değişimde SMART Neden Önemlidir?
 Psikolojik değişim yavaş olduğu için, SMART tekniği bu yavaş süreci "küçük zaferlere" böler. Büyük ve soyut bir değişim (Örn: "Daha özgüvenli olmak") yerine küçük ve ölçülebilir adımlar (Örn: "Bu hafta toplantıda en az bir kez fikrimi söyleyeceğim") belirlemek, beyninizdeki ödül mekanizmasını tetikler ve sürece olan inancınızı artırır.
+
+YAZAN: DİLARA KARABACAK
