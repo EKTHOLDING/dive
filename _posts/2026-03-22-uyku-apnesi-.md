@@ -1,11 +1,12 @@
 ---
 layout: default
-title: "UYKU APNESİ"
-kategori: "Psikoloji"
-image: "https://www.elifkupeli.com/storage/images/news/uyku-apnesi-cihazi-13.jpg"
+title: UYKU APNESİ
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://www.elifkupeli.com/storage/images/news/uyku-apnesi-cihazi-13.jpg
 ---
 
 Uyku apnesi, insomniadan farklı olarak sadece "uyuyamama" sorunu değil, uyku sırasında solunumun durmasıdır. Bu durum, vücudun hayatta kalmak için gece boyunca defalarca "acil durum" alarmı vermesine neden olur. Yani sen uyuduğunu sanırken, vücudun aslında boğulmamak için bir savaş verir.
+
 1. Belirtiler: Kendini Nasıl Ele Verir?
 Genelde kişi apnesi olduğunu bilmez, ancak partneri ya da sabahki hisleri bunu kanıtlar:
 
@@ -38,3 +39,5 @@ CPAP Cihazı: Belki görmüşsündür, buruna takılan bir maske aracılığıyl
 Ağız İçi Aparatlar: Hafif vakalarda alt çeneyi önde tutan aparatlar kullanılabilir.
 
 Önemli Uyarı: Eğer gündüzleri elinde olmadan uyuyakalıyor ve çok şiddetli horluyorsan, bir Göğüs Hastalıkları veya Kulak Burun Boğaz (KBB) uzmanına randevu almanı şiddetle öneririm.
+
+YAZAN: DİLARA KARABACAK
