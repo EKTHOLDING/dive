@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "TOKSİK İLİŞKİLER"
-kategori: "İlişkiler"
-image: "https://www.healmeup.com/blog/wp-content/uploads/2023/08/toksik_iliski_nedir_toksik_iliski_nasil_gorunmektedir_evimdeki_psikolog_com_kapak.png"
+title: TOKSİK İLİŞKİLER
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://www.healmeup.com/blog/wp-content/uploads/2023/08/toksik_iliski_nedir_toksik_iliski_nasil_gorunmektedir_evimdeki_psikolog_com_kapak.png
 ---
 
 Toksik ilişkiler, bireyin psikolojik, duygusal ve bazen fiziksel sağlığını yıpratan; destek yerine engel, sevgi yerine kontrol içeren dinamiklerdir. Bir ilişkinin "toksik" olarak tanımlanması için mutlaka fiziksel şiddet içermesi gerekmez; çoğu zaman duygusal manipülasyonlar çok daha derin izler bırakır.
@@ -45,5 +45,6 @@ Destek Sistemi Kurun: Ailenizle, arkadaşlarınızla veya bir uzmanla (psikolog/
 
 Sıfır Temas (No Contact): Eğer mümkünse, iyileşme sürecinde partnerle olan tüm iletişimi kesmek, zihinsel berraklık için en etkili yoldur.
 
-
 Toksik bir ilişki, kişinin kendi değerini unutmasına neden olan bir illüzyondur. Unutmayın ki hiçbir sevgi, sizin ruh sağlığınızdan ve iç huzurunuzdan daha değerli değildir. Sağlıklı bir ilişki sizi kafese kapatmaz, aksine kanat çırpmanız için size alan açar.
+
+YAZAN: DİLARA KARABACAK
