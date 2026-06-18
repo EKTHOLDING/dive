@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Şiddet İçeren Evlilikten Psikolojik Olarak Çıkış"
-kategori: "İlişkiler"
-image: "https://www.tgrthaber.com/mavikadin/wp-content/images/haberler/24-11/14/adsiz-tasarim-16.jpg"
+title: Şiddet İçeren Evlilikten Psikolojik Olarak Çıkış
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://www.tgrthaber.com/mavikadin/wp-content/images/haberler/24-11/14/adsiz-tasarim-16.jpg
 ---
 
 Şiddet içeren bir evlilikten psikolojik olarak çıkmak, yalnızca fiziksel olarak ayrılmaktan çok daha derin bir süreçtir. Bu süreç farkındalık, güçlenme, iyileşme ve yeniden yapılanma aşamalarından oluşur.1. Şiddeti Tanımak ve Adını Koymak
@@ -118,3 +118,5 @@ Geleceği yeniden hayal etme
 Şiddetten çıkmak senin gücündür.
 
 Bu bir süreçtir ve yardımla mümkündür.
+
+YAZAN: DİLARA KARABACAK
