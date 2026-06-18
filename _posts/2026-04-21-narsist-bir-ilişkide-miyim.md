@@ -17,4 +17,4 @@ Eğer bu belirtilerin bir veya birkaçını partnerinizde görüyorsanız, panik
 
 Narsist bir ilişkide yaşanılan en büyük sorun, partnerin kimliği altında kaybolmaktır. Eğer bu ilişkide mutsuzluğunuz mutluluğunuzdan ağır basıyorsa, kendinize sormanız gereken asıl soru şudur: "Ben bu ilişkide kendimi seviyor muyum?"
 
-YAZAN: PSİKOLOG DİLARA TÜRKOĞLU
+YAZAN: PSİKOLOG DİLARA KARABACAK
