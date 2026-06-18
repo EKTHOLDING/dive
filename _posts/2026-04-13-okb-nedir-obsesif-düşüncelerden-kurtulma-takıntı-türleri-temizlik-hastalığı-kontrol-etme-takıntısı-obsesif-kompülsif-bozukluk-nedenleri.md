@@ -45,4 +45,4 @@ Toplumda "boşver, düşünme geçer" denilse de, OKB'de düşünmemeye çalış
 - **Düşünce-Eylem Kaynaşmasını Kırmak:** "Bir şeyi düşünmek, onu yapmak kadar kötüdür" inancını yıkmak gerekir. Düşünceler sadece elektriksel sinyallerdir; gerçekleri veya karakterimizi belirlemezler.
 - **Profesyonel Destek:** Modern ilaç tedavileri ve Bilişsel Davranışçı Terapi (BDT) kombinasyonu, OKB semptomlarını %80 oranında azaltabilmektedir.
 
-YAZAN: DİLARA TÜRKOĞLU
+YAZAN: DİLARA KARABACAK
