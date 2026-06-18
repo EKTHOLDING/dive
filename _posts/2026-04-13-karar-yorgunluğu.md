@@ -43,4 +43,4 @@ Toplum insanı olarak bu zihinsel sisi dağıtmak için "az ama öz" felsefesini
 - **Glikozun Gücü:** Beyin karar verirken yoğun glikoz harcar. Zor bir karardan önce sağlıklı bir atıştırmalık, iradenizi geçici olarak geri kazanmanıza yardımcı olabilir (Yargıçların yemek molasından sonra daha insancıl kararlar vermesi gibi).
 - **"Yeterince İyi" İle Yetinin:** Her konuda "en iyisini" bulmaya çalışmak (maximizing) yerine, kriterlerinizi karşılayan "yeterince iyi" seçeneği kabul edin (satisficing).
 
-YAZAN: DİLARA TÜRKOĞLU
+YAZAN: DİLARA KARABACAK
