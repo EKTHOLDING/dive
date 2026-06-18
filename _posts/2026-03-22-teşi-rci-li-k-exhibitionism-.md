@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "TEŞİRCİLİK(Exhibitionism)"
-kategori: "Ruh Sağlığı"
-image: "https://images.cdn-files-a.com/ready_uploads/media/4024917/800_5e680da8e3743.jpg"
+title: TEŞİRCİLİK(Exhibitionism)
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://images.cdn-files-a.com/ready_uploads/media/4024917/800_5e680da8e3743.jpg
 ---
 
 Teşhircilik (Exhibitionism), klinik psikolojide parafilik bozukluklar arasında yer alan bir durumdur.Teşhircilik, kişinin rızası olmayan yabancılara (çoğunlukla karşı cinsten) cinsel organlarını gösterme dürtüsüyle cinsel uyarılma yaşadığı bir parafilidir.
@@ -121,3 +121,5 @@ Davranışlar
 Bu durum kişide cinsel uyarılmaya yol açar.
 
 👉 Psikiyatrist veya klinik psikolog başvurusu önerilir.
+
+YAZAN: DİLARA KARABACAK
