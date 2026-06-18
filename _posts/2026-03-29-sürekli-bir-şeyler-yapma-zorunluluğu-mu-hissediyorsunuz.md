@@ -41,4 +41,4 @@ Dünya genelindeki üst düzey yöneticiler ve psikologlar artık "hustle cultur
 
 Gerçek üretkenlik, 12 saat çalışmak değil; 4 saatlik odaklanmış çalışmanın ardından geri kalan zamanda zihni ve bedeni yenileyebilmektir. Unutmayın, bir makinenin bile bakıma ihtiyacı varken, biyolojik bir mucize olan insan beyninin durmaya ihtiyacı vardır.
 
-**Yazan:** Dilara Türkoğlu
+**Yazan:** Dilara KARABACAK
