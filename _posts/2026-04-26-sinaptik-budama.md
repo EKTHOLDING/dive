@@ -17,4 +17,4 @@ Birçok kişi bu sürecin çocuklukta bittiğini sanır. Oysa yetişkinlikte de 
 
 _"Sinaptik budama bize şunu öğretir; mükemmel olmak için her şeyi bilmemize gerek yok. Gereksiz olanı bırakabilmek, yani 'budayabilmek', zihinsel sağlığımızın ve odaklanma yeteneğimizin anahtarıdır. Hayatınızda neleri budadığınız, kim olduğunuzu belirler."_
 
-_YAZAN: DİLARA TÜRKOĞLU_
+_YAZAN: DİLARA KARABACAK_
