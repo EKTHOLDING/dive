@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Yenidoğan (Neonatal)"
-kategori: "Çocuk ve Ergen"
-image: "https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/44158/uploads/blog/yenidogan-bebekler-hakkinda-en-cok-merak-6138.jpg"
+title: Yenidoğan (Neonatal)
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://static.ticimax.cloud/cdn-cgi/image/width=540,quality=99/44158/uploads/blog/yenidogan-bebekler-hakkinda-en-cok-merak-6138.jpg
 ---
 
 enidoğan dönemi (neonatal dönem), doğumdan sonraki ilk 28 günü kapsayan, yaşamın ekstrauterin ortama adaptasyonunun gerçekleştiği kritik bir gelişim evresidir. Bu süreçte organizma, intrauterin homeostazdan bağımsız fizyolojik regülasyona geçer.
@@ -134,3 +134,5 @@ Yenidoğan, bağlanma (attachment) sürecinin biyolojik temelini oluşturur.
 Ten tene temas oksitosin salınımını artırır.
 
 Bakım verenin tutarlı duyarlılığı, güvenli bağlanma için kritiktir.Yenidoğan gelişimi; fizyolojik adaptasyon, nörolojik olgunlaşma, immünolojik korunma ve bağlanma süreçlerinin eş zamanlı ilerlediği, yüksek derecede hassas bir dönemdir. Bu süreçteki sapmalar uzun dönem nörogelişimsel ve sağlık sonuçlarını etkileyebilir.
+
+YAZAN: DİLARA KARABACAK
