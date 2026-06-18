@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Vagus Siniri: Zihninizin 'Sakinleş' Tuşu"
-kategori: "Psikoloji"
-image: "https://img.medicana.com.tr/photo/r/vagal-sinir-stimulatoru-18567-38772_b.jpg"
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://img.medicana.com.tr/photo/r/vagal-sinir-stimulatoru-18567-38772_b.jpg
 ---
 
 Bir sunuma çıkmadan önce kalbinizin küt küt atması veya stresli bir haber aldığınızda midenize kramplar girmesi tesadüf değildir. Beyniniz ve iç organlarınız arasında devasa bir bilgi otobanı vardır: Vagus Siniri.
@@ -40,3 +40,5 @@ Toplum içinde veya kalabalıkta kendimi "tetikte" hissediyorum.
 
 Uzman Görüşü: Dr. Dive Diyor Ki...
 "Pek çok danışanım 'Kaygı kafamın içinde, durduramıyorum' diyerek geliyor. Onlara hep şunu söylerim: Zihnini ikna edemiyorsan, bedenini kullan. Vagus siniri, psikolojinin biyolojik anahtarıdır. Eğer vücudunuza fiziksel olarak güvende olduğunuzu (soğuk su, doğru nefes, doğru duruş ile) ispatlarsanız, zihniniz de bu komuta uymak zorunda kalacaktır. Kaygı sadece bir düşünce değil, bir bedensel tepkidir. Tepkiyi yöneten, duyguyu da yönetir.
+
+YAZAN: DİLARA KARABACAK
