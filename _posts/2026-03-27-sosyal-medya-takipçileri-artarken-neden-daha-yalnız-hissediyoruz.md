@@ -49,4 +49,4 @@ Yapay yalnızlık bir kader değil, bir alışkanlık sonucudur. Bu döngüyü k
 
 **Sonuç olarak;** ekranlar bize dünyayı sunabilir ama gerçek bir dostun sıcaklığını veya samimi bir sohbetin derinliğini taklit edemez. Takipçi sayınızı değil, "gerçek bağlarınızın" sayısını artırmaya odaklanın.
 
-YAZAN: DİLARA TÜRKOĞLU
+YAZAN: DİLARA KARABACAK
