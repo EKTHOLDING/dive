@@ -49,8 +49,4 @@ Duygusal yoksunluk, insanın ruhundaki sessiz bir çığlıktır. Bu çığlığ
 
 **DIVE Editör Notu:** _Psikolojik sağlığınızla ilgili derinleşen sorunlar yaşıyorsanız, bir uzmandan destek almaktan çekinmeyin._
 
-_YAZAN: DİLARA TÜRKOĞLU_
-
-_İNSTAGRAM: @dililepsikoloji_
-
-_YOUTUBE: @dilarailepsikoloji_
+_YAZAN: DİLARA KARABACAK_
