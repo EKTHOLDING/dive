@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "OTİZM SPEKTRUM"
-kategori: "Psikoloji"
-image: "https://image.hurimg.com/i/hurriyet/90/750x422/5ad4d63eb699de237c8ef197.jpg"
+title: OTİZM SPEKTRUM
+kategori: Klinik Psikoloji ve Ruh Sağlığı
+image: https://image.hurimg.com/i/hurriyet/90/750x422/5ad4d63eb699de237c8ef197.jpg
 ---
 
 Otizm Spektrum Bozukluğu (OSB), belirtileri genellikle çocukluğun erken dönemlerinde (ilk 3 yıl içinde) ortaya çıkan; sosyal etkileşim, iletişim becerileri ve davranış kalıplarını etkileyen nörogelişimsel bir farklılıktır.
@@ -47,3 +47,5 @@ Otizm bir "hastalık" değil, bir "farklılık" olarak kabul edilir; bu nedenle 
 Konuşma ve Dil Terapisi: İletişim becerilerini geliştirmek için.
 
 Ergoterapi: Duyusal sorunları yönetmek ve günlük yaşam becerilerini artırmak için.
+
+YAZAN: DİLARA KARABACAK
